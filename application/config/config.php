@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = getenv('BASE_URL');
-
+// $config['base_url'] = getenv('BASE_URL');
+$config['base_url'] = 'http://localhost/dtr-qrcode-system';
 /*
 |--------------------------------------------------------------------------
 | Index File
@@ -102,7 +102,7 @@ $config['charset'] = 'UTF-8';
 | setting this variable to TRUE (boolean).  See the user guide for details.
 |
 */
-$config['enable_hooks'] = FALSE;
+$config['enable_hooks'] = TRUE;
 
 /*
 |--------------------------------------------------------------------------
@@ -138,7 +138,7 @@ $config['subclass_prefix'] = 'MY_';
 | Note: This will NOT disable or override the CodeIgniter-specific
 |	autoloading (application/config/autoload.php)
 */
-$config['composer_autoload'] = FALSE;
+$config['composer_autoload'] = TRUE;
 
 /*
 |--------------------------------------------------------------------------
@@ -315,6 +315,13 @@ $config['cache_path'] = '';
 */
 $config['cache_query_string'] = FALSE;
 
+/* Enable Query Strings */
+$config['enable_query_strings'] = FALSE;
+$config['controller_trigger'] = 'c';
+$config['function_trigger'] = 'm';
+$config['directory_trigger'] = 'd';
+
+
 /*
 |--------------------------------------------------------------------------
 | Encryption Key
@@ -388,7 +395,7 @@ $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'ci_session';
 $config['sess_samesite'] = 'Lax';
 $config['sess_expiration'] = 7200;
-$config['sess_save_path'] = NULL;
+$config['sess_save_path'] = sys_get_temp_dir();
 
 $config['sess_match_ip'] = FALSE;
 $config['sess_time_to_update'] = 300;
