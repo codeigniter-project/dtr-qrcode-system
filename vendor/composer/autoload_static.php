@@ -16,10 +16,19 @@ class ComposerStaticInit89b15418880052be0d69c08d7a74817a
         array (
             'PhpParser\\' => 10,
         ),
+        'E' => 
+        array (
+            'Endroid\\QrCode\\' => 15,
+        ),
         'D' => 
         array (
             'Doctrine\\Instantiator\\' => 22,
             'DeepCopy\\' => 9,
+            'DASPRiD\\Enum\\' => 13,
+        ),
+        'B' => 
+        array (
+            'BaconQrCode\\' => 12,
         ),
     );
 
@@ -28,6 +37,10 @@ class ComposerStaticInit89b15418880052be0d69c08d7a74817a
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
+        'Endroid\\QrCode\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/endroid/qr-code/src',
+        ),
         'Doctrine\\Instantiator\\' => 
         array (
             0 => __DIR__ . '/..' . '/doctrine/instantiator/src/Doctrine/Instantiator',
@@ -35,6 +48,14 @@ class ComposerStaticInit89b15418880052be0d69c08d7a74817a
         'DeepCopy\\' => 
         array (
             0 => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy',
+        ),
+        'DASPRiD\\Enum\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/dasprid/enum/src',
+        ),
+        'BaconQrCode\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/bacon/bacon-qr-code/src',
         ),
     );
 

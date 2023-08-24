@@ -11079,3 +11079,11167 @@ INFO - 2023-08-23 10:33:02 --> Loader Class Initialized
 INFO - 2023-08-23 10:33:02 --> Database Driver Class Initialized
 INFO - 2023-08-23 10:33:02 --> Controller Class Initialized
 INFO - 2023-08-23 10:33:02 --> Model "employee" initialized
+INFO - 2023-08-23 13:58:30 --> Config Class Initialized
+INFO - 2023-08-23 13:58:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:30 --> URI Class Initialized
+INFO - 2023-08-23 13:58:30 --> Router Class Initialized
+INFO - 2023-08-23 13:58:30 --> Output Class Initialized
+INFO - 2023-08-23 13:58:30 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:30 --> Input Class Initialized
+INFO - 2023-08-23 13:58:30 --> Language Class Initialized
+INFO - 2023-08-23 13:58:30 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:30 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:30 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 13:58:30 --> Final output sent to browser
+DEBUG - 2023-08-23 13:58:30 --> Total execution time: 0.0531
+INFO - 2023-08-23 13:58:30 --> Config Class Initialized
+INFO - 2023-08-23 13:58:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:30 --> URI Class Initialized
+INFO - 2023-08-23 13:58:30 --> Router Class Initialized
+INFO - 2023-08-23 13:58:30 --> Output Class Initialized
+INFO - 2023-08-23 13:58:30 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:30 --> Input Class Initialized
+INFO - 2023-08-23 13:58:30 --> Language Class Initialized
+INFO - 2023-08-23 13:58:30 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:30 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:30 --> Model "employee" initialized
+INFO - 2023-08-23 13:58:41 --> Config Class Initialized
+INFO - 2023-08-23 13:58:41 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:41 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:41 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:41 --> URI Class Initialized
+INFO - 2023-08-23 13:58:41 --> Router Class Initialized
+INFO - 2023-08-23 13:58:41 --> Output Class Initialized
+INFO - 2023-08-23 13:58:41 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:41 --> Input Class Initialized
+INFO - 2023-08-23 13:58:41 --> Language Class Initialized
+INFO - 2023-08-23 13:58:41 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:41 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:41 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:41 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 13:58:41 --> Final output sent to browser
+DEBUG - 2023-08-23 13:58:41 --> Total execution time: 0.0032
+INFO - 2023-08-23 13:58:41 --> Config Class Initialized
+INFO - 2023-08-23 13:58:41 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:41 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:41 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:41 --> URI Class Initialized
+INFO - 2023-08-23 13:58:41 --> Router Class Initialized
+INFO - 2023-08-23 13:58:41 --> Output Class Initialized
+INFO - 2023-08-23 13:58:41 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:41 --> Input Class Initialized
+INFO - 2023-08-23 13:58:41 --> Language Class Initialized
+INFO - 2023-08-23 13:58:41 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:41 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:41 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:41 --> Model "sample_model" initialized
+INFO - 2023-08-23 13:58:42 --> Config Class Initialized
+INFO - 2023-08-23 13:58:42 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:42 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:42 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:42 --> URI Class Initialized
+INFO - 2023-08-23 13:58:42 --> Router Class Initialized
+INFO - 2023-08-23 13:58:42 --> Output Class Initialized
+INFO - 2023-08-23 13:58:42 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:42 --> Input Class Initialized
+INFO - 2023-08-23 13:58:42 --> Language Class Initialized
+INFO - 2023-08-23 13:58:42 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:42 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:42 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:42 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 13:58:42 --> Final output sent to browser
+DEBUG - 2023-08-23 13:58:42 --> Total execution time: 0.0039
+INFO - 2023-08-23 13:58:42 --> Config Class Initialized
+INFO - 2023-08-23 13:58:42 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:42 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:42 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:42 --> URI Class Initialized
+INFO - 2023-08-23 13:58:42 --> Router Class Initialized
+INFO - 2023-08-23 13:58:42 --> Output Class Initialized
+INFO - 2023-08-23 13:58:42 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:42 --> Input Class Initialized
+INFO - 2023-08-23 13:58:42 --> Language Class Initialized
+INFO - 2023-08-23 13:58:42 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:42 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:42 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:42 --> Model "sample_model" initialized
+INFO - 2023-08-23 13:58:43 --> Config Class Initialized
+INFO - 2023-08-23 13:58:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:43 --> URI Class Initialized
+INFO - 2023-08-23 13:58:43 --> Router Class Initialized
+INFO - 2023-08-23 13:58:43 --> Output Class Initialized
+INFO - 2023-08-23 13:58:43 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:43 --> Input Class Initialized
+INFO - 2023-08-23 13:58:43 --> Language Class Initialized
+INFO - 2023-08-23 13:58:43 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:43 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:43 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 13:58:43 --> Final output sent to browser
+DEBUG - 2023-08-23 13:58:43 --> Total execution time: 0.0037
+INFO - 2023-08-23 13:58:43 --> Config Class Initialized
+INFO - 2023-08-23 13:58:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:43 --> URI Class Initialized
+INFO - 2023-08-23 13:58:43 --> Router Class Initialized
+INFO - 2023-08-23 13:58:43 --> Output Class Initialized
+INFO - 2023-08-23 13:58:43 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:43 --> Input Class Initialized
+INFO - 2023-08-23 13:58:43 --> Language Class Initialized
+INFO - 2023-08-23 13:58:43 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:43 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:43 --> Model "employee" initialized
+INFO - 2023-08-23 13:58:43 --> Config Class Initialized
+INFO - 2023-08-23 13:58:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:43 --> URI Class Initialized
+INFO - 2023-08-23 13:58:43 --> Router Class Initialized
+INFO - 2023-08-23 13:58:43 --> Output Class Initialized
+INFO - 2023-08-23 13:58:43 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:43 --> Input Class Initialized
+INFO - 2023-08-23 13:58:43 --> Language Class Initialized
+INFO - 2023-08-23 13:58:43 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:43 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:43 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 13:58:43 --> Final output sent to browser
+DEBUG - 2023-08-23 13:58:43 --> Total execution time: 0.0037
+INFO - 2023-08-23 13:58:43 --> Config Class Initialized
+INFO - 2023-08-23 13:58:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:43 --> URI Class Initialized
+INFO - 2023-08-23 13:58:43 --> Router Class Initialized
+INFO - 2023-08-23 13:58:43 --> Output Class Initialized
+INFO - 2023-08-23 13:58:43 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:43 --> Input Class Initialized
+INFO - 2023-08-23 13:58:43 --> Language Class Initialized
+INFO - 2023-08-23 13:58:43 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:43 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:43 --> Model "sample_model" initialized
+INFO - 2023-08-23 13:58:44 --> Config Class Initialized
+INFO - 2023-08-23 13:58:44 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:44 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:44 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:44 --> URI Class Initialized
+INFO - 2023-08-23 13:58:44 --> Router Class Initialized
+INFO - 2023-08-23 13:58:44 --> Output Class Initialized
+INFO - 2023-08-23 13:58:44 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:44 --> Input Class Initialized
+INFO - 2023-08-23 13:58:44 --> Language Class Initialized
+INFO - 2023-08-23 13:58:44 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:44 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:44 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:44 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 13:58:44 --> Final output sent to browser
+DEBUG - 2023-08-23 13:58:44 --> Total execution time: 0.0055
+INFO - 2023-08-23 13:58:44 --> Config Class Initialized
+INFO - 2023-08-23 13:58:44 --> Hooks Class Initialized
+DEBUG - 2023-08-23 13:58:44 --> UTF-8 Support Enabled
+INFO - 2023-08-23 13:58:44 --> Utf8 Class Initialized
+INFO - 2023-08-23 13:58:44 --> URI Class Initialized
+INFO - 2023-08-23 13:58:44 --> Router Class Initialized
+INFO - 2023-08-23 13:58:44 --> Output Class Initialized
+INFO - 2023-08-23 13:58:44 --> Security Class Initialized
+DEBUG - 2023-08-23 13:58:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 13:58:44 --> Input Class Initialized
+INFO - 2023-08-23 13:58:44 --> Language Class Initialized
+INFO - 2023-08-23 13:58:44 --> Loader Class Initialized
+INFO - 2023-08-23 13:58:44 --> Database Driver Class Initialized
+INFO - 2023-08-23 13:58:44 --> Controller Class Initialized
+INFO - 2023-08-23 13:58:44 --> Model "employee" initialized
+INFO - 2023-08-23 14:25:18 --> Config Class Initialized
+INFO - 2023-08-23 14:25:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:25:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:25:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:25:18 --> URI Class Initialized
+INFO - 2023-08-23 14:25:18 --> Router Class Initialized
+INFO - 2023-08-23 14:25:18 --> Output Class Initialized
+INFO - 2023-08-23 14:25:18 --> Security Class Initialized
+DEBUG - 2023-08-23 14:25:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:25:18 --> Input Class Initialized
+INFO - 2023-08-23 14:25:18 --> Language Class Initialized
+INFO - 2023-08-23 14:25:18 --> Loader Class Initialized
+INFO - 2023-08-23 14:25:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:25:19 --> Controller Class Initialized
+INFO - 2023-08-23 14:25:19 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 14:25:19 --> Final output sent to browser
+DEBUG - 2023-08-23 14:25:19 --> Total execution time: 0.0361
+INFO - 2023-08-23 14:25:19 --> Config Class Initialized
+INFO - 2023-08-23 14:25:19 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:25:19 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:25:19 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:25:19 --> URI Class Initialized
+INFO - 2023-08-23 14:25:19 --> Router Class Initialized
+INFO - 2023-08-23 14:25:19 --> Output Class Initialized
+INFO - 2023-08-23 14:25:19 --> Security Class Initialized
+DEBUG - 2023-08-23 14:25:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:25:19 --> Input Class Initialized
+INFO - 2023-08-23 14:25:19 --> Language Class Initialized
+INFO - 2023-08-23 14:25:19 --> Loader Class Initialized
+INFO - 2023-08-23 14:25:19 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:25:19 --> Controller Class Initialized
+INFO - 2023-08-23 14:25:19 --> Model "employee" initialized
+INFO - 2023-08-23 14:25:20 --> Config Class Initialized
+INFO - 2023-08-23 14:25:20 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:25:20 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:25:20 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:25:20 --> URI Class Initialized
+INFO - 2023-08-23 14:25:20 --> Router Class Initialized
+INFO - 2023-08-23 14:25:20 --> Output Class Initialized
+INFO - 2023-08-23 14:25:20 --> Security Class Initialized
+DEBUG - 2023-08-23 14:25:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:25:20 --> Input Class Initialized
+INFO - 2023-08-23 14:25:20 --> Language Class Initialized
+INFO - 2023-08-23 14:25:20 --> Loader Class Initialized
+INFO - 2023-08-23 14:25:20 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:25:20 --> Controller Class Initialized
+INFO - 2023-08-23 14:25:20 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 14:25:20 --> Final output sent to browser
+DEBUG - 2023-08-23 14:25:20 --> Total execution time: 0.0031
+INFO - 2023-08-23 14:25:20 --> Config Class Initialized
+INFO - 2023-08-23 14:25:20 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:25:20 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:25:20 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:25:20 --> URI Class Initialized
+INFO - 2023-08-23 14:25:20 --> Router Class Initialized
+INFO - 2023-08-23 14:25:20 --> Output Class Initialized
+INFO - 2023-08-23 14:25:20 --> Security Class Initialized
+DEBUG - 2023-08-23 14:25:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:25:20 --> Input Class Initialized
+INFO - 2023-08-23 14:25:20 --> Language Class Initialized
+INFO - 2023-08-23 14:25:20 --> Loader Class Initialized
+INFO - 2023-08-23 14:25:20 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:25:20 --> Controller Class Initialized
+INFO - 2023-08-23 14:25:20 --> Model "sample_model" initialized
+INFO - 2023-08-23 14:25:21 --> Config Class Initialized
+INFO - 2023-08-23 14:25:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:25:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:25:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:25:21 --> URI Class Initialized
+INFO - 2023-08-23 14:25:21 --> Router Class Initialized
+INFO - 2023-08-23 14:25:21 --> Output Class Initialized
+INFO - 2023-08-23 14:25:21 --> Security Class Initialized
+DEBUG - 2023-08-23 14:25:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:25:21 --> Input Class Initialized
+INFO - 2023-08-23 14:25:21 --> Language Class Initialized
+INFO - 2023-08-23 14:25:21 --> Loader Class Initialized
+INFO - 2023-08-23 14:25:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:25:21 --> Controller Class Initialized
+INFO - 2023-08-23 14:25:21 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 14:25:21 --> Final output sent to browser
+DEBUG - 2023-08-23 14:25:21 --> Total execution time: 0.0051
+INFO - 2023-08-23 14:25:21 --> Config Class Initialized
+INFO - 2023-08-23 14:25:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:25:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:25:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:25:21 --> URI Class Initialized
+INFO - 2023-08-23 14:25:21 --> Router Class Initialized
+INFO - 2023-08-23 14:25:21 --> Output Class Initialized
+INFO - 2023-08-23 14:25:21 --> Security Class Initialized
+DEBUG - 2023-08-23 14:25:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:25:21 --> Input Class Initialized
+INFO - 2023-08-23 14:25:21 --> Language Class Initialized
+INFO - 2023-08-23 14:25:21 --> Loader Class Initialized
+INFO - 2023-08-23 14:25:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:25:21 --> Controller Class Initialized
+INFO - 2023-08-23 14:25:21 --> Model "employee" initialized
+INFO - 2023-08-23 14:25:21 --> Config Class Initialized
+INFO - 2023-08-23 14:25:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:25:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:25:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:25:21 --> URI Class Initialized
+INFO - 2023-08-23 14:25:21 --> Router Class Initialized
+INFO - 2023-08-23 14:25:21 --> Output Class Initialized
+INFO - 2023-08-23 14:25:21 --> Security Class Initialized
+DEBUG - 2023-08-23 14:25:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:25:21 --> Input Class Initialized
+INFO - 2023-08-23 14:25:21 --> Language Class Initialized
+INFO - 2023-08-23 14:25:21 --> Loader Class Initialized
+INFO - 2023-08-23 14:25:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:25:21 --> Controller Class Initialized
+INFO - 2023-08-23 14:25:21 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 14:25:21 --> Final output sent to browser
+DEBUG - 2023-08-23 14:25:21 --> Total execution time: 0.0043
+INFO - 2023-08-23 14:25:21 --> Config Class Initialized
+INFO - 2023-08-23 14:25:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:25:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:25:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:25:21 --> URI Class Initialized
+INFO - 2023-08-23 14:25:21 --> Router Class Initialized
+INFO - 2023-08-23 14:25:21 --> Output Class Initialized
+INFO - 2023-08-23 14:25:21 --> Security Class Initialized
+DEBUG - 2023-08-23 14:25:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:25:21 --> Input Class Initialized
+INFO - 2023-08-23 14:25:21 --> Language Class Initialized
+INFO - 2023-08-23 14:25:21 --> Loader Class Initialized
+INFO - 2023-08-23 14:25:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:25:21 --> Controller Class Initialized
+INFO - 2023-08-23 14:25:21 --> Model "sample_model" initialized
+INFO - 2023-08-23 14:27:06 --> Config Class Initialized
+INFO - 2023-08-23 14:27:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:06 --> URI Class Initialized
+INFO - 2023-08-23 14:27:06 --> Router Class Initialized
+INFO - 2023-08-23 14:27:06 --> Output Class Initialized
+INFO - 2023-08-23 14:27:06 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:06 --> Input Class Initialized
+INFO - 2023-08-23 14:27:06 --> Language Class Initialized
+INFO - 2023-08-23 14:27:06 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:06 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:06 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 14:27:06 --> Final output sent to browser
+DEBUG - 2023-08-23 14:27:06 --> Total execution time: 0.0080
+INFO - 2023-08-23 14:27:06 --> Config Class Initialized
+INFO - 2023-08-23 14:27:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:06 --> URI Class Initialized
+INFO - 2023-08-23 14:27:06 --> Router Class Initialized
+INFO - 2023-08-23 14:27:06 --> Output Class Initialized
+INFO - 2023-08-23 14:27:06 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:06 --> Input Class Initialized
+INFO - 2023-08-23 14:27:06 --> Language Class Initialized
+INFO - 2023-08-23 14:27:06 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:06 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:06 --> Model "sample_model" initialized
+INFO - 2023-08-23 14:27:07 --> Config Class Initialized
+INFO - 2023-08-23 14:27:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:07 --> URI Class Initialized
+INFO - 2023-08-23 14:27:07 --> Router Class Initialized
+INFO - 2023-08-23 14:27:07 --> Output Class Initialized
+INFO - 2023-08-23 14:27:07 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:07 --> Input Class Initialized
+INFO - 2023-08-23 14:27:07 --> Language Class Initialized
+INFO - 2023-08-23 14:27:07 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:07 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:07 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 14:27:07 --> Final output sent to browser
+DEBUG - 2023-08-23 14:27:07 --> Total execution time: 0.0047
+INFO - 2023-08-23 14:27:07 --> Config Class Initialized
+INFO - 2023-08-23 14:27:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:07 --> URI Class Initialized
+INFO - 2023-08-23 14:27:07 --> Router Class Initialized
+INFO - 2023-08-23 14:27:07 --> Output Class Initialized
+INFO - 2023-08-23 14:27:07 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:07 --> Input Class Initialized
+INFO - 2023-08-23 14:27:07 --> Language Class Initialized
+INFO - 2023-08-23 14:27:07 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:07 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:07 --> Model "employee" initialized
+INFO - 2023-08-23 14:27:07 --> Config Class Initialized
+INFO - 2023-08-23 14:27:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:07 --> URI Class Initialized
+INFO - 2023-08-23 14:27:07 --> Router Class Initialized
+INFO - 2023-08-23 14:27:07 --> Output Class Initialized
+INFO - 2023-08-23 14:27:07 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:07 --> Input Class Initialized
+INFO - 2023-08-23 14:27:07 --> Language Class Initialized
+INFO - 2023-08-23 14:27:07 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:07 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:07 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 14:27:07 --> Final output sent to browser
+DEBUG - 2023-08-23 14:27:07 --> Total execution time: 0.0034
+INFO - 2023-08-23 14:27:07 --> Config Class Initialized
+INFO - 2023-08-23 14:27:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:07 --> URI Class Initialized
+INFO - 2023-08-23 14:27:07 --> Router Class Initialized
+INFO - 2023-08-23 14:27:07 --> Output Class Initialized
+INFO - 2023-08-23 14:27:07 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:07 --> Input Class Initialized
+INFO - 2023-08-23 14:27:07 --> Language Class Initialized
+INFO - 2023-08-23 14:27:07 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:07 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:07 --> Model "sample_model" initialized
+INFO - 2023-08-23 14:27:08 --> Config Class Initialized
+INFO - 2023-08-23 14:27:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:08 --> URI Class Initialized
+INFO - 2023-08-23 14:27:08 --> Router Class Initialized
+INFO - 2023-08-23 14:27:08 --> Output Class Initialized
+INFO - 2023-08-23 14:27:08 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:08 --> Input Class Initialized
+INFO - 2023-08-23 14:27:08 --> Language Class Initialized
+INFO - 2023-08-23 14:27:08 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:08 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 14:27:08 --> Final output sent to browser
+DEBUG - 2023-08-23 14:27:08 --> Total execution time: 0.0038
+INFO - 2023-08-23 14:27:08 --> Config Class Initialized
+INFO - 2023-08-23 14:27:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:08 --> URI Class Initialized
+INFO - 2023-08-23 14:27:08 --> Router Class Initialized
+INFO - 2023-08-23 14:27:08 --> Output Class Initialized
+INFO - 2023-08-23 14:27:08 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:08 --> Input Class Initialized
+INFO - 2023-08-23 14:27:08 --> Language Class Initialized
+INFO - 2023-08-23 14:27:08 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:08 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:08 --> Model "employee" initialized
+INFO - 2023-08-23 14:27:08 --> Config Class Initialized
+INFO - 2023-08-23 14:27:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:08 --> URI Class Initialized
+INFO - 2023-08-23 14:27:08 --> Router Class Initialized
+INFO - 2023-08-23 14:27:08 --> Output Class Initialized
+INFO - 2023-08-23 14:27:08 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:08 --> Input Class Initialized
+INFO - 2023-08-23 14:27:08 --> Language Class Initialized
+INFO - 2023-08-23 14:27:08 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:08 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 14:27:08 --> Final output sent to browser
+DEBUG - 2023-08-23 14:27:08 --> Total execution time: 0.0039
+INFO - 2023-08-23 14:27:08 --> Config Class Initialized
+INFO - 2023-08-23 14:27:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:08 --> URI Class Initialized
+INFO - 2023-08-23 14:27:08 --> Router Class Initialized
+INFO - 2023-08-23 14:27:08 --> Output Class Initialized
+INFO - 2023-08-23 14:27:08 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:08 --> Input Class Initialized
+INFO - 2023-08-23 14:27:08 --> Language Class Initialized
+INFO - 2023-08-23 14:27:08 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:08 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:08 --> Model "sample_model" initialized
+INFO - 2023-08-23 14:27:09 --> Config Class Initialized
+INFO - 2023-08-23 14:27:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:09 --> URI Class Initialized
+INFO - 2023-08-23 14:27:09 --> Router Class Initialized
+INFO - 2023-08-23 14:27:09 --> Output Class Initialized
+INFO - 2023-08-23 14:27:09 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:09 --> Input Class Initialized
+INFO - 2023-08-23 14:27:09 --> Language Class Initialized
+INFO - 2023-08-23 14:27:09 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:09 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:09 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 14:27:09 --> Final output sent to browser
+DEBUG - 2023-08-23 14:27:09 --> Total execution time: 0.0043
+INFO - 2023-08-23 14:27:09 --> Config Class Initialized
+INFO - 2023-08-23 14:27:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:09 --> URI Class Initialized
+INFO - 2023-08-23 14:27:09 --> Router Class Initialized
+INFO - 2023-08-23 14:27:09 --> Output Class Initialized
+INFO - 2023-08-23 14:27:09 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:09 --> Input Class Initialized
+INFO - 2023-08-23 14:27:09 --> Language Class Initialized
+INFO - 2023-08-23 14:27:09 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:09 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:09 --> Model "employee" initialized
+INFO - 2023-08-23 14:27:50 --> Config Class Initialized
+INFO - 2023-08-23 14:27:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:50 --> URI Class Initialized
+INFO - 2023-08-23 14:27:50 --> Router Class Initialized
+INFO - 2023-08-23 14:27:50 --> Output Class Initialized
+INFO - 2023-08-23 14:27:50 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:50 --> Input Class Initialized
+INFO - 2023-08-23 14:27:50 --> Language Class Initialized
+INFO - 2023-08-23 14:27:50 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:50 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:50 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 14:27:50 --> Final output sent to browser
+DEBUG - 2023-08-23 14:27:50 --> Total execution time: 0.0074
+INFO - 2023-08-23 14:27:50 --> Config Class Initialized
+INFO - 2023-08-23 14:27:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:50 --> URI Class Initialized
+INFO - 2023-08-23 14:27:50 --> Router Class Initialized
+INFO - 2023-08-23 14:27:50 --> Output Class Initialized
+INFO - 2023-08-23 14:27:50 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:50 --> Input Class Initialized
+INFO - 2023-08-23 14:27:50 --> Language Class Initialized
+INFO - 2023-08-23 14:27:50 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:50 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:50 --> Model "employee" initialized
+INFO - 2023-08-23 14:27:53 --> Config Class Initialized
+INFO - 2023-08-23 14:27:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:53 --> URI Class Initialized
+DEBUG - 2023-08-23 14:27:53 --> No URI present. Default controller set.
+INFO - 2023-08-23 14:27:53 --> Router Class Initialized
+INFO - 2023-08-23 14:27:53 --> Output Class Initialized
+INFO - 2023-08-23 14:27:53 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:53 --> Input Class Initialized
+INFO - 2023-08-23 14:27:53 --> Language Class Initialized
+INFO - 2023-08-23 14:27:53 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:53 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:53 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/welcome_message.php
+INFO - 2023-08-23 14:27:53 --> Final output sent to browser
+DEBUG - 2023-08-23 14:27:53 --> Total execution time: 0.0119
+INFO - 2023-08-23 14:27:57 --> Config Class Initialized
+INFO - 2023-08-23 14:27:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:57 --> URI Class Initialized
+INFO - 2023-08-23 14:27:57 --> Router Class Initialized
+INFO - 2023-08-23 14:27:57 --> Output Class Initialized
+INFO - 2023-08-23 14:27:57 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:57 --> Input Class Initialized
+INFO - 2023-08-23 14:27:57 --> Language Class Initialized
+INFO - 2023-08-23 14:27:57 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:57 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:57 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 14:27:57 --> Final output sent to browser
+DEBUG - 2023-08-23 14:27:57 --> Total execution time: 0.0086
+INFO - 2023-08-23 14:27:57 --> Config Class Initialized
+INFO - 2023-08-23 14:27:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:27:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:27:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:27:57 --> URI Class Initialized
+INFO - 2023-08-23 14:27:57 --> Router Class Initialized
+INFO - 2023-08-23 14:27:57 --> Output Class Initialized
+INFO - 2023-08-23 14:27:57 --> Security Class Initialized
+DEBUG - 2023-08-23 14:27:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:27:57 --> Input Class Initialized
+INFO - 2023-08-23 14:27:57 --> Language Class Initialized
+INFO - 2023-08-23 14:27:57 --> Loader Class Initialized
+INFO - 2023-08-23 14:27:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:27:57 --> Controller Class Initialized
+INFO - 2023-08-23 14:27:57 --> Model "sample_model" initialized
+INFO - 2023-08-23 14:28:00 --> Config Class Initialized
+INFO - 2023-08-23 14:28:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:28:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:28:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:28:00 --> URI Class Initialized
+INFO - 2023-08-23 14:28:00 --> Router Class Initialized
+INFO - 2023-08-23 14:28:00 --> Output Class Initialized
+INFO - 2023-08-23 14:28:00 --> Security Class Initialized
+DEBUG - 2023-08-23 14:28:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:28:00 --> Input Class Initialized
+INFO - 2023-08-23 14:28:00 --> Language Class Initialized
+INFO - 2023-08-23 14:28:00 --> Loader Class Initialized
+INFO - 2023-08-23 14:28:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:28:00 --> Controller Class Initialized
+INFO - 2023-08-23 14:28:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 14:28:00 --> Final output sent to browser
+DEBUG - 2023-08-23 14:28:00 --> Total execution time: 0.0051
+INFO - 2023-08-23 14:28:00 --> Config Class Initialized
+INFO - 2023-08-23 14:28:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:28:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:28:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:28:00 --> URI Class Initialized
+INFO - 2023-08-23 14:28:00 --> Router Class Initialized
+INFO - 2023-08-23 14:28:00 --> Output Class Initialized
+INFO - 2023-08-23 14:28:00 --> Security Class Initialized
+DEBUG - 2023-08-23 14:28:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:28:00 --> Input Class Initialized
+INFO - 2023-08-23 14:28:00 --> Language Class Initialized
+INFO - 2023-08-23 14:28:00 --> Loader Class Initialized
+INFO - 2023-08-23 14:28:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:28:00 --> Controller Class Initialized
+INFO - 2023-08-23 14:28:00 --> Model "employee" initialized
+INFO - 2023-08-23 14:28:01 --> Config Class Initialized
+INFO - 2023-08-23 14:28:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:28:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:28:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:28:01 --> URI Class Initialized
+INFO - 2023-08-23 14:28:01 --> Router Class Initialized
+INFO - 2023-08-23 14:28:01 --> Output Class Initialized
+INFO - 2023-08-23 14:28:01 --> Security Class Initialized
+DEBUG - 2023-08-23 14:28:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:28:01 --> Input Class Initialized
+INFO - 2023-08-23 14:28:01 --> Language Class Initialized
+INFO - 2023-08-23 14:28:01 --> Loader Class Initialized
+INFO - 2023-08-23 14:28:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:28:01 --> Controller Class Initialized
+INFO - 2023-08-23 14:28:01 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 14:28:01 --> Final output sent to browser
+DEBUG - 2023-08-23 14:28:01 --> Total execution time: 0.0038
+INFO - 2023-08-23 14:28:01 --> Config Class Initialized
+INFO - 2023-08-23 14:28:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:28:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:28:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:28:01 --> URI Class Initialized
+INFO - 2023-08-23 14:28:01 --> Router Class Initialized
+INFO - 2023-08-23 14:28:01 --> Output Class Initialized
+INFO - 2023-08-23 14:28:01 --> Security Class Initialized
+DEBUG - 2023-08-23 14:28:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:28:01 --> Input Class Initialized
+INFO - 2023-08-23 14:28:01 --> Language Class Initialized
+INFO - 2023-08-23 14:28:01 --> Loader Class Initialized
+INFO - 2023-08-23 14:28:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:28:01 --> Controller Class Initialized
+INFO - 2023-08-23 14:28:01 --> Model "sample_model" initialized
+INFO - 2023-08-23 14:28:02 --> Config Class Initialized
+INFO - 2023-08-23 14:28:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:28:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:28:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:28:02 --> URI Class Initialized
+INFO - 2023-08-23 14:28:02 --> Router Class Initialized
+INFO - 2023-08-23 14:28:02 --> Output Class Initialized
+INFO - 2023-08-23 14:28:02 --> Security Class Initialized
+DEBUG - 2023-08-23 14:28:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:28:02 --> Input Class Initialized
+INFO - 2023-08-23 14:28:02 --> Language Class Initialized
+INFO - 2023-08-23 14:28:02 --> Loader Class Initialized
+INFO - 2023-08-23 14:28:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:28:02 --> Controller Class Initialized
+INFO - 2023-08-23 14:28:02 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 14:28:02 --> Final output sent to browser
+DEBUG - 2023-08-23 14:28:02 --> Total execution time: 0.0026
+INFO - 2023-08-23 14:28:02 --> Config Class Initialized
+INFO - 2023-08-23 14:28:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:28:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:28:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:28:02 --> URI Class Initialized
+INFO - 2023-08-23 14:28:02 --> Router Class Initialized
+INFO - 2023-08-23 14:28:02 --> Output Class Initialized
+INFO - 2023-08-23 14:28:02 --> Security Class Initialized
+DEBUG - 2023-08-23 14:28:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:28:02 --> Input Class Initialized
+INFO - 2023-08-23 14:28:02 --> Language Class Initialized
+INFO - 2023-08-23 14:28:02 --> Loader Class Initialized
+INFO - 2023-08-23 14:28:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:28:02 --> Controller Class Initialized
+INFO - 2023-08-23 14:28:02 --> Model "sample_model" initialized
+INFO - 2023-08-23 14:28:02 --> Config Class Initialized
+INFO - 2023-08-23 14:28:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:28:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:28:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:28:02 --> URI Class Initialized
+INFO - 2023-08-23 14:28:02 --> Router Class Initialized
+INFO - 2023-08-23 14:28:02 --> Output Class Initialized
+INFO - 2023-08-23 14:28:02 --> Security Class Initialized
+DEBUG - 2023-08-23 14:28:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:28:02 --> Input Class Initialized
+INFO - 2023-08-23 14:28:02 --> Language Class Initialized
+INFO - 2023-08-23 14:28:02 --> Loader Class Initialized
+INFO - 2023-08-23 14:28:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:28:02 --> Controller Class Initialized
+INFO - 2023-08-23 14:28:02 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 14:28:02 --> Final output sent to browser
+DEBUG - 2023-08-23 14:28:02 --> Total execution time: 0.0068
+INFO - 2023-08-23 14:28:02 --> Config Class Initialized
+INFO - 2023-08-23 14:28:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:28:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:28:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:28:02 --> URI Class Initialized
+INFO - 2023-08-23 14:28:02 --> Router Class Initialized
+INFO - 2023-08-23 14:28:02 --> Output Class Initialized
+INFO - 2023-08-23 14:28:02 --> Security Class Initialized
+DEBUG - 2023-08-23 14:28:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:28:02 --> Input Class Initialized
+INFO - 2023-08-23 14:28:02 --> Language Class Initialized
+INFO - 2023-08-23 14:28:02 --> Loader Class Initialized
+INFO - 2023-08-23 14:28:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:28:02 --> Controller Class Initialized
+INFO - 2023-08-23 14:28:02 --> Model "employee" initialized
+INFO - 2023-08-23 14:32:51 --> Config Class Initialized
+INFO - 2023-08-23 14:32:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:32:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:32:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:32:51 --> URI Class Initialized
+INFO - 2023-08-23 14:32:51 --> Router Class Initialized
+INFO - 2023-08-23 14:32:51 --> Output Class Initialized
+INFO - 2023-08-23 14:32:51 --> Security Class Initialized
+DEBUG - 2023-08-23 14:32:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:32:51 --> Input Class Initialized
+INFO - 2023-08-23 14:32:51 --> Language Class Initialized
+INFO - 2023-08-23 14:32:51 --> Loader Class Initialized
+INFO - 2023-08-23 14:32:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:32:51 --> Controller Class Initialized
+INFO - 2023-08-23 14:32:51 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:32:51 --> Final output sent to browser
+DEBUG - 2023-08-23 14:32:51 --> Total execution time: 0.0069
+INFO - 2023-08-23 14:34:30 --> Config Class Initialized
+INFO - 2023-08-23 14:34:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:34:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:34:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:34:30 --> URI Class Initialized
+INFO - 2023-08-23 14:34:30 --> Router Class Initialized
+INFO - 2023-08-23 14:34:30 --> Output Class Initialized
+INFO - 2023-08-23 14:34:30 --> Security Class Initialized
+DEBUG - 2023-08-23 14:34:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:34:30 --> Input Class Initialized
+INFO - 2023-08-23 14:34:30 --> Language Class Initialized
+INFO - 2023-08-23 14:34:30 --> Loader Class Initialized
+INFO - 2023-08-23 14:34:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:34:30 --> Controller Class Initialized
+INFO - 2023-08-23 14:34:30 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:34:30 --> Final output sent to browser
+DEBUG - 2023-08-23 14:34:30 --> Total execution time: 0.0081
+INFO - 2023-08-23 14:34:36 --> Config Class Initialized
+INFO - 2023-08-23 14:34:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:34:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:34:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:34:36 --> URI Class Initialized
+INFO - 2023-08-23 14:34:36 --> Router Class Initialized
+INFO - 2023-08-23 14:34:36 --> Output Class Initialized
+INFO - 2023-08-23 14:34:36 --> Security Class Initialized
+DEBUG - 2023-08-23 14:34:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:34:36 --> Input Class Initialized
+INFO - 2023-08-23 14:34:36 --> Language Class Initialized
+INFO - 2023-08-23 14:34:36 --> Loader Class Initialized
+INFO - 2023-08-23 14:34:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:34:36 --> Controller Class Initialized
+INFO - 2023-08-23 14:34:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:34:36 --> Final output sent to browser
+DEBUG - 2023-08-23 14:34:36 --> Total execution time: 0.0049
+INFO - 2023-08-23 14:34:37 --> Config Class Initialized
+INFO - 2023-08-23 14:34:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:34:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:34:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:34:37 --> URI Class Initialized
+INFO - 2023-08-23 14:34:37 --> Router Class Initialized
+INFO - 2023-08-23 14:34:37 --> Output Class Initialized
+INFO - 2023-08-23 14:34:37 --> Security Class Initialized
+DEBUG - 2023-08-23 14:34:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:34:37 --> Input Class Initialized
+INFO - 2023-08-23 14:34:37 --> Language Class Initialized
+INFO - 2023-08-23 14:34:37 --> Loader Class Initialized
+INFO - 2023-08-23 14:34:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:34:37 --> Controller Class Initialized
+INFO - 2023-08-23 14:34:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:34:37 --> Final output sent to browser
+DEBUG - 2023-08-23 14:34:37 --> Total execution time: 0.0047
+INFO - 2023-08-23 14:34:37 --> Config Class Initialized
+INFO - 2023-08-23 14:34:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:34:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:34:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:34:37 --> URI Class Initialized
+INFO - 2023-08-23 14:34:37 --> Router Class Initialized
+INFO - 2023-08-23 14:34:37 --> Output Class Initialized
+INFO - 2023-08-23 14:34:37 --> Security Class Initialized
+DEBUG - 2023-08-23 14:34:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:34:37 --> Input Class Initialized
+INFO - 2023-08-23 14:34:37 --> Language Class Initialized
+INFO - 2023-08-23 14:34:37 --> Loader Class Initialized
+INFO - 2023-08-23 14:34:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:34:37 --> Controller Class Initialized
+INFO - 2023-08-23 14:34:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:34:37 --> Final output sent to browser
+DEBUG - 2023-08-23 14:34:37 --> Total execution time: 0.0089
+INFO - 2023-08-23 14:35:15 --> Config Class Initialized
+INFO - 2023-08-23 14:35:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:35:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:35:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:35:15 --> URI Class Initialized
+INFO - 2023-08-23 14:35:15 --> Router Class Initialized
+INFO - 2023-08-23 14:35:15 --> Output Class Initialized
+INFO - 2023-08-23 14:35:15 --> Security Class Initialized
+DEBUG - 2023-08-23 14:35:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:35:15 --> Input Class Initialized
+INFO - 2023-08-23 14:35:15 --> Language Class Initialized
+INFO - 2023-08-23 14:35:15 --> Loader Class Initialized
+INFO - 2023-08-23 14:35:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:35:15 --> Controller Class Initialized
+INFO - 2023-08-23 14:35:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:35:15 --> Final output sent to browser
+DEBUG - 2023-08-23 14:35:15 --> Total execution time: 0.0035
+INFO - 2023-08-23 14:36:18 --> Config Class Initialized
+INFO - 2023-08-23 14:36:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:36:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:36:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:36:18 --> URI Class Initialized
+INFO - 2023-08-23 14:36:18 --> Router Class Initialized
+INFO - 2023-08-23 14:36:18 --> Output Class Initialized
+INFO - 2023-08-23 14:36:18 --> Security Class Initialized
+DEBUG - 2023-08-23 14:36:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:36:18 --> Input Class Initialized
+INFO - 2023-08-23 14:36:18 --> Language Class Initialized
+INFO - 2023-08-23 14:36:18 --> Loader Class Initialized
+INFO - 2023-08-23 14:36:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:36:18 --> Controller Class Initialized
+INFO - 2023-08-23 14:36:18 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:36:18 --> Final output sent to browser
+DEBUG - 2023-08-23 14:36:18 --> Total execution time: 0.0098
+INFO - 2023-08-23 14:37:50 --> Config Class Initialized
+INFO - 2023-08-23 14:37:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:37:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:37:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:37:50 --> URI Class Initialized
+INFO - 2023-08-23 14:37:50 --> Router Class Initialized
+INFO - 2023-08-23 14:37:50 --> Output Class Initialized
+INFO - 2023-08-23 14:37:50 --> Security Class Initialized
+DEBUG - 2023-08-23 14:37:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:37:50 --> Input Class Initialized
+INFO - 2023-08-23 14:37:50 --> Language Class Initialized
+INFO - 2023-08-23 14:37:50 --> Loader Class Initialized
+INFO - 2023-08-23 14:37:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:37:50 --> Controller Class Initialized
+INFO - 2023-08-23 14:37:50 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:37:50 --> Final output sent to browser
+DEBUG - 2023-08-23 14:37:50 --> Total execution time: 0.0087
+INFO - 2023-08-23 14:37:58 --> Config Class Initialized
+INFO - 2023-08-23 14:37:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:37:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:37:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:37:58 --> URI Class Initialized
+INFO - 2023-08-23 14:37:58 --> Router Class Initialized
+INFO - 2023-08-23 14:37:58 --> Output Class Initialized
+INFO - 2023-08-23 14:37:58 --> Security Class Initialized
+DEBUG - 2023-08-23 14:37:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:37:58 --> Input Class Initialized
+INFO - 2023-08-23 14:37:58 --> Language Class Initialized
+INFO - 2023-08-23 14:37:58 --> Loader Class Initialized
+INFO - 2023-08-23 14:37:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:37:58 --> Controller Class Initialized
+INFO - 2023-08-23 14:37:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:37:58 --> Final output sent to browser
+DEBUG - 2023-08-23 14:37:58 --> Total execution time: 0.0087
+INFO - 2023-08-23 14:37:58 --> Config Class Initialized
+INFO - 2023-08-23 14:37:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:37:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:37:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:37:58 --> URI Class Initialized
+INFO - 2023-08-23 14:37:58 --> Router Class Initialized
+INFO - 2023-08-23 14:37:58 --> Output Class Initialized
+INFO - 2023-08-23 14:37:58 --> Security Class Initialized
+DEBUG - 2023-08-23 14:37:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:37:58 --> Input Class Initialized
+INFO - 2023-08-23 14:37:58 --> Language Class Initialized
+INFO - 2023-08-23 14:37:58 --> Loader Class Initialized
+INFO - 2023-08-23 14:37:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:37:58 --> Controller Class Initialized
+INFO - 2023-08-23 14:37:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:37:58 --> Final output sent to browser
+DEBUG - 2023-08-23 14:37:58 --> Total execution time: 0.0039
+INFO - 2023-08-23 14:37:59 --> Config Class Initialized
+INFO - 2023-08-23 14:37:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:37:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:37:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:37:59 --> URI Class Initialized
+INFO - 2023-08-23 14:37:59 --> Router Class Initialized
+INFO - 2023-08-23 14:37:59 --> Output Class Initialized
+INFO - 2023-08-23 14:37:59 --> Security Class Initialized
+DEBUG - 2023-08-23 14:37:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:37:59 --> Input Class Initialized
+INFO - 2023-08-23 14:37:59 --> Language Class Initialized
+INFO - 2023-08-23 14:37:59 --> Loader Class Initialized
+INFO - 2023-08-23 14:37:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:37:59 --> Controller Class Initialized
+INFO - 2023-08-23 14:37:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:37:59 --> Final output sent to browser
+DEBUG - 2023-08-23 14:37:59 --> Total execution time: 0.0047
+INFO - 2023-08-23 14:37:59 --> Config Class Initialized
+INFO - 2023-08-23 14:37:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:37:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:37:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:37:59 --> URI Class Initialized
+INFO - 2023-08-23 14:37:59 --> Router Class Initialized
+INFO - 2023-08-23 14:37:59 --> Output Class Initialized
+INFO - 2023-08-23 14:37:59 --> Security Class Initialized
+DEBUG - 2023-08-23 14:37:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:37:59 --> Input Class Initialized
+INFO - 2023-08-23 14:37:59 --> Language Class Initialized
+INFO - 2023-08-23 14:37:59 --> Loader Class Initialized
+INFO - 2023-08-23 14:37:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:37:59 --> Controller Class Initialized
+INFO - 2023-08-23 14:37:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:37:59 --> Final output sent to browser
+DEBUG - 2023-08-23 14:37:59 --> Total execution time: 0.0042
+INFO - 2023-08-23 14:40:16 --> Config Class Initialized
+INFO - 2023-08-23 14:40:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:40:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:40:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:40:16 --> URI Class Initialized
+INFO - 2023-08-23 14:40:16 --> Router Class Initialized
+INFO - 2023-08-23 14:40:16 --> Output Class Initialized
+INFO - 2023-08-23 14:40:16 --> Security Class Initialized
+DEBUG - 2023-08-23 14:40:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:40:16 --> Input Class Initialized
+INFO - 2023-08-23 14:40:16 --> Language Class Initialized
+INFO - 2023-08-23 14:40:16 --> Loader Class Initialized
+INFO - 2023-08-23 14:40:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:40:16 --> Controller Class Initialized
+INFO - 2023-08-23 14:40:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:40:16 --> Final output sent to browser
+DEBUG - 2023-08-23 14:40:16 --> Total execution time: 0.0093
+INFO - 2023-08-23 14:40:22 --> Config Class Initialized
+INFO - 2023-08-23 14:40:22 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:40:22 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:40:22 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:40:22 --> URI Class Initialized
+INFO - 2023-08-23 14:40:22 --> Router Class Initialized
+INFO - 2023-08-23 14:40:22 --> Output Class Initialized
+INFO - 2023-08-23 14:40:22 --> Security Class Initialized
+DEBUG - 2023-08-23 14:40:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:40:22 --> Input Class Initialized
+INFO - 2023-08-23 14:40:22 --> Language Class Initialized
+INFO - 2023-08-23 14:40:22 --> Loader Class Initialized
+INFO - 2023-08-23 14:40:22 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:40:22 --> Controller Class Initialized
+INFO - 2023-08-23 14:40:22 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:40:22 --> Final output sent to browser
+DEBUG - 2023-08-23 14:40:22 --> Total execution time: 0.0061
+INFO - 2023-08-23 14:41:48 --> Config Class Initialized
+INFO - 2023-08-23 14:41:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:41:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:41:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:41:48 --> URI Class Initialized
+INFO - 2023-08-23 14:41:48 --> Router Class Initialized
+INFO - 2023-08-23 14:41:48 --> Output Class Initialized
+INFO - 2023-08-23 14:41:48 --> Security Class Initialized
+DEBUG - 2023-08-23 14:41:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:41:48 --> Input Class Initialized
+INFO - 2023-08-23 14:41:48 --> Language Class Initialized
+INFO - 2023-08-23 14:41:48 --> Loader Class Initialized
+INFO - 2023-08-23 14:41:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:41:48 --> Controller Class Initialized
+INFO - 2023-08-23 14:41:48 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:41:48 --> Final output sent to browser
+DEBUG - 2023-08-23 14:41:48 --> Total execution time: 0.0088
+INFO - 2023-08-23 14:42:47 --> Config Class Initialized
+INFO - 2023-08-23 14:42:47 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:42:47 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:42:47 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:42:47 --> URI Class Initialized
+INFO - 2023-08-23 14:42:47 --> Router Class Initialized
+INFO - 2023-08-23 14:42:47 --> Output Class Initialized
+INFO - 2023-08-23 14:42:47 --> Security Class Initialized
+DEBUG - 2023-08-23 14:42:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:42:47 --> Input Class Initialized
+INFO - 2023-08-23 14:42:47 --> Language Class Initialized
+INFO - 2023-08-23 14:42:47 --> Loader Class Initialized
+INFO - 2023-08-23 14:42:47 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:42:47 --> Controller Class Initialized
+INFO - 2023-08-23 14:42:47 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:42:47 --> Final output sent to browser
+DEBUG - 2023-08-23 14:42:47 --> Total execution time: 0.0086
+INFO - 2023-08-23 14:46:55 --> Config Class Initialized
+INFO - 2023-08-23 14:46:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:46:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:46:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:46:55 --> URI Class Initialized
+INFO - 2023-08-23 14:46:55 --> Router Class Initialized
+INFO - 2023-08-23 14:46:55 --> Output Class Initialized
+INFO - 2023-08-23 14:46:55 --> Security Class Initialized
+DEBUG - 2023-08-23 14:46:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:46:55 --> Input Class Initialized
+INFO - 2023-08-23 14:46:55 --> Language Class Initialized
+INFO - 2023-08-23 14:46:55 --> Loader Class Initialized
+INFO - 2023-08-23 14:46:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:46:55 --> Controller Class Initialized
+INFO - 2023-08-23 14:46:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:46:55 --> Final output sent to browser
+DEBUG - 2023-08-23 14:46:55 --> Total execution time: 0.0106
+INFO - 2023-08-23 14:48:35 --> Config Class Initialized
+INFO - 2023-08-23 14:48:35 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:48:35 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:48:35 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:48:35 --> URI Class Initialized
+INFO - 2023-08-23 14:48:35 --> Router Class Initialized
+INFO - 2023-08-23 14:48:35 --> Output Class Initialized
+INFO - 2023-08-23 14:48:35 --> Security Class Initialized
+DEBUG - 2023-08-23 14:48:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:48:35 --> Input Class Initialized
+INFO - 2023-08-23 14:48:35 --> Language Class Initialized
+INFO - 2023-08-23 14:48:35 --> Loader Class Initialized
+INFO - 2023-08-23 14:48:35 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:48:35 --> Controller Class Initialized
+INFO - 2023-08-23 14:48:35 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:48:35 --> Final output sent to browser
+DEBUG - 2023-08-23 14:48:35 --> Total execution time: 0.0062
+INFO - 2023-08-23 14:53:27 --> Config Class Initialized
+INFO - 2023-08-23 14:53:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:53:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:53:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:53:27 --> URI Class Initialized
+INFO - 2023-08-23 14:53:27 --> Router Class Initialized
+INFO - 2023-08-23 14:53:27 --> Output Class Initialized
+INFO - 2023-08-23 14:53:27 --> Security Class Initialized
+DEBUG - 2023-08-23 14:53:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:53:27 --> Input Class Initialized
+INFO - 2023-08-23 14:53:27 --> Language Class Initialized
+INFO - 2023-08-23 14:53:27 --> Loader Class Initialized
+INFO - 2023-08-23 14:53:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:53:27 --> Controller Class Initialized
+INFO - 2023-08-23 14:53:27 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:53:27 --> Final output sent to browser
+DEBUG - 2023-08-23 14:53:27 --> Total execution time: 0.0079
+INFO - 2023-08-23 14:58:27 --> Config Class Initialized
+INFO - 2023-08-23 14:58:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 14:58:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 14:58:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 14:58:27 --> URI Class Initialized
+INFO - 2023-08-23 14:58:27 --> Router Class Initialized
+INFO - 2023-08-23 14:58:27 --> Output Class Initialized
+INFO - 2023-08-23 14:58:27 --> Security Class Initialized
+DEBUG - 2023-08-23 14:58:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 14:58:27 --> Input Class Initialized
+INFO - 2023-08-23 14:58:27 --> Language Class Initialized
+INFO - 2023-08-23 14:58:27 --> Loader Class Initialized
+INFO - 2023-08-23 14:58:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 14:58:27 --> Controller Class Initialized
+INFO - 2023-08-23 14:58:27 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 14:58:27 --> Final output sent to browser
+DEBUG - 2023-08-23 14:58:27 --> Total execution time: 0.0098
+INFO - 2023-08-23 15:00:43 --> Config Class Initialized
+INFO - 2023-08-23 15:00:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:00:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:00:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:00:43 --> URI Class Initialized
+INFO - 2023-08-23 15:00:43 --> Router Class Initialized
+INFO - 2023-08-23 15:00:43 --> Output Class Initialized
+INFO - 2023-08-23 15:00:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:00:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:00:43 --> Input Class Initialized
+INFO - 2023-08-23 15:00:43 --> Language Class Initialized
+INFO - 2023-08-23 15:00:43 --> Loader Class Initialized
+INFO - 2023-08-23 15:00:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:00:43 --> Controller Class Initialized
+INFO - 2023-08-23 15:00:43 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:00:43 --> Final output sent to browser
+DEBUG - 2023-08-23 15:00:43 --> Total execution time: 0.0157
+INFO - 2023-08-23 15:02:47 --> Config Class Initialized
+INFO - 2023-08-23 15:02:47 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:02:47 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:02:47 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:02:47 --> URI Class Initialized
+INFO - 2023-08-23 15:02:47 --> Router Class Initialized
+INFO - 2023-08-23 15:02:47 --> Output Class Initialized
+INFO - 2023-08-23 15:02:47 --> Security Class Initialized
+DEBUG - 2023-08-23 15:02:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:02:47 --> Input Class Initialized
+INFO - 2023-08-23 15:02:47 --> Language Class Initialized
+INFO - 2023-08-23 15:02:47 --> Loader Class Initialized
+INFO - 2023-08-23 15:02:47 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:02:47 --> Controller Class Initialized
+INFO - 2023-08-23 15:02:47 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:02:47 --> Final output sent to browser
+DEBUG - 2023-08-23 15:02:47 --> Total execution time: 0.0106
+INFO - 2023-08-23 15:05:21 --> Config Class Initialized
+INFO - 2023-08-23 15:05:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:05:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:05:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:05:21 --> URI Class Initialized
+INFO - 2023-08-23 15:05:21 --> Router Class Initialized
+INFO - 2023-08-23 15:05:21 --> Output Class Initialized
+INFO - 2023-08-23 15:05:21 --> Security Class Initialized
+DEBUG - 2023-08-23 15:05:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:05:21 --> Input Class Initialized
+INFO - 2023-08-23 15:05:21 --> Language Class Initialized
+INFO - 2023-08-23 15:05:21 --> Loader Class Initialized
+INFO - 2023-08-23 15:05:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:05:21 --> Controller Class Initialized
+ERROR - 2023-08-23 15:05:21 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:05:40 --> Config Class Initialized
+INFO - 2023-08-23 15:05:40 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:05:40 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:05:40 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:05:40 --> URI Class Initialized
+INFO - 2023-08-23 15:05:40 --> Router Class Initialized
+INFO - 2023-08-23 15:05:40 --> Output Class Initialized
+INFO - 2023-08-23 15:05:40 --> Security Class Initialized
+DEBUG - 2023-08-23 15:05:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:05:40 --> Input Class Initialized
+INFO - 2023-08-23 15:05:40 --> Language Class Initialized
+INFO - 2023-08-23 15:05:40 --> Loader Class Initialized
+INFO - 2023-08-23 15:05:40 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:05:40 --> Controller Class Initialized
+ERROR - 2023-08-23 15:05:40 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:05:45 --> Config Class Initialized
+INFO - 2023-08-23 15:05:45 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:05:45 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:05:45 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:05:45 --> URI Class Initialized
+INFO - 2023-08-23 15:05:45 --> Router Class Initialized
+INFO - 2023-08-23 15:05:45 --> Output Class Initialized
+INFO - 2023-08-23 15:05:45 --> Security Class Initialized
+DEBUG - 2023-08-23 15:05:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:05:45 --> Input Class Initialized
+INFO - 2023-08-23 15:05:45 --> Language Class Initialized
+INFO - 2023-08-23 15:05:45 --> Loader Class Initialized
+INFO - 2023-08-23 15:05:45 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:05:45 --> Controller Class Initialized
+ERROR - 2023-08-23 15:05:45 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:05:46 --> Config Class Initialized
+INFO - 2023-08-23 15:05:46 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:05:46 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:05:46 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:05:46 --> URI Class Initialized
+INFO - 2023-08-23 15:05:46 --> Router Class Initialized
+INFO - 2023-08-23 15:05:46 --> Output Class Initialized
+INFO - 2023-08-23 15:05:46 --> Security Class Initialized
+DEBUG - 2023-08-23 15:05:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:05:46 --> Input Class Initialized
+INFO - 2023-08-23 15:05:46 --> Language Class Initialized
+INFO - 2023-08-23 15:05:46 --> Loader Class Initialized
+INFO - 2023-08-23 15:05:46 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:05:46 --> Controller Class Initialized
+ERROR - 2023-08-23 15:05:46 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:05:54 --> Config Class Initialized
+INFO - 2023-08-23 15:05:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:05:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:05:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:05:54 --> URI Class Initialized
+INFO - 2023-08-23 15:05:54 --> Router Class Initialized
+INFO - 2023-08-23 15:05:54 --> Output Class Initialized
+INFO - 2023-08-23 15:05:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:05:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:05:54 --> Input Class Initialized
+INFO - 2023-08-23 15:05:54 --> Language Class Initialized
+INFO - 2023-08-23 15:05:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:05:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:05:54 --> Controller Class Initialized
+ERROR - 2023-08-23 15:05:54 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:06:15 --> Config Class Initialized
+INFO - 2023-08-23 15:06:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:06:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:06:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:06:15 --> URI Class Initialized
+INFO - 2023-08-23 15:06:15 --> Router Class Initialized
+INFO - 2023-08-23 15:06:15 --> Output Class Initialized
+INFO - 2023-08-23 15:06:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:06:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:06:15 --> Input Class Initialized
+INFO - 2023-08-23 15:06:15 --> Language Class Initialized
+INFO - 2023-08-23 15:06:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:06:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:06:15 --> Controller Class Initialized
+ERROR - 2023-08-23 15:06:15 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:07:26 --> Config Class Initialized
+INFO - 2023-08-23 15:07:26 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:07:26 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:07:26 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:07:26 --> URI Class Initialized
+INFO - 2023-08-23 15:07:26 --> Router Class Initialized
+INFO - 2023-08-23 15:07:26 --> Output Class Initialized
+INFO - 2023-08-23 15:07:26 --> Security Class Initialized
+DEBUG - 2023-08-23 15:07:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:07:26 --> Input Class Initialized
+INFO - 2023-08-23 15:07:26 --> Language Class Initialized
+INFO - 2023-08-23 15:07:26 --> Loader Class Initialized
+INFO - 2023-08-23 15:07:26 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:07:26 --> Controller Class Initialized
+ERROR - 2023-08-23 15:07:26 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:07:31 --> Config Class Initialized
+INFO - 2023-08-23 15:07:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:07:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:07:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:07:31 --> URI Class Initialized
+INFO - 2023-08-23 15:07:31 --> Router Class Initialized
+INFO - 2023-08-23 15:07:31 --> Output Class Initialized
+INFO - 2023-08-23 15:07:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:07:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:07:31 --> Input Class Initialized
+INFO - 2023-08-23 15:07:31 --> Language Class Initialized
+INFO - 2023-08-23 15:07:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:07:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:07:31 --> Controller Class Initialized
+ERROR - 2023-08-23 15:07:31 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:07:38 --> Config Class Initialized
+INFO - 2023-08-23 15:07:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:07:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:07:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:07:38 --> URI Class Initialized
+INFO - 2023-08-23 15:07:38 --> Router Class Initialized
+INFO - 2023-08-23 15:07:38 --> Output Class Initialized
+INFO - 2023-08-23 15:07:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:07:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:07:38 --> Input Class Initialized
+INFO - 2023-08-23 15:07:38 --> Language Class Initialized
+INFO - 2023-08-23 15:07:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:07:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:07:38 --> Controller Class Initialized
+ERROR - 2023-08-23 15:07:38 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:08:03 --> Config Class Initialized
+INFO - 2023-08-23 15:08:03 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:08:03 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:08:03 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:08:03 --> URI Class Initialized
+INFO - 2023-08-23 15:08:03 --> Router Class Initialized
+INFO - 2023-08-23 15:08:03 --> Output Class Initialized
+INFO - 2023-08-23 15:08:03 --> Security Class Initialized
+DEBUG - 2023-08-23 15:08:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:08:03 --> Input Class Initialized
+INFO - 2023-08-23 15:08:03 --> Language Class Initialized
+INFO - 2023-08-23 15:08:03 --> Loader Class Initialized
+INFO - 2023-08-23 15:08:03 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:08:03 --> Controller Class Initialized
+ERROR - 2023-08-23 15:08:03 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:08:43 --> Config Class Initialized
+INFO - 2023-08-23 15:08:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:08:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:08:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:08:43 --> URI Class Initialized
+INFO - 2023-08-23 15:08:43 --> Router Class Initialized
+INFO - 2023-08-23 15:08:43 --> Output Class Initialized
+INFO - 2023-08-23 15:08:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:08:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:08:43 --> Input Class Initialized
+INFO - 2023-08-23 15:08:43 --> Language Class Initialized
+INFO - 2023-08-23 15:08:43 --> Loader Class Initialized
+INFO - 2023-08-23 15:08:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:08:43 --> Controller Class Initialized
+ERROR - 2023-08-23 15:08:43 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:08:48 --> Config Class Initialized
+INFO - 2023-08-23 15:08:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:08:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:08:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:08:48 --> URI Class Initialized
+INFO - 2023-08-23 15:08:48 --> Router Class Initialized
+INFO - 2023-08-23 15:08:48 --> Output Class Initialized
+INFO - 2023-08-23 15:08:48 --> Security Class Initialized
+DEBUG - 2023-08-23 15:08:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:08:48 --> Input Class Initialized
+INFO - 2023-08-23 15:08:48 --> Language Class Initialized
+INFO - 2023-08-23 15:08:48 --> Loader Class Initialized
+INFO - 2023-08-23 15:08:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:08:48 --> Controller Class Initialized
+ERROR - 2023-08-23 15:08:48 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:08:53 --> Config Class Initialized
+INFO - 2023-08-23 15:08:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:08:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:08:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:08:53 --> URI Class Initialized
+INFO - 2023-08-23 15:08:53 --> Router Class Initialized
+INFO - 2023-08-23 15:08:53 --> Output Class Initialized
+INFO - 2023-08-23 15:08:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:08:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:08:53 --> Input Class Initialized
+INFO - 2023-08-23 15:08:53 --> Language Class Initialized
+INFO - 2023-08-23 15:08:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:08:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:08:53 --> Controller Class Initialized
+ERROR - 2023-08-23 15:08:53 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:08:54 --> Config Class Initialized
+INFO - 2023-08-23 15:08:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:08:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:08:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:08:54 --> URI Class Initialized
+INFO - 2023-08-23 15:08:54 --> Router Class Initialized
+INFO - 2023-08-23 15:08:54 --> Output Class Initialized
+INFO - 2023-08-23 15:08:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:08:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:08:54 --> Input Class Initialized
+INFO - 2023-08-23 15:08:54 --> Language Class Initialized
+INFO - 2023-08-23 15:08:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:08:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:08:54 --> Controller Class Initialized
+ERROR - 2023-08-23 15:08:54 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:08:54 --> Config Class Initialized
+INFO - 2023-08-23 15:08:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:08:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:08:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:08:54 --> URI Class Initialized
+INFO - 2023-08-23 15:08:54 --> Router Class Initialized
+INFO - 2023-08-23 15:08:54 --> Output Class Initialized
+INFO - 2023-08-23 15:08:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:08:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:08:54 --> Input Class Initialized
+INFO - 2023-08-23 15:08:54 --> Language Class Initialized
+INFO - 2023-08-23 15:08:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:08:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:08:54 --> Controller Class Initialized
+ERROR - 2023-08-23 15:08:54 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:08:54 --> Config Class Initialized
+INFO - 2023-08-23 15:08:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:08:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:08:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:08:54 --> URI Class Initialized
+INFO - 2023-08-23 15:08:54 --> Router Class Initialized
+INFO - 2023-08-23 15:08:54 --> Output Class Initialized
+INFO - 2023-08-23 15:08:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:08:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:08:54 --> Input Class Initialized
+INFO - 2023-08-23 15:08:54 --> Language Class Initialized
+INFO - 2023-08-23 15:08:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:08:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:08:54 --> Controller Class Initialized
+ERROR - 2023-08-23 15:08:54 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:09:22 --> Config Class Initialized
+INFO - 2023-08-23 15:09:22 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:09:22 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:09:22 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:09:22 --> URI Class Initialized
+INFO - 2023-08-23 15:09:22 --> Router Class Initialized
+INFO - 2023-08-23 15:09:22 --> Output Class Initialized
+INFO - 2023-08-23 15:09:22 --> Security Class Initialized
+DEBUG - 2023-08-23 15:09:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:09:22 --> Input Class Initialized
+INFO - 2023-08-23 15:09:22 --> Language Class Initialized
+INFO - 2023-08-23 15:09:22 --> Loader Class Initialized
+INFO - 2023-08-23 15:09:22 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:09:22 --> Controller Class Initialized
+ERROR - 2023-08-23 15:09:22 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:09:29 --> Config Class Initialized
+INFO - 2023-08-23 15:09:29 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:09:29 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:09:29 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:09:29 --> URI Class Initialized
+INFO - 2023-08-23 15:09:29 --> Router Class Initialized
+INFO - 2023-08-23 15:09:29 --> Output Class Initialized
+INFO - 2023-08-23 15:09:29 --> Security Class Initialized
+DEBUG - 2023-08-23 15:09:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:09:29 --> Input Class Initialized
+INFO - 2023-08-23 15:09:29 --> Language Class Initialized
+INFO - 2023-08-23 15:09:29 --> Loader Class Initialized
+INFO - 2023-08-23 15:09:29 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:09:29 --> Controller Class Initialized
+ERROR - 2023-08-23 15:09:29 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:06 --> Config Class Initialized
+INFO - 2023-08-23 15:10:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:06 --> URI Class Initialized
+INFO - 2023-08-23 15:10:06 --> Router Class Initialized
+INFO - 2023-08-23 15:10:06 --> Output Class Initialized
+INFO - 2023-08-23 15:10:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:06 --> Input Class Initialized
+INFO - 2023-08-23 15:10:06 --> Language Class Initialized
+INFO - 2023-08-23 15:10:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:06 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:06 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:07 --> Config Class Initialized
+INFO - 2023-08-23 15:10:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:07 --> URI Class Initialized
+INFO - 2023-08-23 15:10:07 --> Router Class Initialized
+INFO - 2023-08-23 15:10:07 --> Output Class Initialized
+INFO - 2023-08-23 15:10:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:07 --> Input Class Initialized
+INFO - 2023-08-23 15:10:07 --> Language Class Initialized
+INFO - 2023-08-23 15:10:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:07 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:07 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:24 --> Config Class Initialized
+INFO - 2023-08-23 15:10:24 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:24 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:24 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:24 --> URI Class Initialized
+INFO - 2023-08-23 15:10:24 --> Router Class Initialized
+INFO - 2023-08-23 15:10:24 --> Output Class Initialized
+INFO - 2023-08-23 15:10:24 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:24 --> Input Class Initialized
+INFO - 2023-08-23 15:10:24 --> Language Class Initialized
+INFO - 2023-08-23 15:10:24 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:24 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:24 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:24 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:24 --> Config Class Initialized
+INFO - 2023-08-23 15:10:24 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:24 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:24 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:24 --> URI Class Initialized
+INFO - 2023-08-23 15:10:24 --> Router Class Initialized
+INFO - 2023-08-23 15:10:24 --> Output Class Initialized
+INFO - 2023-08-23 15:10:24 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:24 --> Input Class Initialized
+INFO - 2023-08-23 15:10:24 --> Language Class Initialized
+INFO - 2023-08-23 15:10:24 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:24 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:24 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:24 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:25 --> Config Class Initialized
+INFO - 2023-08-23 15:10:25 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:25 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:25 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:25 --> URI Class Initialized
+INFO - 2023-08-23 15:10:25 --> Router Class Initialized
+INFO - 2023-08-23 15:10:25 --> Output Class Initialized
+INFO - 2023-08-23 15:10:25 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:25 --> Input Class Initialized
+INFO - 2023-08-23 15:10:25 --> Language Class Initialized
+INFO - 2023-08-23 15:10:25 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:25 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:25 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:25 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:33 --> Config Class Initialized
+INFO - 2023-08-23 15:10:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:33 --> URI Class Initialized
+INFO - 2023-08-23 15:10:33 --> Router Class Initialized
+INFO - 2023-08-23 15:10:33 --> Output Class Initialized
+INFO - 2023-08-23 15:10:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:33 --> Input Class Initialized
+INFO - 2023-08-23 15:10:33 --> Language Class Initialized
+INFO - 2023-08-23 15:10:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:33 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:33 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:33 --> Config Class Initialized
+INFO - 2023-08-23 15:10:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:33 --> URI Class Initialized
+INFO - 2023-08-23 15:10:33 --> Router Class Initialized
+INFO - 2023-08-23 15:10:33 --> Output Class Initialized
+INFO - 2023-08-23 15:10:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:33 --> Input Class Initialized
+INFO - 2023-08-23 15:10:33 --> Language Class Initialized
+INFO - 2023-08-23 15:10:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:33 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:33 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:33 --> Config Class Initialized
+INFO - 2023-08-23 15:10:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:33 --> URI Class Initialized
+INFO - 2023-08-23 15:10:33 --> Router Class Initialized
+INFO - 2023-08-23 15:10:33 --> Output Class Initialized
+INFO - 2023-08-23 15:10:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:33 --> Input Class Initialized
+INFO - 2023-08-23 15:10:33 --> Language Class Initialized
+INFO - 2023-08-23 15:10:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:33 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:33 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:40 --> Config Class Initialized
+INFO - 2023-08-23 15:10:40 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:40 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:40 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:40 --> URI Class Initialized
+INFO - 2023-08-23 15:10:40 --> Router Class Initialized
+INFO - 2023-08-23 15:10:40 --> Output Class Initialized
+INFO - 2023-08-23 15:10:40 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:40 --> Input Class Initialized
+INFO - 2023-08-23 15:10:40 --> Language Class Initialized
+INFO - 2023-08-23 15:10:40 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:40 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:40 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:40 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:10:45 --> Config Class Initialized
+INFO - 2023-08-23 15:10:45 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:10:45 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:10:45 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:10:45 --> URI Class Initialized
+INFO - 2023-08-23 15:10:45 --> Router Class Initialized
+INFO - 2023-08-23 15:10:45 --> Output Class Initialized
+INFO - 2023-08-23 15:10:45 --> Security Class Initialized
+DEBUG - 2023-08-23 15:10:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:10:45 --> Input Class Initialized
+INFO - 2023-08-23 15:10:45 --> Language Class Initialized
+INFO - 2023-08-23 15:10:45 --> Loader Class Initialized
+INFO - 2023-08-23 15:10:45 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:10:45 --> Controller Class Initialized
+ERROR - 2023-08-23 15:10:45 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:11:47 --> Config Class Initialized
+INFO - 2023-08-23 15:11:47 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:11:47 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:11:47 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:11:47 --> URI Class Initialized
+INFO - 2023-08-23 15:11:47 --> Router Class Initialized
+INFO - 2023-08-23 15:11:47 --> Output Class Initialized
+INFO - 2023-08-23 15:11:47 --> Security Class Initialized
+DEBUG - 2023-08-23 15:11:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:11:47 --> Input Class Initialized
+INFO - 2023-08-23 15:11:47 --> Language Class Initialized
+INFO - 2023-08-23 15:11:47 --> Loader Class Initialized
+INFO - 2023-08-23 15:11:47 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:11:47 --> Controller Class Initialized
+ERROR - 2023-08-23 15:11:47 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:11:49 --> Config Class Initialized
+INFO - 2023-08-23 15:11:49 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:11:49 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:11:49 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:11:49 --> URI Class Initialized
+INFO - 2023-08-23 15:11:49 --> Router Class Initialized
+INFO - 2023-08-23 15:11:49 --> Output Class Initialized
+INFO - 2023-08-23 15:11:49 --> Security Class Initialized
+DEBUG - 2023-08-23 15:11:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:11:49 --> Input Class Initialized
+INFO - 2023-08-23 15:11:49 --> Language Class Initialized
+INFO - 2023-08-23 15:11:49 --> Loader Class Initialized
+INFO - 2023-08-23 15:11:49 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:11:49 --> Controller Class Initialized
+ERROR - 2023-08-23 15:11:49 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:11:50 --> Config Class Initialized
+INFO - 2023-08-23 15:11:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:11:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:11:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:11:50 --> URI Class Initialized
+INFO - 2023-08-23 15:11:50 --> Router Class Initialized
+INFO - 2023-08-23 15:11:50 --> Output Class Initialized
+INFO - 2023-08-23 15:11:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:11:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:11:50 --> Input Class Initialized
+INFO - 2023-08-23 15:11:50 --> Language Class Initialized
+INFO - 2023-08-23 15:11:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:11:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:11:50 --> Controller Class Initialized
+ERROR - 2023-08-23 15:11:50 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:11:50 --> Config Class Initialized
+INFO - 2023-08-23 15:11:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:11:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:11:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:11:50 --> URI Class Initialized
+INFO - 2023-08-23 15:11:50 --> Router Class Initialized
+INFO - 2023-08-23 15:11:50 --> Output Class Initialized
+INFO - 2023-08-23 15:11:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:11:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:11:50 --> Input Class Initialized
+INFO - 2023-08-23 15:11:50 --> Language Class Initialized
+INFO - 2023-08-23 15:11:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:11:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:11:50 --> Controller Class Initialized
+ERROR - 2023-08-23 15:11:50 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:11:57 --> Config Class Initialized
+INFO - 2023-08-23 15:11:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:11:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:11:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:11:57 --> URI Class Initialized
+INFO - 2023-08-23 15:11:57 --> Router Class Initialized
+INFO - 2023-08-23 15:11:57 --> Output Class Initialized
+INFO - 2023-08-23 15:11:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:11:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:11:57 --> Input Class Initialized
+INFO - 2023-08-23 15:11:57 --> Language Class Initialized
+INFO - 2023-08-23 15:11:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:11:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:11:57 --> Controller Class Initialized
+ERROR - 2023-08-23 15:11:57 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:12:33 --> Config Class Initialized
+INFO - 2023-08-23 15:12:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:12:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:12:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:12:33 --> URI Class Initialized
+INFO - 2023-08-23 15:12:33 --> Router Class Initialized
+INFO - 2023-08-23 15:12:33 --> Output Class Initialized
+INFO - 2023-08-23 15:12:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:12:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:12:33 --> Input Class Initialized
+INFO - 2023-08-23 15:12:33 --> Language Class Initialized
+INFO - 2023-08-23 15:12:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:12:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:12:33 --> Controller Class Initialized
+ERROR - 2023-08-23 15:12:33 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php 70
+INFO - 2023-08-23 15:12:52 --> Config Class Initialized
+INFO - 2023-08-23 15:12:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:12:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:12:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:12:52 --> URI Class Initialized
+INFO - 2023-08-23 15:12:52 --> Router Class Initialized
+INFO - 2023-08-23 15:12:52 --> Output Class Initialized
+INFO - 2023-08-23 15:12:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:12:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:12:52 --> Input Class Initialized
+INFO - 2023-08-23 15:12:52 --> Language Class Initialized
+INFO - 2023-08-23 15:12:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:12:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:12:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:12:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:12:52 --> Final output sent to browser
+DEBUG - 2023-08-23 15:12:52 --> Total execution time: 0.0075
+INFO - 2023-08-23 15:13:22 --> Config Class Initialized
+INFO - 2023-08-23 15:13:22 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:13:22 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:13:22 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:13:22 --> URI Class Initialized
+INFO - 2023-08-23 15:13:22 --> Router Class Initialized
+INFO - 2023-08-23 15:13:22 --> Output Class Initialized
+INFO - 2023-08-23 15:13:22 --> Security Class Initialized
+DEBUG - 2023-08-23 15:13:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:13:22 --> Input Class Initialized
+INFO - 2023-08-23 15:13:22 --> Language Class Initialized
+INFO - 2023-08-23 15:13:22 --> Loader Class Initialized
+INFO - 2023-08-23 15:13:22 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:13:22 --> Controller Class Initialized
+INFO - 2023-08-23 15:13:22 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:13:22 --> Final output sent to browser
+DEBUG - 2023-08-23 15:13:22 --> Total execution time: 0.0083
+INFO - 2023-08-23 15:13:29 --> Config Class Initialized
+INFO - 2023-08-23 15:13:29 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:13:29 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:13:29 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:13:29 --> URI Class Initialized
+INFO - 2023-08-23 15:13:29 --> Router Class Initialized
+INFO - 2023-08-23 15:13:29 --> Output Class Initialized
+INFO - 2023-08-23 15:13:29 --> Security Class Initialized
+DEBUG - 2023-08-23 15:13:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:13:29 --> Input Class Initialized
+INFO - 2023-08-23 15:13:29 --> Language Class Initialized
+INFO - 2023-08-23 15:13:29 --> Loader Class Initialized
+INFO - 2023-08-23 15:13:29 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:13:29 --> Controller Class Initialized
+INFO - 2023-08-23 15:13:29 --> Final output sent to browser
+DEBUG - 2023-08-23 15:13:29 --> Total execution time: 0.0075
+INFO - 2023-08-23 15:13:46 --> Config Class Initialized
+INFO - 2023-08-23 15:13:46 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:13:46 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:13:46 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:13:46 --> URI Class Initialized
+INFO - 2023-08-23 15:13:46 --> Router Class Initialized
+INFO - 2023-08-23 15:13:46 --> Output Class Initialized
+INFO - 2023-08-23 15:13:46 --> Security Class Initialized
+DEBUG - 2023-08-23 15:13:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:13:46 --> Input Class Initialized
+INFO - 2023-08-23 15:13:46 --> Language Class Initialized
+INFO - 2023-08-23 15:13:46 --> Loader Class Initialized
+INFO - 2023-08-23 15:13:46 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:13:46 --> Controller Class Initialized
+INFO - 2023-08-23 15:13:46 --> Final output sent to browser
+DEBUG - 2023-08-23 15:13:46 --> Total execution time: 0.0052
+INFO - 2023-08-23 15:13:47 --> Config Class Initialized
+INFO - 2023-08-23 15:13:47 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:13:47 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:13:47 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:13:47 --> URI Class Initialized
+INFO - 2023-08-23 15:13:47 --> Router Class Initialized
+INFO - 2023-08-23 15:13:47 --> Output Class Initialized
+INFO - 2023-08-23 15:13:47 --> Security Class Initialized
+DEBUG - 2023-08-23 15:13:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:13:47 --> Input Class Initialized
+INFO - 2023-08-23 15:13:47 --> Language Class Initialized
+INFO - 2023-08-23 15:13:47 --> Loader Class Initialized
+INFO - 2023-08-23 15:13:47 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:13:47 --> Controller Class Initialized
+INFO - 2023-08-23 15:13:47 --> Final output sent to browser
+DEBUG - 2023-08-23 15:13:47 --> Total execution time: 0.0041
+INFO - 2023-08-23 15:13:55 --> Config Class Initialized
+INFO - 2023-08-23 15:13:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:13:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:13:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:13:55 --> URI Class Initialized
+INFO - 2023-08-23 15:13:55 --> Router Class Initialized
+INFO - 2023-08-23 15:13:55 --> Output Class Initialized
+INFO - 2023-08-23 15:13:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:13:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:13:55 --> Input Class Initialized
+INFO - 2023-08-23 15:13:55 --> Language Class Initialized
+INFO - 2023-08-23 15:13:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:13:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:13:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:13:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:13:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:13:55 --> Total execution time: 0.0059
+INFO - 2023-08-23 15:13:55 --> Config Class Initialized
+INFO - 2023-08-23 15:13:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:13:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:13:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:13:55 --> URI Class Initialized
+INFO - 2023-08-23 15:13:55 --> Router Class Initialized
+INFO - 2023-08-23 15:13:55 --> Output Class Initialized
+INFO - 2023-08-23 15:13:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:13:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:13:55 --> Input Class Initialized
+INFO - 2023-08-23 15:13:55 --> Language Class Initialized
+INFO - 2023-08-23 15:13:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:13:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:13:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:13:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:13:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:13:55 --> Total execution time: 0.0072
+INFO - 2023-08-23 15:14:00 --> Config Class Initialized
+INFO - 2023-08-23 15:14:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:14:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:14:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:14:00 --> URI Class Initialized
+INFO - 2023-08-23 15:14:00 --> Router Class Initialized
+INFO - 2023-08-23 15:14:00 --> Output Class Initialized
+INFO - 2023-08-23 15:14:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:14:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:14:00 --> Input Class Initialized
+INFO - 2023-08-23 15:14:00 --> Language Class Initialized
+INFO - 2023-08-23 15:14:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:14:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:14:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:14:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:14:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:14:00 --> Total execution time: 0.0094
+INFO - 2023-08-23 15:14:08 --> Config Class Initialized
+INFO - 2023-08-23 15:14:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:14:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:14:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:14:08 --> URI Class Initialized
+INFO - 2023-08-23 15:14:08 --> Router Class Initialized
+INFO - 2023-08-23 15:14:08 --> Output Class Initialized
+INFO - 2023-08-23 15:14:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:14:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:14:08 --> Input Class Initialized
+INFO - 2023-08-23 15:14:08 --> Language Class Initialized
+INFO - 2023-08-23 15:14:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:14:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:14:08 --> Controller Class Initialized
+ERROR - 2023-08-23 15:14:08 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:14:09 --> Config Class Initialized
+INFO - 2023-08-23 15:14:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:14:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:14:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:14:09 --> URI Class Initialized
+INFO - 2023-08-23 15:14:09 --> Router Class Initialized
+INFO - 2023-08-23 15:14:09 --> Output Class Initialized
+INFO - 2023-08-23 15:14:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:14:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:14:09 --> Input Class Initialized
+INFO - 2023-08-23 15:14:09 --> Language Class Initialized
+INFO - 2023-08-23 15:14:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:14:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:14:09 --> Controller Class Initialized
+ERROR - 2023-08-23 15:14:09 --> Severity: error --> Exception: Call to undefined function base_url() /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:14:36 --> Config Class Initialized
+INFO - 2023-08-23 15:14:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:14:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:14:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:14:36 --> URI Class Initialized
+INFO - 2023-08-23 15:14:36 --> Router Class Initialized
+INFO - 2023-08-23 15:14:36 --> Output Class Initialized
+INFO - 2023-08-23 15:14:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:14:36 --> Input Class Initialized
+INFO - 2023-08-23 15:14:36 --> Language Class Initialized
+INFO - 2023-08-23 15:14:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:14:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:14:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:14:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:14:36 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:14:36 --> Config Class Initialized
+INFO - 2023-08-23 15:14:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:14:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:14:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:14:36 --> URI Class Initialized
+INFO - 2023-08-23 15:14:36 --> Router Class Initialized
+INFO - 2023-08-23 15:14:36 --> Output Class Initialized
+INFO - 2023-08-23 15:14:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:14:36 --> Input Class Initialized
+INFO - 2023-08-23 15:14:36 --> Language Class Initialized
+INFO - 2023-08-23 15:14:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:14:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:14:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:14:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:14:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:14:36 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:14:36 --> Config Class Initialized
+INFO - 2023-08-23 15:14:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:14:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:14:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:14:36 --> URI Class Initialized
+INFO - 2023-08-23 15:14:36 --> Router Class Initialized
+INFO - 2023-08-23 15:14:36 --> Output Class Initialized
+INFO - 2023-08-23 15:14:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:14:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:14:36 --> Input Class Initialized
+INFO - 2023-08-23 15:14:36 --> Language Class Initialized
+INFO - 2023-08-23 15:14:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:14:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:14:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:14:36 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:15:56 --> Config Class Initialized
+INFO - 2023-08-23 15:15:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:15:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:15:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:15:56 --> URI Class Initialized
+DEBUG - 2023-08-23 15:15:56 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:15:56 --> Router Class Initialized
+INFO - 2023-08-23 15:15:56 --> Output Class Initialized
+INFO - 2023-08-23 15:15:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:15:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:15:56 --> Input Class Initialized
+INFO - 2023-08-23 15:15:56 --> Language Class Initialized
+INFO - 2023-08-23 15:15:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:15:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:15:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:15:56 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/welcome_message.php
+INFO - 2023-08-23 15:15:56 --> Final output sent to browser
+DEBUG - 2023-08-23 15:15:56 --> Total execution time: 0.0063
+INFO - 2023-08-23 15:16:05 --> Config Class Initialized
+INFO - 2023-08-23 15:16:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:16:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:16:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:16:05 --> URI Class Initialized
+INFO - 2023-08-23 15:16:05 --> Router Class Initialized
+INFO - 2023-08-23 15:16:05 --> Output Class Initialized
+INFO - 2023-08-23 15:16:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:16:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:16:05 --> Input Class Initialized
+INFO - 2023-08-23 15:16:05 --> Language Class Initialized
+INFO - 2023-08-23 15:16:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:16:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:16:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:16:05 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:16:05 --> Final output sent to browser
+DEBUG - 2023-08-23 15:16:05 --> Total execution time: 0.0052
+INFO - 2023-08-23 15:16:08 --> Config Class Initialized
+INFO - 2023-08-23 15:16:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:16:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:16:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:16:08 --> URI Class Initialized
+INFO - 2023-08-23 15:16:08 --> Router Class Initialized
+INFO - 2023-08-23 15:16:08 --> Output Class Initialized
+INFO - 2023-08-23 15:16:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:16:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:16:08 --> Input Class Initialized
+INFO - 2023-08-23 15:16:08 --> Language Class Initialized
+INFO - 2023-08-23 15:16:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:16:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:16:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:16:08 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:16:08 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:16:09 --> Config Class Initialized
+INFO - 2023-08-23 15:16:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:16:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:16:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:16:09 --> URI Class Initialized
+INFO - 2023-08-23 15:16:09 --> Router Class Initialized
+INFO - 2023-08-23 15:16:09 --> Output Class Initialized
+INFO - 2023-08-23 15:16:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:16:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:16:09 --> Input Class Initialized
+INFO - 2023-08-23 15:16:09 --> Language Class Initialized
+INFO - 2023-08-23 15:16:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:16:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:16:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:16:09 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:16:09 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:16:09 --> Config Class Initialized
+INFO - 2023-08-23 15:16:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:16:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:16:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:16:09 --> URI Class Initialized
+INFO - 2023-08-23 15:16:09 --> Router Class Initialized
+INFO - 2023-08-23 15:16:09 --> Output Class Initialized
+INFO - 2023-08-23 15:16:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:16:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:16:09 --> Input Class Initialized
+INFO - 2023-08-23 15:16:09 --> Language Class Initialized
+INFO - 2023-08-23 15:16:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:16:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:16:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:16:09 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:16:09 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:16:23 --> Config Class Initialized
+INFO - 2023-08-23 15:16:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:16:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:16:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:16:23 --> URI Class Initialized
+INFO - 2023-08-23 15:16:23 --> Router Class Initialized
+INFO - 2023-08-23 15:16:23 --> Output Class Initialized
+INFO - 2023-08-23 15:16:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:16:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:16:23 --> Input Class Initialized
+INFO - 2023-08-23 15:16:23 --> Language Class Initialized
+INFO - 2023-08-23 15:16:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:16:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:16:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:16:23 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:16:23 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:16:34 --> Config Class Initialized
+INFO - 2023-08-23 15:16:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:16:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:16:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:16:34 --> URI Class Initialized
+INFO - 2023-08-23 15:16:34 --> Router Class Initialized
+INFO - 2023-08-23 15:16:34 --> Output Class Initialized
+INFO - 2023-08-23 15:16:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:16:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:16:34 --> Input Class Initialized
+INFO - 2023-08-23 15:16:34 --> Language Class Initialized
+INFO - 2023-08-23 15:16:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:16:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:16:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:16:34 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:16:34 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:16:35 --> Config Class Initialized
+INFO - 2023-08-23 15:16:35 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:16:35 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:16:35 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:16:35 --> URI Class Initialized
+INFO - 2023-08-23 15:16:35 --> Router Class Initialized
+INFO - 2023-08-23 15:16:35 --> Output Class Initialized
+INFO - 2023-08-23 15:16:35 --> Security Class Initialized
+DEBUG - 2023-08-23 15:16:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:16:35 --> Input Class Initialized
+INFO - 2023-08-23 15:16:35 --> Language Class Initialized
+INFO - 2023-08-23 15:16:35 --> Loader Class Initialized
+INFO - 2023-08-23 15:16:35 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:16:35 --> Controller Class Initialized
+INFO - 2023-08-23 15:16:35 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:16:35 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:16:58 --> Config Class Initialized
+INFO - 2023-08-23 15:16:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:16:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:16:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:16:58 --> URI Class Initialized
+INFO - 2023-08-23 15:16:58 --> Router Class Initialized
+INFO - 2023-08-23 15:16:58 --> Output Class Initialized
+INFO - 2023-08-23 15:16:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:16:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:16:58 --> Input Class Initialized
+INFO - 2023-08-23 15:16:58 --> Language Class Initialized
+INFO - 2023-08-23 15:16:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:16:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:16:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:16:58 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:16:58 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:17:20 --> Config Class Initialized
+INFO - 2023-08-23 15:17:20 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:17:20 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:17:20 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:17:20 --> URI Class Initialized
+INFO - 2023-08-23 15:17:20 --> Router Class Initialized
+INFO - 2023-08-23 15:17:20 --> Output Class Initialized
+INFO - 2023-08-23 15:17:20 --> Security Class Initialized
+DEBUG - 2023-08-23 15:17:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:17:20 --> Input Class Initialized
+INFO - 2023-08-23 15:17:20 --> Language Class Initialized
+INFO - 2023-08-23 15:17:20 --> Loader Class Initialized
+INFO - 2023-08-23 15:17:20 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:17:20 --> Controller Class Initialized
+INFO - 2023-08-23 15:17:20 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:17:20 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:17:21 --> Config Class Initialized
+INFO - 2023-08-23 15:17:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:17:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:17:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:17:21 --> URI Class Initialized
+INFO - 2023-08-23 15:17:21 --> Router Class Initialized
+INFO - 2023-08-23 15:17:21 --> Output Class Initialized
+INFO - 2023-08-23 15:17:21 --> Security Class Initialized
+DEBUG - 2023-08-23 15:17:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:17:21 --> Input Class Initialized
+INFO - 2023-08-23 15:17:21 --> Language Class Initialized
+INFO - 2023-08-23 15:17:21 --> Loader Class Initialized
+INFO - 2023-08-23 15:17:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:17:21 --> Controller Class Initialized
+INFO - 2023-08-23 15:17:21 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:17:21 --> Final output sent to browser
+DEBUG - 2023-08-23 15:17:21 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:17:22 --> Config Class Initialized
+INFO - 2023-08-23 15:17:22 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:17:22 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:17:22 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:17:22 --> URI Class Initialized
+INFO - 2023-08-23 15:17:22 --> Router Class Initialized
+INFO - 2023-08-23 15:17:22 --> Output Class Initialized
+INFO - 2023-08-23 15:17:22 --> Security Class Initialized
+DEBUG - 2023-08-23 15:17:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:17:22 --> Input Class Initialized
+INFO - 2023-08-23 15:17:22 --> Language Class Initialized
+INFO - 2023-08-23 15:17:22 --> Loader Class Initialized
+INFO - 2023-08-23 15:17:22 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:17:22 --> Controller Class Initialized
+INFO - 2023-08-23 15:17:22 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:17:22 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:17:23 --> Config Class Initialized
+INFO - 2023-08-23 15:17:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:17:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:17:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:17:23 --> URI Class Initialized
+INFO - 2023-08-23 15:17:23 --> Router Class Initialized
+INFO - 2023-08-23 15:17:23 --> Output Class Initialized
+INFO - 2023-08-23 15:17:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:17:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:17:23 --> Input Class Initialized
+INFO - 2023-08-23 15:17:23 --> Language Class Initialized
+INFO - 2023-08-23 15:17:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:17:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:17:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:17:23 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:17:23 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:17:33 --> Config Class Initialized
+INFO - 2023-08-23 15:17:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:17:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:17:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:17:33 --> URI Class Initialized
+INFO - 2023-08-23 15:17:33 --> Router Class Initialized
+INFO - 2023-08-23 15:17:33 --> Output Class Initialized
+INFO - 2023-08-23 15:17:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:17:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:17:33 --> Input Class Initialized
+INFO - 2023-08-23 15:17:33 --> Language Class Initialized
+INFO - 2023-08-23 15:17:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:17:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:17:33 --> Controller Class Initialized
+INFO - 2023-08-23 15:17:33 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:17:33 --> Severity: error --> Exception: Too few arguments to function sample_model::authenticate(), 0 passed in /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php on line 43 and exactly 2 expected /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 35
+INFO - 2023-08-23 15:18:43 --> Config Class Initialized
+INFO - 2023-08-23 15:18:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:18:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:18:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:18:43 --> URI Class Initialized
+INFO - 2023-08-23 15:18:43 --> Router Class Initialized
+INFO - 2023-08-23 15:18:43 --> Output Class Initialized
+INFO - 2023-08-23 15:18:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:18:43 --> Input Class Initialized
+INFO - 2023-08-23 15:18:43 --> Language Class Initialized
+INFO - 2023-08-23 15:18:43 --> Loader Class Initialized
+INFO - 2023-08-23 15:18:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:18:43 --> Controller Class Initialized
+INFO - 2023-08-23 15:18:43 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:18:43 --> Severity: Notice --> Trying to get property 'username' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 39
+ERROR - 2023-08-23 15:18:43 --> Severity: Notice --> Trying to get property 'password' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 40
+ERROR - 2023-08-23 15:18:43 --> Query error: Unknown column 'username' in 'where clause' - Invalid query: SELECT *
+FROM `tbluser`
+WHERE `username` IS NULL
+AND `password` IS NULL
+INFO - 2023-08-23 15:18:43 --> Language file loaded: language/english/db_lang.php
+INFO - 2023-08-23 15:18:44 --> Config Class Initialized
+INFO - 2023-08-23 15:18:44 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:18:44 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:18:44 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:18:44 --> URI Class Initialized
+INFO - 2023-08-23 15:18:44 --> Router Class Initialized
+INFO - 2023-08-23 15:18:44 --> Output Class Initialized
+INFO - 2023-08-23 15:18:44 --> Security Class Initialized
+DEBUG - 2023-08-23 15:18:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:18:44 --> Input Class Initialized
+INFO - 2023-08-23 15:18:44 --> Language Class Initialized
+INFO - 2023-08-23 15:18:44 --> Loader Class Initialized
+INFO - 2023-08-23 15:18:44 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:18:44 --> Controller Class Initialized
+INFO - 2023-08-23 15:18:44 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:18:44 --> Final output sent to browser
+DEBUG - 2023-08-23 15:18:44 --> Total execution time: 0.0042
+INFO - 2023-08-23 15:18:49 --> Config Class Initialized
+INFO - 2023-08-23 15:18:49 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:18:49 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:18:49 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:18:49 --> URI Class Initialized
+INFO - 2023-08-23 15:18:49 --> Router Class Initialized
+INFO - 2023-08-23 15:18:49 --> Output Class Initialized
+INFO - 2023-08-23 15:18:49 --> Security Class Initialized
+DEBUG - 2023-08-23 15:18:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:18:49 --> Input Class Initialized
+INFO - 2023-08-23 15:18:49 --> Language Class Initialized
+INFO - 2023-08-23 15:18:49 --> Loader Class Initialized
+INFO - 2023-08-23 15:18:49 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:18:49 --> Controller Class Initialized
+INFO - 2023-08-23 15:18:49 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:18:49 --> Severity: Notice --> Trying to get property 'username' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 39
+ERROR - 2023-08-23 15:18:49 --> Severity: Notice --> Trying to get property 'password' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 40
+ERROR - 2023-08-23 15:18:49 --> Query error: Unknown column 'username' in 'where clause' - Invalid query: SELECT *
+FROM `tbluser`
+WHERE `username` IS NULL
+AND `password` IS NULL
+INFO - 2023-08-23 15:18:49 --> Language file loaded: language/english/db_lang.php
+INFO - 2023-08-23 15:18:49 --> Config Class Initialized
+INFO - 2023-08-23 15:18:49 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:18:49 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:18:49 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:18:49 --> URI Class Initialized
+INFO - 2023-08-23 15:18:49 --> Router Class Initialized
+INFO - 2023-08-23 15:18:49 --> Output Class Initialized
+INFO - 2023-08-23 15:18:49 --> Security Class Initialized
+DEBUG - 2023-08-23 15:18:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:18:49 --> Input Class Initialized
+INFO - 2023-08-23 15:18:49 --> Language Class Initialized
+INFO - 2023-08-23 15:18:49 --> Loader Class Initialized
+INFO - 2023-08-23 15:18:49 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:18:49 --> Controller Class Initialized
+INFO - 2023-08-23 15:18:49 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:18:49 --> Severity: Notice --> Trying to get property 'username' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 39
+ERROR - 2023-08-23 15:18:49 --> Severity: Notice --> Trying to get property 'password' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/models/Sample_model.php 40
+ERROR - 2023-08-23 15:18:49 --> Query error: Unknown column 'username' in 'where clause' - Invalid query: SELECT *
+FROM `tbluser`
+WHERE `username` IS NULL
+AND `password` IS NULL
+INFO - 2023-08-23 15:18:49 --> Language file loaded: language/english/db_lang.php
+INFO - 2023-08-23 15:19:08 --> Config Class Initialized
+INFO - 2023-08-23 15:19:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:19:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:19:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:19:08 --> URI Class Initialized
+INFO - 2023-08-23 15:19:08 --> Router Class Initialized
+INFO - 2023-08-23 15:19:08 --> Output Class Initialized
+INFO - 2023-08-23 15:19:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:19:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:19:08 --> Input Class Initialized
+INFO - 2023-08-23 15:19:08 --> Language Class Initialized
+INFO - 2023-08-23 15:19:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:19:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:19:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:19:08 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:19:08 --> Query error: Unknown column 'username' in 'where clause' - Invalid query: SELECT *
+FROM `tbluser`
+WHERE `username` = 'janice'
+AND `password` = '1234'
+INFO - 2023-08-23 15:19:08 --> Language file loaded: language/english/db_lang.php
+INFO - 2023-08-23 15:19:09 --> Config Class Initialized
+INFO - 2023-08-23 15:19:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:19:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:19:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:19:09 --> URI Class Initialized
+INFO - 2023-08-23 15:19:09 --> Router Class Initialized
+INFO - 2023-08-23 15:19:09 --> Output Class Initialized
+INFO - 2023-08-23 15:19:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:19:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:19:09 --> Input Class Initialized
+INFO - 2023-08-23 15:19:09 --> Language Class Initialized
+INFO - 2023-08-23 15:19:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:19:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:19:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:19:09 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:19:09 --> Final output sent to browser
+DEBUG - 2023-08-23 15:19:09 --> Total execution time: 0.0032
+INFO - 2023-08-23 15:19:13 --> Config Class Initialized
+INFO - 2023-08-23 15:19:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:19:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:19:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:19:13 --> URI Class Initialized
+INFO - 2023-08-23 15:19:13 --> Router Class Initialized
+INFO - 2023-08-23 15:19:13 --> Output Class Initialized
+INFO - 2023-08-23 15:19:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:19:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:19:13 --> Input Class Initialized
+INFO - 2023-08-23 15:19:13 --> Language Class Initialized
+INFO - 2023-08-23 15:19:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:19:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:19:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:19:13 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:19:13 --> Query error: Unknown column 'username' in 'where clause' - Invalid query: SELECT *
+FROM `tbluser`
+WHERE `username` = 'janice'
+AND `password` = '1234'
+INFO - 2023-08-23 15:19:13 --> Language file loaded: language/english/db_lang.php
+INFO - 2023-08-23 15:19:18 --> Config Class Initialized
+INFO - 2023-08-23 15:19:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:19:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:19:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:19:18 --> URI Class Initialized
+INFO - 2023-08-23 15:19:18 --> Router Class Initialized
+INFO - 2023-08-23 15:19:18 --> Output Class Initialized
+INFO - 2023-08-23 15:19:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:19:18 --> Input Class Initialized
+INFO - 2023-08-23 15:19:18 --> Language Class Initialized
+INFO - 2023-08-23 15:19:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:19:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:19:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:19:18 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:19:18 --> Query error: Unknown column 'username' in 'where clause' - Invalid query: SELECT *
+FROM `tbluser`
+WHERE `username` = 'janice'
+AND `password` = '1234'
+INFO - 2023-08-23 15:19:18 --> Language file loaded: language/english/db_lang.php
+INFO - 2023-08-23 15:19:52 --> Config Class Initialized
+INFO - 2023-08-23 15:19:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:19:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:19:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:19:52 --> URI Class Initialized
+INFO - 2023-08-23 15:19:52 --> Router Class Initialized
+INFO - 2023-08-23 15:19:52 --> Output Class Initialized
+INFO - 2023-08-23 15:19:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:19:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:19:52 --> Input Class Initialized
+INFO - 2023-08-23 15:19:52 --> Language Class Initialized
+INFO - 2023-08-23 15:19:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:19:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:19:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:19:52 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:19:52 --> Final output sent to browser
+DEBUG - 2023-08-23 15:19:52 --> Total execution time: 0.0191
+INFO - 2023-08-23 15:19:52 --> Config Class Initialized
+INFO - 2023-08-23 15:19:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:19:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:19:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:19:52 --> URI Class Initialized
+INFO - 2023-08-23 15:19:52 --> Router Class Initialized
+INFO - 2023-08-23 15:19:52 --> Output Class Initialized
+INFO - 2023-08-23 15:19:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:19:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:19:52 --> Input Class Initialized
+INFO - 2023-08-23 15:19:52 --> Language Class Initialized
+ERROR - 2023-08-23 15:19:52 --> 404 Page Not Found: Sample0/index
+INFO - 2023-08-23 15:20:14 --> Config Class Initialized
+INFO - 2023-08-23 15:20:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:14 --> URI Class Initialized
+INFO - 2023-08-23 15:20:14 --> Router Class Initialized
+INFO - 2023-08-23 15:20:14 --> Output Class Initialized
+INFO - 2023-08-23 15:20:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:14 --> Input Class Initialized
+INFO - 2023-08-23 15:20:14 --> Language Class Initialized
+INFO - 2023-08-23 15:20:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:20:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:20:14 --> Total execution time: 0.0057
+INFO - 2023-08-23 15:20:23 --> Config Class Initialized
+INFO - 2023-08-23 15:20:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:23 --> URI Class Initialized
+INFO - 2023-08-23 15:20:23 --> Router Class Initialized
+INFO - 2023-08-23 15:20:23 --> Output Class Initialized
+INFO - 2023-08-23 15:20:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:23 --> Input Class Initialized
+INFO - 2023-08-23 15:20:23 --> Language Class Initialized
+INFO - 2023-08-23 15:20:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:23 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:20:23 --> Final output sent to browser
+DEBUG - 2023-08-23 15:20:23 --> Total execution time: 0.0066
+INFO - 2023-08-23 15:20:23 --> Config Class Initialized
+INFO - 2023-08-23 15:20:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:23 --> URI Class Initialized
+INFO - 2023-08-23 15:20:23 --> Router Class Initialized
+INFO - 2023-08-23 15:20:23 --> Output Class Initialized
+INFO - 2023-08-23 15:20:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:23 --> Input Class Initialized
+INFO - 2023-08-23 15:20:23 --> Language Class Initialized
+INFO - 2023-08-23 15:20:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:23 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:20:23 --> Final output sent to browser
+DEBUG - 2023-08-23 15:20:23 --> Total execution time: 0.0030
+INFO - 2023-08-23 15:20:23 --> Config Class Initialized
+INFO - 2023-08-23 15:20:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:23 --> URI Class Initialized
+INFO - 2023-08-23 15:20:23 --> Router Class Initialized
+INFO - 2023-08-23 15:20:23 --> Output Class Initialized
+INFO - 2023-08-23 15:20:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:23 --> Input Class Initialized
+INFO - 2023-08-23 15:20:23 --> Language Class Initialized
+INFO - 2023-08-23 15:20:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:23 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:20:35 --> Config Class Initialized
+INFO - 2023-08-23 15:20:35 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:35 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:35 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:35 --> URI Class Initialized
+INFO - 2023-08-23 15:20:35 --> Router Class Initialized
+INFO - 2023-08-23 15:20:35 --> Output Class Initialized
+INFO - 2023-08-23 15:20:35 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:35 --> Input Class Initialized
+INFO - 2023-08-23 15:20:35 --> Language Class Initialized
+INFO - 2023-08-23 15:20:35 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:35 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:35 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:35 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:20:35 --> Final output sent to browser
+DEBUG - 2023-08-23 15:20:35 --> Total execution time: 0.0090
+INFO - 2023-08-23 15:20:37 --> Config Class Initialized
+INFO - 2023-08-23 15:20:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:37 --> URI Class Initialized
+INFO - 2023-08-23 15:20:37 --> Router Class Initialized
+INFO - 2023-08-23 15:20:37 --> Output Class Initialized
+INFO - 2023-08-23 15:20:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:37 --> Input Class Initialized
+INFO - 2023-08-23 15:20:37 --> Language Class Initialized
+INFO - 2023-08-23 15:20:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:37 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:20:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:20:37 --> Total execution time: 0.0040
+INFO - 2023-08-23 15:20:37 --> Config Class Initialized
+INFO - 2023-08-23 15:20:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:37 --> URI Class Initialized
+INFO - 2023-08-23 15:20:37 --> Router Class Initialized
+INFO - 2023-08-23 15:20:37 --> Output Class Initialized
+INFO - 2023-08-23 15:20:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:37 --> Input Class Initialized
+INFO - 2023-08-23 15:20:37 --> Language Class Initialized
+INFO - 2023-08-23 15:20:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:20:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:20:37 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:20:37 --> Config Class Initialized
+INFO - 2023-08-23 15:20:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:37 --> URI Class Initialized
+INFO - 2023-08-23 15:20:37 --> Router Class Initialized
+INFO - 2023-08-23 15:20:37 --> Output Class Initialized
+INFO - 2023-08-23 15:20:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:37 --> Input Class Initialized
+INFO - 2023-08-23 15:20:37 --> Language Class Initialized
+INFO - 2023-08-23 15:20:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:37 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:20:45 --> Config Class Initialized
+INFO - 2023-08-23 15:20:45 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:45 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:45 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:45 --> URI Class Initialized
+INFO - 2023-08-23 15:20:45 --> Router Class Initialized
+INFO - 2023-08-23 15:20:45 --> Output Class Initialized
+INFO - 2023-08-23 15:20:45 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:45 --> Input Class Initialized
+INFO - 2023-08-23 15:20:45 --> Language Class Initialized
+INFO - 2023-08-23 15:20:45 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:45 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:45 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:45 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:20:45 --> Final output sent to browser
+DEBUG - 2023-08-23 15:20:45 --> Total execution time: 0.0053
+INFO - 2023-08-23 15:20:47 --> Config Class Initialized
+INFO - 2023-08-23 15:20:47 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:47 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:47 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:47 --> URI Class Initialized
+INFO - 2023-08-23 15:20:47 --> Router Class Initialized
+INFO - 2023-08-23 15:20:47 --> Output Class Initialized
+INFO - 2023-08-23 15:20:47 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:47 --> Input Class Initialized
+INFO - 2023-08-23 15:20:47 --> Language Class Initialized
+INFO - 2023-08-23 15:20:47 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:47 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:47 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:47 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:20:47 --> Final output sent to browser
+DEBUG - 2023-08-23 15:20:47 --> Total execution time: 0.0058
+INFO - 2023-08-23 15:20:47 --> Config Class Initialized
+INFO - 2023-08-23 15:20:47 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:47 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:47 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:47 --> URI Class Initialized
+INFO - 2023-08-23 15:20:47 --> Router Class Initialized
+INFO - 2023-08-23 15:20:47 --> Output Class Initialized
+INFO - 2023-08-23 15:20:47 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:47 --> Input Class Initialized
+INFO - 2023-08-23 15:20:47 --> Language Class Initialized
+INFO - 2023-08-23 15:20:47 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:47 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:47 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:47 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:20:47 --> Final output sent to browser
+DEBUG - 2023-08-23 15:20:47 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:20:47 --> Config Class Initialized
+INFO - 2023-08-23 15:20:47 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:20:47 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:20:47 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:20:47 --> URI Class Initialized
+INFO - 2023-08-23 15:20:47 --> Router Class Initialized
+INFO - 2023-08-23 15:20:47 --> Output Class Initialized
+INFO - 2023-08-23 15:20:47 --> Security Class Initialized
+DEBUG - 2023-08-23 15:20:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:20:47 --> Input Class Initialized
+INFO - 2023-08-23 15:20:47 --> Language Class Initialized
+INFO - 2023-08-23 15:20:47 --> Loader Class Initialized
+INFO - 2023-08-23 15:20:47 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:20:47 --> Controller Class Initialized
+INFO - 2023-08-23 15:20:47 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:21:08 --> Config Class Initialized
+INFO - 2023-08-23 15:21:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:08 --> URI Class Initialized
+INFO - 2023-08-23 15:21:08 --> Router Class Initialized
+INFO - 2023-08-23 15:21:08 --> Output Class Initialized
+INFO - 2023-08-23 15:21:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:08 --> Input Class Initialized
+INFO - 2023-08-23 15:21:08 --> Language Class Initialized
+INFO - 2023-08-23 15:21:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:21:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:21:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:21:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:21:08 --> Final output sent to browser
+DEBUG - 2023-08-23 15:21:08 --> Total execution time: 0.0103
+INFO - 2023-08-23 15:21:08 --> Config Class Initialized
+INFO - 2023-08-23 15:21:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:08 --> URI Class Initialized
+INFO - 2023-08-23 15:21:08 --> Router Class Initialized
+INFO - 2023-08-23 15:21:08 --> Output Class Initialized
+INFO - 2023-08-23 15:21:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:08 --> Input Class Initialized
+INFO - 2023-08-23 15:21:08 --> Language Class Initialized
+INFO - 2023-08-23 15:21:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:21:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:21:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:21:08 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:21:11 --> Config Class Initialized
+INFO - 2023-08-23 15:21:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:11 --> URI Class Initialized
+INFO - 2023-08-23 15:21:11 --> Router Class Initialized
+INFO - 2023-08-23 15:21:11 --> Output Class Initialized
+INFO - 2023-08-23 15:21:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:11 --> Input Class Initialized
+INFO - 2023-08-23 15:21:11 --> Language Class Initialized
+INFO - 2023-08-23 15:21:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:21:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:21:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:21:11 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:21:11 --> Final output sent to browser
+DEBUG - 2023-08-23 15:21:11 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:21:13 --> Config Class Initialized
+INFO - 2023-08-23 15:21:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:13 --> URI Class Initialized
+INFO - 2023-08-23 15:21:13 --> Router Class Initialized
+INFO - 2023-08-23 15:21:13 --> Output Class Initialized
+INFO - 2023-08-23 15:21:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:13 --> Input Class Initialized
+INFO - 2023-08-23 15:21:13 --> Language Class Initialized
+INFO - 2023-08-23 15:21:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:21:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:21:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:21:13 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:21:13 --> Final output sent to browser
+DEBUG - 2023-08-23 15:21:13 --> Total execution time: 0.0060
+INFO - 2023-08-23 15:21:13 --> Config Class Initialized
+INFO - 2023-08-23 15:21:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:13 --> URI Class Initialized
+INFO - 2023-08-23 15:21:13 --> Router Class Initialized
+INFO - 2023-08-23 15:21:13 --> Output Class Initialized
+INFO - 2023-08-23 15:21:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:13 --> Input Class Initialized
+INFO - 2023-08-23 15:21:13 --> Language Class Initialized
+ERROR - 2023-08-23 15:21:13 --> 404 Page Not Found: Samplehttp:/localhost:8003
+INFO - 2023-08-23 15:21:23 --> Config Class Initialized
+INFO - 2023-08-23 15:21:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:23 --> URI Class Initialized
+INFO - 2023-08-23 15:21:23 --> Router Class Initialized
+INFO - 2023-08-23 15:21:23 --> Output Class Initialized
+INFO - 2023-08-23 15:21:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:23 --> Input Class Initialized
+INFO - 2023-08-23 15:21:23 --> Language Class Initialized
+INFO - 2023-08-23 15:21:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:21:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:21:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:21:23 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:21:27 --> Config Class Initialized
+INFO - 2023-08-23 15:21:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:27 --> URI Class Initialized
+INFO - 2023-08-23 15:21:27 --> Router Class Initialized
+INFO - 2023-08-23 15:21:27 --> Output Class Initialized
+INFO - 2023-08-23 15:21:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:27 --> Input Class Initialized
+INFO - 2023-08-23 15:21:27 --> Language Class Initialized
+INFO - 2023-08-23 15:21:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:21:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:21:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:21:27 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:21:27 --> Final output sent to browser
+DEBUG - 2023-08-23 15:21:27 --> Total execution time: 0.0036
+INFO - 2023-08-23 15:21:27 --> Config Class Initialized
+INFO - 2023-08-23 15:21:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:27 --> URI Class Initialized
+INFO - 2023-08-23 15:21:27 --> Router Class Initialized
+INFO - 2023-08-23 15:21:27 --> Output Class Initialized
+INFO - 2023-08-23 15:21:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:27 --> Input Class Initialized
+INFO - 2023-08-23 15:21:27 --> Language Class Initialized
+INFO - 2023-08-23 15:21:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:21:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:21:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:21:27 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:21:37 --> Config Class Initialized
+INFO - 2023-08-23 15:21:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:37 --> URI Class Initialized
+INFO - 2023-08-23 15:21:37 --> Router Class Initialized
+INFO - 2023-08-23 15:21:37 --> Output Class Initialized
+INFO - 2023-08-23 15:21:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:37 --> Input Class Initialized
+INFO - 2023-08-23 15:21:37 --> Language Class Initialized
+INFO - 2023-08-23 15:21:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:21:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:21:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:21:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:21:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:21:37 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:21:39 --> Config Class Initialized
+INFO - 2023-08-23 15:21:39 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:39 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:39 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:39 --> URI Class Initialized
+INFO - 2023-08-23 15:21:39 --> Router Class Initialized
+INFO - 2023-08-23 15:21:39 --> Output Class Initialized
+INFO - 2023-08-23 15:21:39 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:39 --> Input Class Initialized
+INFO - 2023-08-23 15:21:39 --> Language Class Initialized
+INFO - 2023-08-23 15:21:39 --> Loader Class Initialized
+INFO - 2023-08-23 15:21:39 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:21:39 --> Controller Class Initialized
+INFO - 2023-08-23 15:21:39 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:21:39 --> Final output sent to browser
+DEBUG - 2023-08-23 15:21:39 --> Total execution time: 0.0065
+INFO - 2023-08-23 15:21:39 --> Config Class Initialized
+INFO - 2023-08-23 15:21:39 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:21:39 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:21:39 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:21:39 --> URI Class Initialized
+INFO - 2023-08-23 15:21:39 --> Router Class Initialized
+INFO - 2023-08-23 15:21:39 --> Output Class Initialized
+INFO - 2023-08-23 15:21:39 --> Security Class Initialized
+DEBUG - 2023-08-23 15:21:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:21:39 --> Input Class Initialized
+INFO - 2023-08-23 15:21:39 --> Language Class Initialized
+ERROR - 2023-08-23 15:21:39 --> 404 Page Not Found: Samplehttp:/localhost:8003
+INFO - 2023-08-23 15:22:09 --> Config Class Initialized
+INFO - 2023-08-23 15:22:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:09 --> URI Class Initialized
+INFO - 2023-08-23 15:22:09 --> Router Class Initialized
+INFO - 2023-08-23 15:22:09 --> Output Class Initialized
+INFO - 2023-08-23 15:22:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:09 --> Input Class Initialized
+INFO - 2023-08-23 15:22:09 --> Language Class Initialized
+INFO - 2023-08-23 15:22:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:09 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:09 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:09 --> Total execution time: 0.0086
+INFO - 2023-08-23 15:22:10 --> Config Class Initialized
+INFO - 2023-08-23 15:22:10 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:10 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:10 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:10 --> URI Class Initialized
+INFO - 2023-08-23 15:22:10 --> Router Class Initialized
+INFO - 2023-08-23 15:22:10 --> Output Class Initialized
+INFO - 2023-08-23 15:22:10 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:10 --> Input Class Initialized
+INFO - 2023-08-23 15:22:10 --> Language Class Initialized
+INFO - 2023-08-23 15:22:10 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:10 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:10 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:10 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:10 --> Total execution time: 0.0053
+INFO - 2023-08-23 15:22:10 --> Config Class Initialized
+INFO - 2023-08-23 15:22:10 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:10 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:10 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:10 --> URI Class Initialized
+INFO - 2023-08-23 15:22:10 --> Router Class Initialized
+INFO - 2023-08-23 15:22:10 --> Output Class Initialized
+INFO - 2023-08-23 15:22:10 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:10 --> Input Class Initialized
+INFO - 2023-08-23 15:22:10 --> Language Class Initialized
+INFO - 2023-08-23 15:22:10 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:10 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:10 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:10 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:10 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:22:11 --> Config Class Initialized
+INFO - 2023-08-23 15:22:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:11 --> URI Class Initialized
+INFO - 2023-08-23 15:22:11 --> Router Class Initialized
+INFO - 2023-08-23 15:22:11 --> Output Class Initialized
+INFO - 2023-08-23 15:22:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:11 --> Input Class Initialized
+INFO - 2023-08-23 15:22:11 --> Language Class Initialized
+INFO - 2023-08-23 15:22:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:11 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:11 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:11 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:22:14 --> Config Class Initialized
+INFO - 2023-08-23 15:22:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:14 --> URI Class Initialized
+INFO - 2023-08-23 15:22:14 --> Router Class Initialized
+INFO - 2023-08-23 15:22:14 --> Output Class Initialized
+INFO - 2023-08-23 15:22:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:14 --> Input Class Initialized
+INFO - 2023-08-23 15:22:14 --> Language Class Initialized
+INFO - 2023-08-23 15:22:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:14 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:14 --> Total execution time: 0.0052
+INFO - 2023-08-23 15:22:14 --> Config Class Initialized
+INFO - 2023-08-23 15:22:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:14 --> URI Class Initialized
+INFO - 2023-08-23 15:22:14 --> Router Class Initialized
+INFO - 2023-08-23 15:22:14 --> Output Class Initialized
+INFO - 2023-08-23 15:22:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:14 --> Input Class Initialized
+INFO - 2023-08-23 15:22:14 --> Language Class Initialized
+INFO - 2023-08-23 15:22:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:14 --> Total execution time: 0.0028
+INFO - 2023-08-23 15:22:17 --> Config Class Initialized
+INFO - 2023-08-23 15:22:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:17 --> URI Class Initialized
+INFO - 2023-08-23 15:22:17 --> Router Class Initialized
+INFO - 2023-08-23 15:22:17 --> Output Class Initialized
+INFO - 2023-08-23 15:22:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:17 --> Input Class Initialized
+INFO - 2023-08-23 15:22:17 --> Language Class Initialized
+INFO - 2023-08-23 15:22:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:17 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:17 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:17 --> Total execution time: 0.0066
+INFO - 2023-08-23 15:22:17 --> Config Class Initialized
+INFO - 2023-08-23 15:22:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:17 --> URI Class Initialized
+INFO - 2023-08-23 15:22:17 --> Router Class Initialized
+INFO - 2023-08-23 15:22:17 --> Output Class Initialized
+INFO - 2023-08-23 15:22:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:17 --> Input Class Initialized
+INFO - 2023-08-23 15:22:17 --> Language Class Initialized
+INFO - 2023-08-23 15:22:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:17 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:17 --> Total execution time: 0.0031
+INFO - 2023-08-23 15:22:30 --> Config Class Initialized
+INFO - 2023-08-23 15:22:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:30 --> URI Class Initialized
+INFO - 2023-08-23 15:22:30 --> Router Class Initialized
+INFO - 2023-08-23 15:22:30 --> Output Class Initialized
+INFO - 2023-08-23 15:22:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:30 --> Input Class Initialized
+INFO - 2023-08-23 15:22:30 --> Language Class Initialized
+INFO - 2023-08-23 15:22:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:30 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:30 --> Total execution time: 0.0075
+INFO - 2023-08-23 15:22:30 --> Config Class Initialized
+INFO - 2023-08-23 15:22:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:30 --> URI Class Initialized
+INFO - 2023-08-23 15:22:30 --> Router Class Initialized
+INFO - 2023-08-23 15:22:30 --> Output Class Initialized
+INFO - 2023-08-23 15:22:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:30 --> Input Class Initialized
+INFO - 2023-08-23 15:22:30 --> Language Class Initialized
+INFO - 2023-08-23 15:22:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:30 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:30 --> Total execution time: 0.0038
+INFO - 2023-08-23 15:22:30 --> Config Class Initialized
+INFO - 2023-08-23 15:22:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:30 --> URI Class Initialized
+INFO - 2023-08-23 15:22:30 --> Router Class Initialized
+INFO - 2023-08-23 15:22:30 --> Output Class Initialized
+INFO - 2023-08-23 15:22:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:30 --> Input Class Initialized
+INFO - 2023-08-23 15:22:30 --> Language Class Initialized
+INFO - 2023-08-23 15:22:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:30 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:30 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:22:30 --> Config Class Initialized
+INFO - 2023-08-23 15:22:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:30 --> URI Class Initialized
+INFO - 2023-08-23 15:22:30 --> Router Class Initialized
+INFO - 2023-08-23 15:22:30 --> Output Class Initialized
+INFO - 2023-08-23 15:22:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:30 --> Input Class Initialized
+INFO - 2023-08-23 15:22:30 --> Language Class Initialized
+INFO - 2023-08-23 15:22:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:30 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:30 --> Total execution time: 0.0038
+INFO - 2023-08-23 15:22:30 --> Config Class Initialized
+INFO - 2023-08-23 15:22:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:30 --> URI Class Initialized
+INFO - 2023-08-23 15:22:30 --> Router Class Initialized
+INFO - 2023-08-23 15:22:30 --> Output Class Initialized
+INFO - 2023-08-23 15:22:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:30 --> Input Class Initialized
+INFO - 2023-08-23 15:22:30 --> Language Class Initialized
+INFO - 2023-08-23 15:22:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:30 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:30 --> Total execution time: 0.0055
+INFO - 2023-08-23 15:22:30 --> Config Class Initialized
+INFO - 2023-08-23 15:22:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:30 --> URI Class Initialized
+INFO - 2023-08-23 15:22:30 --> Router Class Initialized
+INFO - 2023-08-23 15:22:30 --> Output Class Initialized
+INFO - 2023-08-23 15:22:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:30 --> Input Class Initialized
+INFO - 2023-08-23 15:22:30 --> Language Class Initialized
+INFO - 2023-08-23 15:22:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:30 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:30 --> Total execution time: 0.0033
+INFO - 2023-08-23 15:22:30 --> Config Class Initialized
+INFO - 2023-08-23 15:22:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:30 --> URI Class Initialized
+INFO - 2023-08-23 15:22:30 --> Router Class Initialized
+INFO - 2023-08-23 15:22:30 --> Output Class Initialized
+INFO - 2023-08-23 15:22:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:30 --> Input Class Initialized
+INFO - 2023-08-23 15:22:30 --> Language Class Initialized
+INFO - 2023-08-23 15:22:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:30 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:30 --> Total execution time: 0.0049
+INFO - 2023-08-23 15:22:30 --> Config Class Initialized
+INFO - 2023-08-23 15:22:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:30 --> URI Class Initialized
+INFO - 2023-08-23 15:22:30 --> Router Class Initialized
+INFO - 2023-08-23 15:22:30 --> Output Class Initialized
+INFO - 2023-08-23 15:22:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:30 --> Input Class Initialized
+INFO - 2023-08-23 15:22:30 --> Language Class Initialized
+INFO - 2023-08-23 15:22:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:30 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:30 --> Total execution time: 0.0027
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0037
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0029
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0025
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0040
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0022
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0058
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0069
+INFO - 2023-08-23 15:22:31 --> Config Class Initialized
+INFO - 2023-08-23 15:22:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:31 --> URI Class Initialized
+INFO - 2023-08-23 15:22:31 --> Router Class Initialized
+INFO - 2023-08-23 15:22:31 --> Output Class Initialized
+INFO - 2023-08-23 15:22:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:31 --> Input Class Initialized
+INFO - 2023-08-23 15:22:31 --> Language Class Initialized
+INFO - 2023-08-23 15:22:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:31 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:31 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:22:32 --> Config Class Initialized
+INFO - 2023-08-23 15:22:32 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:32 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:32 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:32 --> URI Class Initialized
+INFO - 2023-08-23 15:22:32 --> Router Class Initialized
+INFO - 2023-08-23 15:22:32 --> Output Class Initialized
+INFO - 2023-08-23 15:22:32 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:32 --> Input Class Initialized
+INFO - 2023-08-23 15:22:32 --> Language Class Initialized
+INFO - 2023-08-23 15:22:32 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:32 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:32 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:32 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:32 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:32 --> Total execution time: 0.0038
+INFO - 2023-08-23 15:22:32 --> Config Class Initialized
+INFO - 2023-08-23 15:22:32 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:32 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:32 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:32 --> URI Class Initialized
+INFO - 2023-08-23 15:22:32 --> Router Class Initialized
+INFO - 2023-08-23 15:22:32 --> Output Class Initialized
+INFO - 2023-08-23 15:22:32 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:32 --> Input Class Initialized
+INFO - 2023-08-23 15:22:32 --> Language Class Initialized
+INFO - 2023-08-23 15:22:32 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:32 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:32 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:32 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:32 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:32 --> Total execution time: 0.0033
+INFO - 2023-08-23 15:22:37 --> Config Class Initialized
+INFO - 2023-08-23 15:22:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:37 --> URI Class Initialized
+INFO - 2023-08-23 15:22:37 --> Router Class Initialized
+INFO - 2023-08-23 15:22:37 --> Output Class Initialized
+INFO - 2023-08-23 15:22:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:37 --> Input Class Initialized
+INFO - 2023-08-23 15:22:37 --> Language Class Initialized
+INFO - 2023-08-23 15:22:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:37 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:37 --> Total execution time: 0.0064
+INFO - 2023-08-23 15:22:37 --> Config Class Initialized
+INFO - 2023-08-23 15:22:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:37 --> URI Class Initialized
+INFO - 2023-08-23 15:22:37 --> Router Class Initialized
+INFO - 2023-08-23 15:22:37 --> Output Class Initialized
+INFO - 2023-08-23 15:22:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:37 --> Input Class Initialized
+INFO - 2023-08-23 15:22:37 --> Language Class Initialized
+INFO - 2023-08-23 15:22:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:37 --> Total execution time: 0.0035
+INFO - 2023-08-23 15:22:50 --> Config Class Initialized
+INFO - 2023-08-23 15:22:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:50 --> URI Class Initialized
+INFO - 2023-08-23 15:22:50 --> Router Class Initialized
+INFO - 2023-08-23 15:22:50 --> Output Class Initialized
+INFO - 2023-08-23 15:22:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:50 --> Input Class Initialized
+INFO - 2023-08-23 15:22:50 --> Language Class Initialized
+INFO - 2023-08-23 15:22:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:50 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:22:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:50 --> Total execution time: 0.0074
+INFO - 2023-08-23 15:22:50 --> Config Class Initialized
+INFO - 2023-08-23 15:22:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:22:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:22:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:22:50 --> URI Class Initialized
+INFO - 2023-08-23 15:22:50 --> Router Class Initialized
+INFO - 2023-08-23 15:22:50 --> Output Class Initialized
+INFO - 2023-08-23 15:22:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:22:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:22:50 --> Input Class Initialized
+INFO - 2023-08-23 15:22:50 --> Language Class Initialized
+INFO - 2023-08-23 15:22:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:22:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:22:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:22:50 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:22:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:22:50 --> Total execution time: 0.0038
+INFO - 2023-08-23 15:23:08 --> Config Class Initialized
+INFO - 2023-08-23 15:23:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:08 --> URI Class Initialized
+INFO - 2023-08-23 15:23:08 --> Router Class Initialized
+INFO - 2023-08-23 15:23:08 --> Output Class Initialized
+INFO - 2023-08-23 15:23:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:08 --> Input Class Initialized
+INFO - 2023-08-23 15:23:08 --> Language Class Initialized
+INFO - 2023-08-23 15:23:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:08 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:08 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:08 --> Total execution time: 0.0070
+INFO - 2023-08-23 15:23:12 --> Config Class Initialized
+INFO - 2023-08-23 15:23:12 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:12 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:12 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:12 --> URI Class Initialized
+INFO - 2023-08-23 15:23:12 --> Router Class Initialized
+INFO - 2023-08-23 15:23:12 --> Output Class Initialized
+INFO - 2023-08-23 15:23:12 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:12 --> Input Class Initialized
+INFO - 2023-08-23 15:23:12 --> Language Class Initialized
+INFO - 2023-08-23 15:23:12 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:12 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:12 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:12 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:12 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:12 --> Total execution time: 0.0065
+INFO - 2023-08-23 15:23:13 --> Config Class Initialized
+INFO - 2023-08-23 15:23:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:13 --> URI Class Initialized
+INFO - 2023-08-23 15:23:13 --> Router Class Initialized
+INFO - 2023-08-23 15:23:13 --> Output Class Initialized
+INFO - 2023-08-23 15:23:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:13 --> Input Class Initialized
+INFO - 2023-08-23 15:23:13 --> Language Class Initialized
+INFO - 2023-08-23 15:23:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:13 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:13 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:13 --> Total execution time: 0.0078
+INFO - 2023-08-23 15:23:14 --> Config Class Initialized
+INFO - 2023-08-23 15:23:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:14 --> URI Class Initialized
+INFO - 2023-08-23 15:23:14 --> Router Class Initialized
+INFO - 2023-08-23 15:23:14 --> Output Class Initialized
+INFO - 2023-08-23 15:23:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:14 --> Input Class Initialized
+INFO - 2023-08-23 15:23:14 --> Language Class Initialized
+INFO - 2023-08-23 15:23:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:14 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:14 --> Total execution time: 0.0081
+INFO - 2023-08-23 15:23:15 --> Config Class Initialized
+INFO - 2023-08-23 15:23:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:15 --> URI Class Initialized
+INFO - 2023-08-23 15:23:15 --> Router Class Initialized
+INFO - 2023-08-23 15:23:15 --> Output Class Initialized
+INFO - 2023-08-23 15:23:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:15 --> Input Class Initialized
+INFO - 2023-08-23 15:23:15 --> Language Class Initialized
+INFO - 2023-08-23 15:23:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:15 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:15 --> Total execution time: 0.0061
+INFO - 2023-08-23 15:23:15 --> Config Class Initialized
+INFO - 2023-08-23 15:23:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:15 --> URI Class Initialized
+INFO - 2023-08-23 15:23:15 --> Router Class Initialized
+INFO - 2023-08-23 15:23:15 --> Output Class Initialized
+INFO - 2023-08-23 15:23:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:15 --> Input Class Initialized
+INFO - 2023-08-23 15:23:15 --> Language Class Initialized
+INFO - 2023-08-23 15:23:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:15 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:15 --> Total execution time: 0.0063
+INFO - 2023-08-23 15:23:16 --> Config Class Initialized
+INFO - 2023-08-23 15:23:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:16 --> URI Class Initialized
+INFO - 2023-08-23 15:23:16 --> Router Class Initialized
+INFO - 2023-08-23 15:23:16 --> Output Class Initialized
+INFO - 2023-08-23 15:23:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:16 --> Input Class Initialized
+INFO - 2023-08-23 15:23:16 --> Language Class Initialized
+INFO - 2023-08-23 15:23:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:16 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:16 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:16 --> Total execution time: 0.0050
+INFO - 2023-08-23 15:23:16 --> Config Class Initialized
+INFO - 2023-08-23 15:23:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:16 --> URI Class Initialized
+INFO - 2023-08-23 15:23:16 --> Router Class Initialized
+INFO - 2023-08-23 15:23:16 --> Output Class Initialized
+INFO - 2023-08-23 15:23:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:16 --> Input Class Initialized
+INFO - 2023-08-23 15:23:16 --> Language Class Initialized
+INFO - 2023-08-23 15:23:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:16 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:16 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:16 --> Total execution time: 0.0065
+INFO - 2023-08-23 15:23:27 --> Config Class Initialized
+INFO - 2023-08-23 15:23:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:27 --> URI Class Initialized
+INFO - 2023-08-23 15:23:27 --> Router Class Initialized
+INFO - 2023-08-23 15:23:27 --> Output Class Initialized
+INFO - 2023-08-23 15:23:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:27 --> Input Class Initialized
+INFO - 2023-08-23 15:23:27 --> Language Class Initialized
+INFO - 2023-08-23 15:23:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:27 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:27 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:27 --> Total execution time: 0.0066
+INFO - 2023-08-23 15:23:27 --> Config Class Initialized
+INFO - 2023-08-23 15:23:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:27 --> URI Class Initialized
+INFO - 2023-08-23 15:23:27 --> Router Class Initialized
+INFO - 2023-08-23 15:23:27 --> Output Class Initialized
+INFO - 2023-08-23 15:23:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:27 --> Input Class Initialized
+INFO - 2023-08-23 15:23:27 --> Language Class Initialized
+INFO - 2023-08-23 15:23:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:27 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:27 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:27 --> Total execution time: 0.0088
+INFO - 2023-08-23 15:23:27 --> Config Class Initialized
+INFO - 2023-08-23 15:23:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:27 --> URI Class Initialized
+INFO - 2023-08-23 15:23:27 --> Router Class Initialized
+INFO - 2023-08-23 15:23:27 --> Output Class Initialized
+INFO - 2023-08-23 15:23:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:27 --> Input Class Initialized
+INFO - 2023-08-23 15:23:27 --> Language Class Initialized
+INFO - 2023-08-23 15:23:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:27 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:27 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:27 --> Total execution time: 0.0092
+INFO - 2023-08-23 15:23:28 --> Config Class Initialized
+INFO - 2023-08-23 15:23:28 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:28 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:28 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:28 --> URI Class Initialized
+INFO - 2023-08-23 15:23:28 --> Router Class Initialized
+INFO - 2023-08-23 15:23:28 --> Output Class Initialized
+INFO - 2023-08-23 15:23:28 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:28 --> Input Class Initialized
+INFO - 2023-08-23 15:23:28 --> Language Class Initialized
+INFO - 2023-08-23 15:23:28 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:28 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:28 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:28 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:28 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:28 --> Total execution time: 0.0060
+INFO - 2023-08-23 15:23:33 --> Config Class Initialized
+INFO - 2023-08-23 15:23:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:33 --> URI Class Initialized
+INFO - 2023-08-23 15:23:33 --> Router Class Initialized
+INFO - 2023-08-23 15:23:33 --> Output Class Initialized
+INFO - 2023-08-23 15:23:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:33 --> Input Class Initialized
+INFO - 2023-08-23 15:23:33 --> Language Class Initialized
+INFO - 2023-08-23 15:23:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:33 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:33 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:33 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:33 --> Total execution time: 0.0077
+INFO - 2023-08-23 15:23:33 --> Config Class Initialized
+INFO - 2023-08-23 15:23:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:33 --> URI Class Initialized
+INFO - 2023-08-23 15:23:33 --> Router Class Initialized
+INFO - 2023-08-23 15:23:33 --> Output Class Initialized
+INFO - 2023-08-23 15:23:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:33 --> Input Class Initialized
+INFO - 2023-08-23 15:23:33 --> Language Class Initialized
+INFO - 2023-08-23 15:23:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:33 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:33 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:23:33 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:33 --> Total execution time: 0.0041
+INFO - 2023-08-23 15:23:33 --> Config Class Initialized
+INFO - 2023-08-23 15:23:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:33 --> URI Class Initialized
+INFO - 2023-08-23 15:23:33 --> Router Class Initialized
+INFO - 2023-08-23 15:23:33 --> Output Class Initialized
+INFO - 2023-08-23 15:23:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:33 --> Input Class Initialized
+INFO - 2023-08-23 15:23:33 --> Language Class Initialized
+INFO - 2023-08-23 15:23:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:33 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:33 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:55 --> Config Class Initialized
+INFO - 2023-08-23 15:23:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:55 --> URI Class Initialized
+INFO - 2023-08-23 15:23:55 --> Router Class Initialized
+INFO - 2023-08-23 15:23:55 --> Output Class Initialized
+INFO - 2023-08-23 15:23:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:55 --> Input Class Initialized
+INFO - 2023-08-23 15:23:55 --> Language Class Initialized
+INFO - 2023-08-23 15:23:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:23:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:55 --> Total execution time: 0.0088
+INFO - 2023-08-23 15:23:57 --> Config Class Initialized
+INFO - 2023-08-23 15:23:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:57 --> URI Class Initialized
+INFO - 2023-08-23 15:23:57 --> Router Class Initialized
+INFO - 2023-08-23 15:23:57 --> Output Class Initialized
+INFO - 2023-08-23 15:23:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:57 --> Input Class Initialized
+INFO - 2023-08-23 15:23:57 --> Language Class Initialized
+INFO - 2023-08-23 15:23:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:57 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:23:57 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:57 --> Total execution time: 0.0058
+INFO - 2023-08-23 15:23:57 --> Config Class Initialized
+INFO - 2023-08-23 15:23:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:57 --> URI Class Initialized
+INFO - 2023-08-23 15:23:57 --> Router Class Initialized
+INFO - 2023-08-23 15:23:57 --> Output Class Initialized
+INFO - 2023-08-23 15:23:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:57 --> Input Class Initialized
+INFO - 2023-08-23 15:23:57 --> Language Class Initialized
+INFO - 2023-08-23 15:23:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:57 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:23:57 --> Final output sent to browser
+DEBUG - 2023-08-23 15:23:57 --> Total execution time: 0.0025
+INFO - 2023-08-23 15:23:57 --> Config Class Initialized
+INFO - 2023-08-23 15:23:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:23:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:23:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:23:57 --> URI Class Initialized
+INFO - 2023-08-23 15:23:57 --> Router Class Initialized
+INFO - 2023-08-23 15:23:57 --> Output Class Initialized
+INFO - 2023-08-23 15:23:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:23:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:23:57 --> Input Class Initialized
+INFO - 2023-08-23 15:23:57 --> Language Class Initialized
+INFO - 2023-08-23 15:23:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:23:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:23:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:23:57 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:24:02 --> Config Class Initialized
+INFO - 2023-08-23 15:24:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:24:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:24:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:24:02 --> URI Class Initialized
+INFO - 2023-08-23 15:24:02 --> Router Class Initialized
+INFO - 2023-08-23 15:24:02 --> Output Class Initialized
+INFO - 2023-08-23 15:24:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:24:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:24:02 --> Input Class Initialized
+INFO - 2023-08-23 15:24:02 --> Language Class Initialized
+INFO - 2023-08-23 15:24:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:24:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:24:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:24:02 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:24:02 --> Final output sent to browser
+DEBUG - 2023-08-23 15:24:02 --> Total execution time: 0.0068
+INFO - 2023-08-23 15:24:21 --> Config Class Initialized
+INFO - 2023-08-23 15:24:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:24:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:24:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:24:21 --> URI Class Initialized
+INFO - 2023-08-23 15:24:21 --> Router Class Initialized
+INFO - 2023-08-23 15:24:21 --> Output Class Initialized
+INFO - 2023-08-23 15:24:21 --> Security Class Initialized
+DEBUG - 2023-08-23 15:24:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:24:21 --> Input Class Initialized
+INFO - 2023-08-23 15:24:21 --> Language Class Initialized
+INFO - 2023-08-23 15:24:21 --> Loader Class Initialized
+INFO - 2023-08-23 15:24:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:24:21 --> Controller Class Initialized
+INFO - 2023-08-23 15:24:21 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:24:21 --> Severity: error --> Exception: Object of class CI_DB_mysqli_result could not be converted to string /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:24:21 --> Config Class Initialized
+INFO - 2023-08-23 15:24:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:24:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:24:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:24:21 --> URI Class Initialized
+INFO - 2023-08-23 15:24:21 --> Router Class Initialized
+INFO - 2023-08-23 15:24:21 --> Output Class Initialized
+INFO - 2023-08-23 15:24:21 --> Security Class Initialized
+DEBUG - 2023-08-23 15:24:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:24:21 --> Input Class Initialized
+INFO - 2023-08-23 15:24:21 --> Language Class Initialized
+INFO - 2023-08-23 15:24:21 --> Loader Class Initialized
+INFO - 2023-08-23 15:24:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:24:21 --> Controller Class Initialized
+INFO - 2023-08-23 15:24:21 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:24:21 --> Severity: error --> Exception: Object of class CI_DB_mysqli_result could not be converted to string /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:24:22 --> Config Class Initialized
+INFO - 2023-08-23 15:24:22 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:24:22 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:24:22 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:24:22 --> URI Class Initialized
+INFO - 2023-08-23 15:24:22 --> Router Class Initialized
+INFO - 2023-08-23 15:24:22 --> Output Class Initialized
+INFO - 2023-08-23 15:24:22 --> Security Class Initialized
+DEBUG - 2023-08-23 15:24:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:24:22 --> Input Class Initialized
+INFO - 2023-08-23 15:24:22 --> Language Class Initialized
+INFO - 2023-08-23 15:24:22 --> Loader Class Initialized
+INFO - 2023-08-23 15:24:22 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:24:22 --> Controller Class Initialized
+INFO - 2023-08-23 15:24:22 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:24:22 --> Severity: error --> Exception: Object of class CI_DB_mysqli_result could not be converted to string /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:24:22 --> Config Class Initialized
+INFO - 2023-08-23 15:24:22 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:24:22 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:24:22 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:24:22 --> URI Class Initialized
+INFO - 2023-08-23 15:24:22 --> Router Class Initialized
+INFO - 2023-08-23 15:24:22 --> Output Class Initialized
+INFO - 2023-08-23 15:24:22 --> Security Class Initialized
+DEBUG - 2023-08-23 15:24:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:24:22 --> Input Class Initialized
+INFO - 2023-08-23 15:24:22 --> Language Class Initialized
+INFO - 2023-08-23 15:24:22 --> Loader Class Initialized
+INFO - 2023-08-23 15:24:22 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:24:22 --> Controller Class Initialized
+INFO - 2023-08-23 15:24:22 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:24:22 --> Severity: error --> Exception: Object of class CI_DB_mysqli_result could not be converted to string /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:24:22 --> Config Class Initialized
+INFO - 2023-08-23 15:24:22 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:24:22 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:24:22 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:24:22 --> URI Class Initialized
+INFO - 2023-08-23 15:24:22 --> Router Class Initialized
+INFO - 2023-08-23 15:24:22 --> Output Class Initialized
+INFO - 2023-08-23 15:24:22 --> Security Class Initialized
+DEBUG - 2023-08-23 15:24:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:24:22 --> Input Class Initialized
+INFO - 2023-08-23 15:24:22 --> Language Class Initialized
+INFO - 2023-08-23 15:24:22 --> Loader Class Initialized
+INFO - 2023-08-23 15:24:22 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:24:22 --> Controller Class Initialized
+INFO - 2023-08-23 15:24:22 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:24:22 --> Severity: error --> Exception: Object of class CI_DB_mysqli_result could not be converted to string /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:24:27 --> Config Class Initialized
+INFO - 2023-08-23 15:24:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:24:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:24:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:24:27 --> URI Class Initialized
+INFO - 2023-08-23 15:24:27 --> Router Class Initialized
+INFO - 2023-08-23 15:24:27 --> Output Class Initialized
+INFO - 2023-08-23 15:24:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:24:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:24:27 --> Input Class Initialized
+INFO - 2023-08-23 15:24:27 --> Language Class Initialized
+INFO - 2023-08-23 15:24:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:24:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:24:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:24:27 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:24:27 --> Severity: error --> Exception: Object of class CI_DB_mysqli_result could not be converted to string /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:24:27 --> Config Class Initialized
+INFO - 2023-08-23 15:24:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:24:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:24:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:24:27 --> URI Class Initialized
+INFO - 2023-08-23 15:24:27 --> Router Class Initialized
+INFO - 2023-08-23 15:24:27 --> Output Class Initialized
+INFO - 2023-08-23 15:24:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:24:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:24:27 --> Input Class Initialized
+INFO - 2023-08-23 15:24:27 --> Language Class Initialized
+INFO - 2023-08-23 15:24:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:24:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:24:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:24:27 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:24:27 --> Severity: error --> Exception: Object of class CI_DB_mysqli_result could not be converted to string /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:24:28 --> Config Class Initialized
+INFO - 2023-08-23 15:24:28 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:24:28 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:24:28 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:24:28 --> URI Class Initialized
+INFO - 2023-08-23 15:24:28 --> Router Class Initialized
+INFO - 2023-08-23 15:24:28 --> Output Class Initialized
+INFO - 2023-08-23 15:24:28 --> Security Class Initialized
+DEBUG - 2023-08-23 15:24:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:24:28 --> Input Class Initialized
+INFO - 2023-08-23 15:24:28 --> Language Class Initialized
+INFO - 2023-08-23 15:24:28 --> Loader Class Initialized
+INFO - 2023-08-23 15:24:28 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:24:28 --> Controller Class Initialized
+INFO - 2023-08-23 15:24:28 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:24:28 --> Severity: error --> Exception: Object of class CI_DB_mysqli_result could not be converted to string /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:00 --> Config Class Initialized
+INFO - 2023-08-23 15:25:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:00 --> URI Class Initialized
+INFO - 2023-08-23 15:25:00 --> Router Class Initialized
+INFO - 2023-08-23 15:25:00 --> Output Class Initialized
+INFO - 2023-08-23 15:25:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:00 --> Input Class Initialized
+INFO - 2023-08-23 15:25:00 --> Language Class Initialized
+INFO - 2023-08-23 15:25:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:00 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:00 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:01 --> Config Class Initialized
+INFO - 2023-08-23 15:25:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:01 --> URI Class Initialized
+INFO - 2023-08-23 15:25:01 --> Router Class Initialized
+INFO - 2023-08-23 15:25:01 --> Output Class Initialized
+INFO - 2023-08-23 15:25:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:01 --> Input Class Initialized
+INFO - 2023-08-23 15:25:01 --> Language Class Initialized
+INFO - 2023-08-23 15:25:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:01 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:01 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:01 --> Config Class Initialized
+INFO - 2023-08-23 15:25:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:01 --> URI Class Initialized
+INFO - 2023-08-23 15:25:01 --> Router Class Initialized
+INFO - 2023-08-23 15:25:01 --> Output Class Initialized
+INFO - 2023-08-23 15:25:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:01 --> Input Class Initialized
+INFO - 2023-08-23 15:25:01 --> Language Class Initialized
+INFO - 2023-08-23 15:25:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:01 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:01 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:01 --> Config Class Initialized
+INFO - 2023-08-23 15:25:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:01 --> URI Class Initialized
+INFO - 2023-08-23 15:25:01 --> Router Class Initialized
+INFO - 2023-08-23 15:25:01 --> Output Class Initialized
+INFO - 2023-08-23 15:25:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:01 --> Input Class Initialized
+INFO - 2023-08-23 15:25:01 --> Language Class Initialized
+INFO - 2023-08-23 15:25:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:01 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:01 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:02 --> Config Class Initialized
+INFO - 2023-08-23 15:25:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:02 --> URI Class Initialized
+INFO - 2023-08-23 15:25:02 --> Router Class Initialized
+INFO - 2023-08-23 15:25:02 --> Output Class Initialized
+INFO - 2023-08-23 15:25:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:02 --> Input Class Initialized
+INFO - 2023-08-23 15:25:02 --> Language Class Initialized
+INFO - 2023-08-23 15:25:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:02 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:25:02 --> Final output sent to browser
+DEBUG - 2023-08-23 15:25:02 --> Total execution time: 0.0059
+INFO - 2023-08-23 15:25:06 --> Config Class Initialized
+INFO - 2023-08-23 15:25:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:06 --> URI Class Initialized
+INFO - 2023-08-23 15:25:06 --> Router Class Initialized
+INFO - 2023-08-23 15:25:06 --> Output Class Initialized
+INFO - 2023-08-23 15:25:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:06 --> Input Class Initialized
+INFO - 2023-08-23 15:25:06 --> Language Class Initialized
+INFO - 2023-08-23 15:25:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:06 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:06 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:07 --> Config Class Initialized
+INFO - 2023-08-23 15:25:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:07 --> URI Class Initialized
+INFO - 2023-08-23 15:25:07 --> Router Class Initialized
+INFO - 2023-08-23 15:25:07 --> Output Class Initialized
+INFO - 2023-08-23 15:25:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:07 --> Input Class Initialized
+INFO - 2023-08-23 15:25:07 --> Language Class Initialized
+INFO - 2023-08-23 15:25:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:07 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:07 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:08 --> Config Class Initialized
+INFO - 2023-08-23 15:25:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:08 --> URI Class Initialized
+INFO - 2023-08-23 15:25:08 --> Router Class Initialized
+INFO - 2023-08-23 15:25:08 --> Output Class Initialized
+INFO - 2023-08-23 15:25:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:08 --> Input Class Initialized
+INFO - 2023-08-23 15:25:08 --> Language Class Initialized
+INFO - 2023-08-23 15:25:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:08 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:08 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:20 --> Config Class Initialized
+INFO - 2023-08-23 15:25:20 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:20 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:20 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:20 --> URI Class Initialized
+INFO - 2023-08-23 15:25:20 --> Router Class Initialized
+INFO - 2023-08-23 15:25:20 --> Output Class Initialized
+INFO - 2023-08-23 15:25:20 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:20 --> Input Class Initialized
+INFO - 2023-08-23 15:25:20 --> Language Class Initialized
+INFO - 2023-08-23 15:25:20 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:20 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:20 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:20 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:25:20 --> Final output sent to browser
+DEBUG - 2023-08-23 15:25:20 --> Total execution time: 0.0057
+INFO - 2023-08-23 15:25:24 --> Config Class Initialized
+INFO - 2023-08-23 15:25:24 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:24 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:24 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:24 --> URI Class Initialized
+INFO - 2023-08-23 15:25:24 --> Router Class Initialized
+INFO - 2023-08-23 15:25:24 --> Output Class Initialized
+INFO - 2023-08-23 15:25:24 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:24 --> Input Class Initialized
+INFO - 2023-08-23 15:25:24 --> Language Class Initialized
+INFO - 2023-08-23 15:25:24 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:24 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:24 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:24 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:24 --> Severity: Notice --> Undefined property: CI_DB_mysqli_result::$user_name /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:24 --> Final output sent to browser
+DEBUG - 2023-08-23 15:25:24 --> Total execution time: 0.0081
+INFO - 2023-08-23 15:25:44 --> Config Class Initialized
+INFO - 2023-08-23 15:25:44 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:44 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:44 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:44 --> URI Class Initialized
+INFO - 2023-08-23 15:25:44 --> Router Class Initialized
+INFO - 2023-08-23 15:25:44 --> Output Class Initialized
+INFO - 2023-08-23 15:25:44 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:44 --> Input Class Initialized
+INFO - 2023-08-23 15:25:44 --> Language Class Initialized
+INFO - 2023-08-23 15:25:44 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:44 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:44 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:44 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:44 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:25:45 --> Config Class Initialized
+INFO - 2023-08-23 15:25:45 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:45 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:45 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:45 --> URI Class Initialized
+INFO - 2023-08-23 15:25:45 --> Router Class Initialized
+INFO - 2023-08-23 15:25:45 --> Output Class Initialized
+INFO - 2023-08-23 15:25:45 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:45 --> Input Class Initialized
+INFO - 2023-08-23 15:25:45 --> Language Class Initialized
+INFO - 2023-08-23 15:25:45 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:45 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:45 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:45 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:25:45 --> Final output sent to browser
+DEBUG - 2023-08-23 15:25:45 --> Total execution time: 0.0057
+INFO - 2023-08-23 15:25:50 --> Config Class Initialized
+INFO - 2023-08-23 15:25:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:25:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:25:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:25:50 --> URI Class Initialized
+INFO - 2023-08-23 15:25:50 --> Router Class Initialized
+INFO - 2023-08-23 15:25:50 --> Output Class Initialized
+INFO - 2023-08-23 15:25:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:25:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:25:50 --> Input Class Initialized
+INFO - 2023-08-23 15:25:50 --> Language Class Initialized
+INFO - 2023-08-23 15:25:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:25:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:25:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:25:50 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:25:50 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:26:00 --> Config Class Initialized
+INFO - 2023-08-23 15:26:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:26:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:26:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:26:00 --> URI Class Initialized
+INFO - 2023-08-23 15:26:00 --> Router Class Initialized
+INFO - 2023-08-23 15:26:00 --> Output Class Initialized
+INFO - 2023-08-23 15:26:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:26:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:26:00 --> Input Class Initialized
+INFO - 2023-08-23 15:26:00 --> Language Class Initialized
+INFO - 2023-08-23 15:26:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:26:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:26:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:26:00 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:26:00 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:26:01 --> Config Class Initialized
+INFO - 2023-08-23 15:26:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:26:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:26:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:26:01 --> URI Class Initialized
+INFO - 2023-08-23 15:26:01 --> Router Class Initialized
+INFO - 2023-08-23 15:26:01 --> Output Class Initialized
+INFO - 2023-08-23 15:26:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:26:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:26:01 --> Input Class Initialized
+INFO - 2023-08-23 15:26:01 --> Language Class Initialized
+INFO - 2023-08-23 15:26:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:26:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:26:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:26:01 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:26:01 --> Final output sent to browser
+DEBUG - 2023-08-23 15:26:01 --> Total execution time: 0.0106
+INFO - 2023-08-23 15:26:06 --> Config Class Initialized
+INFO - 2023-08-23 15:26:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:26:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:26:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:26:06 --> URI Class Initialized
+INFO - 2023-08-23 15:26:06 --> Router Class Initialized
+INFO - 2023-08-23 15:26:06 --> Output Class Initialized
+INFO - 2023-08-23 15:26:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:26:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:26:06 --> Input Class Initialized
+INFO - 2023-08-23 15:26:06 --> Language Class Initialized
+INFO - 2023-08-23 15:26:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:26:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:26:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:26:06 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:26:06 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:26:09 --> Config Class Initialized
+INFO - 2023-08-23 15:26:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:26:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:26:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:26:09 --> URI Class Initialized
+INFO - 2023-08-23 15:26:09 --> Router Class Initialized
+INFO - 2023-08-23 15:26:09 --> Output Class Initialized
+INFO - 2023-08-23 15:26:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:26:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:26:09 --> Input Class Initialized
+INFO - 2023-08-23 15:26:09 --> Language Class Initialized
+INFO - 2023-08-23 15:26:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:26:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:26:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:26:09 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:26:09 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:26:26 --> Config Class Initialized
+INFO - 2023-08-23 15:26:26 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:26:26 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:26:26 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:26:26 --> URI Class Initialized
+INFO - 2023-08-23 15:26:26 --> Router Class Initialized
+INFO - 2023-08-23 15:26:26 --> Output Class Initialized
+INFO - 2023-08-23 15:26:26 --> Security Class Initialized
+DEBUG - 2023-08-23 15:26:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:26:26 --> Input Class Initialized
+INFO - 2023-08-23 15:26:26 --> Language Class Initialized
+INFO - 2023-08-23 15:26:26 --> Loader Class Initialized
+INFO - 2023-08-23 15:26:26 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:26:26 --> Controller Class Initialized
+INFO - 2023-08-23 15:26:26 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:26:26 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:26:53 --> Config Class Initialized
+INFO - 2023-08-23 15:26:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:26:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:26:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:26:53 --> URI Class Initialized
+INFO - 2023-08-23 15:26:53 --> Router Class Initialized
+INFO - 2023-08-23 15:26:53 --> Output Class Initialized
+INFO - 2023-08-23 15:26:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:26:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:26:53 --> Input Class Initialized
+INFO - 2023-08-23 15:26:53 --> Language Class Initialized
+INFO - 2023-08-23 15:26:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:26:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:26:53 --> Controller Class Initialized
+INFO - 2023-08-23 15:26:53 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:26:53 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:27:06 --> Config Class Initialized
+INFO - 2023-08-23 15:27:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:27:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:27:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:27:06 --> URI Class Initialized
+INFO - 2023-08-23 15:27:06 --> Router Class Initialized
+INFO - 2023-08-23 15:27:06 --> Output Class Initialized
+INFO - 2023-08-23 15:27:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:27:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:27:06 --> Input Class Initialized
+INFO - 2023-08-23 15:27:06 --> Language Class Initialized
+INFO - 2023-08-23 15:27:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:27:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:27:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:27:06 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:27:06 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:27:08 --> Config Class Initialized
+INFO - 2023-08-23 15:27:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:27:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:27:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:27:08 --> URI Class Initialized
+INFO - 2023-08-23 15:27:08 --> Router Class Initialized
+INFO - 2023-08-23 15:27:08 --> Output Class Initialized
+INFO - 2023-08-23 15:27:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:27:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:27:08 --> Input Class Initialized
+INFO - 2023-08-23 15:27:08 --> Language Class Initialized
+INFO - 2023-08-23 15:27:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:27:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:27:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:27:08 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:27:08 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:27:13 --> Config Class Initialized
+INFO - 2023-08-23 15:27:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:27:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:27:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:27:13 --> URI Class Initialized
+INFO - 2023-08-23 15:27:13 --> Router Class Initialized
+INFO - 2023-08-23 15:27:13 --> Output Class Initialized
+INFO - 2023-08-23 15:27:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:27:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:27:13 --> Input Class Initialized
+INFO - 2023-08-23 15:27:13 --> Language Class Initialized
+INFO - 2023-08-23 15:27:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:27:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:27:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:27:13 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:27:13 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:27:30 --> Config Class Initialized
+INFO - 2023-08-23 15:27:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:27:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:27:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:27:30 --> URI Class Initialized
+INFO - 2023-08-23 15:27:30 --> Router Class Initialized
+INFO - 2023-08-23 15:27:30 --> Output Class Initialized
+INFO - 2023-08-23 15:27:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:27:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:27:30 --> Input Class Initialized
+INFO - 2023-08-23 15:27:30 --> Language Class Initialized
+INFO - 2023-08-23 15:27:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:27:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:27:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:27:30 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:27:30 --> Severity: error --> Exception: Object of class CI_DB_mysqli_result could not be converted to string /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 46
+INFO - 2023-08-23 15:27:37 --> Config Class Initialized
+INFO - 2023-08-23 15:27:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:27:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:27:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:27:37 --> URI Class Initialized
+INFO - 2023-08-23 15:27:37 --> Router Class Initialized
+INFO - 2023-08-23 15:27:37 --> Output Class Initialized
+INFO - 2023-08-23 15:27:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:27:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:27:37 --> Input Class Initialized
+INFO - 2023-08-23 15:27:37 --> Language Class Initialized
+INFO - 2023-08-23 15:27:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:27:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:27:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:27:37 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:27:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:27:37 --> Total execution time: 0.0057
+INFO - 2023-08-23 15:27:39 --> Config Class Initialized
+INFO - 2023-08-23 15:27:39 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:27:39 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:27:39 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:27:39 --> URI Class Initialized
+INFO - 2023-08-23 15:27:39 --> Router Class Initialized
+INFO - 2023-08-23 15:27:39 --> Output Class Initialized
+INFO - 2023-08-23 15:27:39 --> Security Class Initialized
+DEBUG - 2023-08-23 15:27:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:27:39 --> Input Class Initialized
+INFO - 2023-08-23 15:27:39 --> Language Class Initialized
+INFO - 2023-08-23 15:27:39 --> Loader Class Initialized
+INFO - 2023-08-23 15:27:39 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:27:39 --> Controller Class Initialized
+INFO - 2023-08-23 15:27:39 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:27:39 --> Final output sent to browser
+DEBUG - 2023-08-23 15:27:39 --> Total execution time: 0.0051
+INFO - 2023-08-23 15:27:58 --> Config Class Initialized
+INFO - 2023-08-23 15:27:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:27:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:27:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:27:58 --> URI Class Initialized
+INFO - 2023-08-23 15:27:58 --> Router Class Initialized
+INFO - 2023-08-23 15:27:58 --> Output Class Initialized
+INFO - 2023-08-23 15:27:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:27:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:27:58 --> Input Class Initialized
+INFO - 2023-08-23 15:27:58 --> Language Class Initialized
+ERROR - 2023-08-23 15:27:58 --> Severity: error --> Exception: syntax error, unexpected '}', expecting ';' /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 48
+INFO - 2023-08-23 15:28:04 --> Config Class Initialized
+INFO - 2023-08-23 15:28:04 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:28:04 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:28:04 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:28:04 --> URI Class Initialized
+INFO - 2023-08-23 15:28:04 --> Router Class Initialized
+INFO - 2023-08-23 15:28:04 --> Output Class Initialized
+INFO - 2023-08-23 15:28:04 --> Security Class Initialized
+DEBUG - 2023-08-23 15:28:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:28:04 --> Input Class Initialized
+INFO - 2023-08-23 15:28:04 --> Language Class Initialized
+INFO - 2023-08-23 15:28:04 --> Loader Class Initialized
+INFO - 2023-08-23 15:28:04 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:28:04 --> Controller Class Initialized
+INFO - 2023-08-23 15:28:04 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:28:04 --> Final output sent to browser
+DEBUG - 2023-08-23 15:28:04 --> Total execution time: 0.0056
+INFO - 2023-08-23 15:28:06 --> Config Class Initialized
+INFO - 2023-08-23 15:28:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:28:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:28:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:28:06 --> URI Class Initialized
+INFO - 2023-08-23 15:28:06 --> Router Class Initialized
+INFO - 2023-08-23 15:28:06 --> Output Class Initialized
+INFO - 2023-08-23 15:28:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:28:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:28:06 --> Input Class Initialized
+INFO - 2023-08-23 15:28:06 --> Language Class Initialized
+INFO - 2023-08-23 15:28:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:28:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:28:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:28:06 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:28:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:28:06 --> Total execution time: 0.0065
+INFO - 2023-08-23 15:28:35 --> Config Class Initialized
+INFO - 2023-08-23 15:28:35 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:28:35 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:28:35 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:28:35 --> URI Class Initialized
+INFO - 2023-08-23 15:28:35 --> Router Class Initialized
+INFO - 2023-08-23 15:28:35 --> Output Class Initialized
+INFO - 2023-08-23 15:28:35 --> Security Class Initialized
+DEBUG - 2023-08-23 15:28:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:28:35 --> Input Class Initialized
+INFO - 2023-08-23 15:28:35 --> Language Class Initialized
+INFO - 2023-08-23 15:28:35 --> Loader Class Initialized
+INFO - 2023-08-23 15:28:35 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:28:35 --> Controller Class Initialized
+INFO - 2023-08-23 15:28:35 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:28:35 --> Final output sent to browser
+DEBUG - 2023-08-23 15:28:35 --> Total execution time: 0.0064
+INFO - 2023-08-23 15:28:37 --> Config Class Initialized
+INFO - 2023-08-23 15:28:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:28:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:28:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:28:37 --> URI Class Initialized
+INFO - 2023-08-23 15:28:37 --> Router Class Initialized
+INFO - 2023-08-23 15:28:37 --> Output Class Initialized
+INFO - 2023-08-23 15:28:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:28:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:28:37 --> Input Class Initialized
+INFO - 2023-08-23 15:28:37 --> Language Class Initialized
+INFO - 2023-08-23 15:28:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:28:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:28:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:28:37 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:28:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:28:37 --> Total execution time: 0.0060
+INFO - 2023-08-23 15:28:39 --> Config Class Initialized
+INFO - 2023-08-23 15:28:39 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:28:39 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:28:39 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:28:39 --> URI Class Initialized
+INFO - 2023-08-23 15:28:39 --> Router Class Initialized
+INFO - 2023-08-23 15:28:39 --> Output Class Initialized
+INFO - 2023-08-23 15:28:39 --> Security Class Initialized
+DEBUG - 2023-08-23 15:28:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:28:39 --> Input Class Initialized
+INFO - 2023-08-23 15:28:39 --> Language Class Initialized
+INFO - 2023-08-23 15:28:39 --> Loader Class Initialized
+INFO - 2023-08-23 15:28:39 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:28:39 --> Controller Class Initialized
+INFO - 2023-08-23 15:28:39 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:28:39 --> Final output sent to browser
+DEBUG - 2023-08-23 15:28:39 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:28:42 --> Config Class Initialized
+INFO - 2023-08-23 15:28:42 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:28:42 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:28:42 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:28:42 --> URI Class Initialized
+INFO - 2023-08-23 15:28:42 --> Router Class Initialized
+INFO - 2023-08-23 15:28:42 --> Output Class Initialized
+INFO - 2023-08-23 15:28:42 --> Security Class Initialized
+DEBUG - 2023-08-23 15:28:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:28:42 --> Input Class Initialized
+INFO - 2023-08-23 15:28:42 --> Language Class Initialized
+INFO - 2023-08-23 15:28:42 --> Loader Class Initialized
+INFO - 2023-08-23 15:28:42 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:28:42 --> Controller Class Initialized
+INFO - 2023-08-23 15:28:42 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:28:42 --> Final output sent to browser
+DEBUG - 2023-08-23 15:28:42 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:29:54 --> Config Class Initialized
+INFO - 2023-08-23 15:29:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:29:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:29:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:29:54 --> URI Class Initialized
+INFO - 2023-08-23 15:29:54 --> Router Class Initialized
+INFO - 2023-08-23 15:29:54 --> Output Class Initialized
+INFO - 2023-08-23 15:29:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:29:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:29:54 --> Input Class Initialized
+INFO - 2023-08-23 15:29:54 --> Language Class Initialized
+ERROR - 2023-08-23 15:29:54 --> Severity: error --> Exception: syntax error, unexpected '}', expecting ';' or ',' /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 72
+INFO - 2023-08-23 15:29:59 --> Config Class Initialized
+INFO - 2023-08-23 15:29:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:29:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:29:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:29:59 --> URI Class Initialized
+INFO - 2023-08-23 15:29:59 --> Router Class Initialized
+INFO - 2023-08-23 15:29:59 --> Output Class Initialized
+INFO - 2023-08-23 15:29:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:29:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:29:59 --> Input Class Initialized
+INFO - 2023-08-23 15:29:59 --> Language Class Initialized
+INFO - 2023-08-23 15:29:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:29:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:29:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:29:59 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:29:59 --> Final output sent to browser
+DEBUG - 2023-08-23 15:29:59 --> Total execution time: 0.0050
+INFO - 2023-08-23 15:30:26 --> Config Class Initialized
+INFO - 2023-08-23 15:30:26 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:30:26 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:30:26 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:30:26 --> URI Class Initialized
+INFO - 2023-08-23 15:30:26 --> Router Class Initialized
+INFO - 2023-08-23 15:30:26 --> Output Class Initialized
+INFO - 2023-08-23 15:30:26 --> Security Class Initialized
+DEBUG - 2023-08-23 15:30:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:30:26 --> Input Class Initialized
+INFO - 2023-08-23 15:30:26 --> Language Class Initialized
+INFO - 2023-08-23 15:30:26 --> Loader Class Initialized
+INFO - 2023-08-23 15:30:26 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:30:26 --> Controller Class Initialized
+INFO - 2023-08-23 15:30:26 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:30:26 --> Final output sent to browser
+DEBUG - 2023-08-23 15:30:26 --> Total execution time: 0.0071
+INFO - 2023-08-23 15:30:27 --> Config Class Initialized
+INFO - 2023-08-23 15:30:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:30:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:30:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:30:27 --> URI Class Initialized
+INFO - 2023-08-23 15:30:27 --> Router Class Initialized
+INFO - 2023-08-23 15:30:27 --> Output Class Initialized
+INFO - 2023-08-23 15:30:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:30:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:30:27 --> Input Class Initialized
+INFO - 2023-08-23 15:30:27 --> Language Class Initialized
+INFO - 2023-08-23 15:30:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:30:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:30:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:30:27 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:30:27 --> Final output sent to browser
+DEBUG - 2023-08-23 15:30:27 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:30:31 --> Config Class Initialized
+INFO - 2023-08-23 15:30:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:30:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:30:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:30:31 --> URI Class Initialized
+INFO - 2023-08-23 15:30:31 --> Router Class Initialized
+INFO - 2023-08-23 15:30:31 --> Output Class Initialized
+INFO - 2023-08-23 15:30:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:30:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:30:31 --> Input Class Initialized
+INFO - 2023-08-23 15:30:31 --> Language Class Initialized
+INFO - 2023-08-23 15:30:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:30:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:30:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:30:31 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:30:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:30:31 --> Total execution time: 0.0046
+INFO - 2023-08-23 15:30:48 --> Config Class Initialized
+INFO - 2023-08-23 15:30:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:30:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:30:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:30:48 --> URI Class Initialized
+INFO - 2023-08-23 15:30:48 --> Router Class Initialized
+INFO - 2023-08-23 15:30:48 --> Output Class Initialized
+INFO - 2023-08-23 15:30:48 --> Security Class Initialized
+DEBUG - 2023-08-23 15:30:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:30:48 --> Input Class Initialized
+INFO - 2023-08-23 15:30:48 --> Language Class Initialized
+INFO - 2023-08-23 15:30:48 --> Loader Class Initialized
+INFO - 2023-08-23 15:30:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:30:48 --> Controller Class Initialized
+INFO - 2023-08-23 15:30:48 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:30:48 --> Final output sent to browser
+DEBUG - 2023-08-23 15:30:48 --> Total execution time: 0.0135
+INFO - 2023-08-23 15:30:50 --> Config Class Initialized
+INFO - 2023-08-23 15:30:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:30:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:30:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:30:50 --> URI Class Initialized
+INFO - 2023-08-23 15:30:50 --> Router Class Initialized
+INFO - 2023-08-23 15:30:50 --> Output Class Initialized
+INFO - 2023-08-23 15:30:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:30:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:30:50 --> Input Class Initialized
+INFO - 2023-08-23 15:30:50 --> Language Class Initialized
+INFO - 2023-08-23 15:30:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:30:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:30:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:30:50 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:30:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:30:50 --> Total execution time: 0.0050
+INFO - 2023-08-23 15:31:26 --> Config Class Initialized
+INFO - 2023-08-23 15:31:26 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:31:26 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:31:26 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:31:26 --> URI Class Initialized
+INFO - 2023-08-23 15:31:26 --> Router Class Initialized
+INFO - 2023-08-23 15:31:26 --> Output Class Initialized
+INFO - 2023-08-23 15:31:26 --> Security Class Initialized
+DEBUG - 2023-08-23 15:31:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:31:26 --> Input Class Initialized
+INFO - 2023-08-23 15:31:26 --> Language Class Initialized
+INFO - 2023-08-23 15:31:26 --> Loader Class Initialized
+INFO - 2023-08-23 15:31:26 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:31:26 --> Controller Class Initialized
+INFO - 2023-08-23 15:31:26 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:31:26 --> Severity: Notice --> Array to string conversion /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 44
+INFO - 2023-08-23 15:31:26 --> Final output sent to browser
+DEBUG - 2023-08-23 15:31:26 --> Total execution time: 0.0059
+INFO - 2023-08-23 15:31:44 --> Config Class Initialized
+INFO - 2023-08-23 15:31:44 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:31:44 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:31:44 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:31:44 --> URI Class Initialized
+INFO - 2023-08-23 15:31:44 --> Router Class Initialized
+INFO - 2023-08-23 15:31:44 --> Output Class Initialized
+INFO - 2023-08-23 15:31:44 --> Security Class Initialized
+DEBUG - 2023-08-23 15:31:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:31:44 --> Input Class Initialized
+INFO - 2023-08-23 15:31:44 --> Language Class Initialized
+INFO - 2023-08-23 15:31:44 --> Loader Class Initialized
+INFO - 2023-08-23 15:31:44 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:31:44 --> Controller Class Initialized
+INFO - 2023-08-23 15:31:44 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:31:44 --> Final output sent to browser
+DEBUG - 2023-08-23 15:31:44 --> Total execution time: 0.0068
+INFO - 2023-08-23 15:31:50 --> Config Class Initialized
+INFO - 2023-08-23 15:31:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:31:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:31:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:31:50 --> URI Class Initialized
+INFO - 2023-08-23 15:31:50 --> Router Class Initialized
+INFO - 2023-08-23 15:31:50 --> Output Class Initialized
+INFO - 2023-08-23 15:31:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:31:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:31:50 --> Input Class Initialized
+INFO - 2023-08-23 15:31:50 --> Language Class Initialized
+INFO - 2023-08-23 15:31:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:31:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:31:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:31:50 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:31:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:31:50 --> Total execution time: 0.0090
+INFO - 2023-08-23 15:32:13 --> Config Class Initialized
+INFO - 2023-08-23 15:32:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:32:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:32:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:32:13 --> URI Class Initialized
+INFO - 2023-08-23 15:32:13 --> Router Class Initialized
+INFO - 2023-08-23 15:32:13 --> Output Class Initialized
+INFO - 2023-08-23 15:32:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:32:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:32:13 --> Input Class Initialized
+INFO - 2023-08-23 15:32:13 --> Language Class Initialized
+INFO - 2023-08-23 15:32:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:32:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:32:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:32:13 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:32:13 --> Severity: Notice --> Undefined index: username /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 40
+INFO - 2023-08-23 15:32:13 --> Final output sent to browser
+DEBUG - 2023-08-23 15:32:13 --> Total execution time: 0.0105
+INFO - 2023-08-23 15:33:21 --> Config Class Initialized
+INFO - 2023-08-23 15:33:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:33:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:33:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:33:21 --> URI Class Initialized
+INFO - 2023-08-23 15:33:21 --> Router Class Initialized
+INFO - 2023-08-23 15:33:21 --> Output Class Initialized
+INFO - 2023-08-23 15:33:21 --> Security Class Initialized
+DEBUG - 2023-08-23 15:33:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:33:21 --> Input Class Initialized
+INFO - 2023-08-23 15:33:21 --> Language Class Initialized
+INFO - 2023-08-23 15:33:21 --> Loader Class Initialized
+INFO - 2023-08-23 15:33:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:33:21 --> Controller Class Initialized
+INFO - 2023-08-23 15:33:21 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:33:21 --> Severity: Notice --> Undefined index: username /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 40
+INFO - 2023-08-23 15:33:21 --> Final output sent to browser
+DEBUG - 2023-08-23 15:33:21 --> Total execution time: 0.0090
+INFO - 2023-08-23 15:33:28 --> Config Class Initialized
+INFO - 2023-08-23 15:33:28 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:33:28 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:33:28 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:33:28 --> URI Class Initialized
+INFO - 2023-08-23 15:33:28 --> Router Class Initialized
+INFO - 2023-08-23 15:33:28 --> Output Class Initialized
+INFO - 2023-08-23 15:33:28 --> Security Class Initialized
+DEBUG - 2023-08-23 15:33:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:33:28 --> Input Class Initialized
+INFO - 2023-08-23 15:33:28 --> Language Class Initialized
+INFO - 2023-08-23 15:33:28 --> Loader Class Initialized
+INFO - 2023-08-23 15:33:28 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:33:28 --> Controller Class Initialized
+INFO - 2023-08-23 15:33:28 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:33:28 --> Severity: Notice --> Undefined index: username /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 40
+INFO - 2023-08-23 15:33:28 --> Final output sent to browser
+DEBUG - 2023-08-23 15:33:28 --> Total execution time: 0.0076
+INFO - 2023-08-23 15:33:30 --> Config Class Initialized
+INFO - 2023-08-23 15:33:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:33:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:33:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:33:30 --> URI Class Initialized
+INFO - 2023-08-23 15:33:30 --> Router Class Initialized
+INFO - 2023-08-23 15:33:30 --> Output Class Initialized
+INFO - 2023-08-23 15:33:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:33:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:33:30 --> Input Class Initialized
+INFO - 2023-08-23 15:33:30 --> Language Class Initialized
+INFO - 2023-08-23 15:33:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:33:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:33:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:33:30 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:33:30 --> Severity: Notice --> Undefined index: username /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 40
+INFO - 2023-08-23 15:33:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:33:30 --> Total execution time: 0.0060
+INFO - 2023-08-23 15:33:48 --> Config Class Initialized
+INFO - 2023-08-23 15:33:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:33:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:33:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:33:48 --> URI Class Initialized
+INFO - 2023-08-23 15:33:48 --> Router Class Initialized
+INFO - 2023-08-23 15:33:48 --> Output Class Initialized
+INFO - 2023-08-23 15:33:48 --> Security Class Initialized
+DEBUG - 2023-08-23 15:33:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:33:48 --> Input Class Initialized
+INFO - 2023-08-23 15:33:48 --> Language Class Initialized
+INFO - 2023-08-23 15:33:48 --> Loader Class Initialized
+INFO - 2023-08-23 15:33:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:33:48 --> Controller Class Initialized
+INFO - 2023-08-23 15:33:48 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:33:48 --> Severity: Notice --> Undefined index: username /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 40
+INFO - 2023-08-23 15:33:48 --> Final output sent to browser
+DEBUG - 2023-08-23 15:33:48 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:33:49 --> Config Class Initialized
+INFO - 2023-08-23 15:33:49 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:33:49 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:33:49 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:33:49 --> URI Class Initialized
+INFO - 2023-08-23 15:33:49 --> Router Class Initialized
+INFO - 2023-08-23 15:33:49 --> Output Class Initialized
+INFO - 2023-08-23 15:33:49 --> Security Class Initialized
+DEBUG - 2023-08-23 15:33:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:33:49 --> Input Class Initialized
+INFO - 2023-08-23 15:33:49 --> Language Class Initialized
+INFO - 2023-08-23 15:33:49 --> Loader Class Initialized
+INFO - 2023-08-23 15:33:49 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:33:49 --> Controller Class Initialized
+INFO - 2023-08-23 15:33:49 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:33:49 --> Severity: Notice --> Undefined index: username /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 40
+INFO - 2023-08-23 15:33:49 --> Final output sent to browser
+DEBUG - 2023-08-23 15:33:49 --> Total execution time: 0.0035
+INFO - 2023-08-23 15:34:30 --> Config Class Initialized
+INFO - 2023-08-23 15:34:30 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:34:30 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:34:30 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:34:30 --> URI Class Initialized
+INFO - 2023-08-23 15:34:30 --> Router Class Initialized
+INFO - 2023-08-23 15:34:30 --> Output Class Initialized
+INFO - 2023-08-23 15:34:30 --> Security Class Initialized
+DEBUG - 2023-08-23 15:34:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:34:30 --> Input Class Initialized
+INFO - 2023-08-23 15:34:30 --> Language Class Initialized
+INFO - 2023-08-23 15:34:30 --> Loader Class Initialized
+INFO - 2023-08-23 15:34:30 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:34:30 --> Controller Class Initialized
+INFO - 2023-08-23 15:34:30 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:34:30 --> Final output sent to browser
+DEBUG - 2023-08-23 15:34:30 --> Total execution time: 0.0086
+INFO - 2023-08-23 15:34:37 --> Config Class Initialized
+INFO - 2023-08-23 15:34:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:34:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:34:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:34:37 --> URI Class Initialized
+INFO - 2023-08-23 15:34:37 --> Router Class Initialized
+INFO - 2023-08-23 15:34:37 --> Output Class Initialized
+INFO - 2023-08-23 15:34:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:34:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:34:37 --> Input Class Initialized
+INFO - 2023-08-23 15:34:37 --> Language Class Initialized
+INFO - 2023-08-23 15:34:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:34:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:34:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:34:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:34:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:34:37 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:34:41 --> Config Class Initialized
+INFO - 2023-08-23 15:34:41 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:34:41 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:34:41 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:34:41 --> URI Class Initialized
+INFO - 2023-08-23 15:34:41 --> Router Class Initialized
+INFO - 2023-08-23 15:34:41 --> Output Class Initialized
+INFO - 2023-08-23 15:34:41 --> Security Class Initialized
+DEBUG - 2023-08-23 15:34:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:34:41 --> Input Class Initialized
+INFO - 2023-08-23 15:34:41 --> Language Class Initialized
+INFO - 2023-08-23 15:34:41 --> Loader Class Initialized
+INFO - 2023-08-23 15:34:41 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:34:41 --> Controller Class Initialized
+INFO - 2023-08-23 15:34:41 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:34:41 --> Final output sent to browser
+DEBUG - 2023-08-23 15:34:41 --> Total execution time: 0.0052
+INFO - 2023-08-23 15:34:41 --> Config Class Initialized
+INFO - 2023-08-23 15:34:41 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:34:41 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:34:41 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:34:54 --> Config Class Initialized
+INFO - 2023-08-23 15:34:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:34:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:34:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:35:00 --> Config Class Initialized
+INFO - 2023-08-23 15:35:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:35:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:35:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:35:00 --> URI Class Initialized
+INFO - 2023-08-23 15:35:00 --> Router Class Initialized
+INFO - 2023-08-23 15:35:00 --> Output Class Initialized
+INFO - 2023-08-23 15:35:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:35:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:35:00 --> Input Class Initialized
+INFO - 2023-08-23 15:35:00 --> Language Class Initialized
+INFO - 2023-08-23 15:35:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:35:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:35:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:35:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:35:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:35:00 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:35:03 --> Config Class Initialized
+INFO - 2023-08-23 15:35:03 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:35:03 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:35:03 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:35:03 --> URI Class Initialized
+INFO - 2023-08-23 15:35:03 --> Router Class Initialized
+INFO - 2023-08-23 15:35:03 --> Output Class Initialized
+INFO - 2023-08-23 15:35:03 --> Security Class Initialized
+DEBUG - 2023-08-23 15:35:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:35:03 --> Input Class Initialized
+INFO - 2023-08-23 15:35:03 --> Language Class Initialized
+INFO - 2023-08-23 15:35:03 --> Loader Class Initialized
+INFO - 2023-08-23 15:35:03 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:35:03 --> Controller Class Initialized
+INFO - 2023-08-23 15:35:03 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:35:03 --> Final output sent to browser
+DEBUG - 2023-08-23 15:35:03 --> Total execution time: 0.0051
+INFO - 2023-08-23 15:35:03 --> Config Class Initialized
+INFO - 2023-08-23 15:35:03 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:35:03 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:35:03 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:35:38 --> Config Class Initialized
+INFO - 2023-08-23 15:35:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:35:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:35:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:35:38 --> URI Class Initialized
+INFO - 2023-08-23 15:35:38 --> Router Class Initialized
+INFO - 2023-08-23 15:35:38 --> Output Class Initialized
+INFO - 2023-08-23 15:35:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:35:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:35:38 --> Input Class Initialized
+INFO - 2023-08-23 15:35:38 --> Language Class Initialized
+INFO - 2023-08-23 15:35:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:35:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:35:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:35:38 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:35:38 --> Final output sent to browser
+DEBUG - 2023-08-23 15:35:38 --> Total execution time: 0.0051
+INFO - 2023-08-23 15:35:42 --> Config Class Initialized
+INFO - 2023-08-23 15:35:42 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:35:42 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:35:42 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:35:42 --> URI Class Initialized
+INFO - 2023-08-23 15:35:42 --> Router Class Initialized
+INFO - 2023-08-23 15:35:42 --> Output Class Initialized
+INFO - 2023-08-23 15:35:42 --> Security Class Initialized
+DEBUG - 2023-08-23 15:35:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:35:42 --> Input Class Initialized
+INFO - 2023-08-23 15:35:42 --> Language Class Initialized
+INFO - 2023-08-23 15:35:42 --> Loader Class Initialized
+INFO - 2023-08-23 15:35:42 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:35:42 --> Controller Class Initialized
+INFO - 2023-08-23 15:35:42 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:35:42 --> Final output sent to browser
+DEBUG - 2023-08-23 15:35:42 --> Total execution time: 0.0077
+INFO - 2023-08-23 15:35:42 --> Config Class Initialized
+INFO - 2023-08-23 15:35:42 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:35:42 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:35:42 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:36:21 --> Config Class Initialized
+INFO - 2023-08-23 15:36:21 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:36:21 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:36:21 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:36:21 --> URI Class Initialized
+INFO - 2023-08-23 15:36:21 --> Router Class Initialized
+INFO - 2023-08-23 15:36:21 --> Output Class Initialized
+INFO - 2023-08-23 15:36:21 --> Security Class Initialized
+DEBUG - 2023-08-23 15:36:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:36:21 --> Input Class Initialized
+INFO - 2023-08-23 15:36:21 --> Language Class Initialized
+INFO - 2023-08-23 15:36:21 --> Loader Class Initialized
+INFO - 2023-08-23 15:36:21 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:36:21 --> Controller Class Initialized
+INFO - 2023-08-23 15:36:21 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:36:21 --> Final output sent to browser
+DEBUG - 2023-08-23 15:36:21 --> Total execution time: 0.0079
+INFO - 2023-08-23 15:36:27 --> Config Class Initialized
+INFO - 2023-08-23 15:36:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:36:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:36:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:36:27 --> URI Class Initialized
+INFO - 2023-08-23 15:36:27 --> Router Class Initialized
+INFO - 2023-08-23 15:36:27 --> Output Class Initialized
+INFO - 2023-08-23 15:36:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:36:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:36:27 --> Input Class Initialized
+INFO - 2023-08-23 15:36:27 --> Language Class Initialized
+INFO - 2023-08-23 15:36:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:36:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:36:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:36:27 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:36:27 --> Final output sent to browser
+DEBUG - 2023-08-23 15:36:27 --> Total execution time: 0.0059
+INFO - 2023-08-23 15:36:27 --> Config Class Initialized
+INFO - 2023-08-23 15:36:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:36:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:36:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:36:27 --> URI Class Initialized
+INFO - 2023-08-23 15:36:27 --> Router Class Initialized
+INFO - 2023-08-23 15:36:27 --> Output Class Initialized
+INFO - 2023-08-23 15:36:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:36:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:36:27 --> Input Class Initialized
+INFO - 2023-08-23 15:36:27 --> Language Class Initialized
+INFO - 2023-08-23 15:36:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:36:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:36:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:36:27 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:36:27 --> Final output sent to browser
+DEBUG - 2023-08-23 15:36:27 --> Total execution time: 0.0037
+INFO - 2023-08-23 15:36:27 --> Config Class Initialized
+INFO - 2023-08-23 15:36:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:36:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:36:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:36:27 --> URI Class Initialized
+INFO - 2023-08-23 15:36:27 --> Router Class Initialized
+INFO - 2023-08-23 15:36:27 --> Output Class Initialized
+INFO - 2023-08-23 15:36:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:36:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:36:27 --> Input Class Initialized
+INFO - 2023-08-23 15:36:27 --> Language Class Initialized
+INFO - 2023-08-23 15:36:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:36:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:36:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:36:27 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:36:34 --> Config Class Initialized
+INFO - 2023-08-23 15:36:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:36:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:36:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:36:34 --> URI Class Initialized
+INFO - 2023-08-23 15:36:34 --> Router Class Initialized
+INFO - 2023-08-23 15:36:34 --> Output Class Initialized
+INFO - 2023-08-23 15:36:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:36:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:36:34 --> Input Class Initialized
+INFO - 2023-08-23 15:36:34 --> Language Class Initialized
+INFO - 2023-08-23 15:36:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:36:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:36:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:36:34 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:36:34 --> Final output sent to browser
+DEBUG - 2023-08-23 15:36:34 --> Total execution time: 0.0047
+INFO - 2023-08-23 15:36:38 --> Config Class Initialized
+INFO - 2023-08-23 15:36:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:36:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:36:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:36:38 --> URI Class Initialized
+INFO - 2023-08-23 15:36:38 --> Router Class Initialized
+INFO - 2023-08-23 15:36:38 --> Output Class Initialized
+INFO - 2023-08-23 15:36:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:36:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:36:38 --> Input Class Initialized
+INFO - 2023-08-23 15:36:38 --> Language Class Initialized
+INFO - 2023-08-23 15:36:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:36:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:36:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:36:38 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:36:38 --> Final output sent to browser
+DEBUG - 2023-08-23 15:36:38 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:36:38 --> Config Class Initialized
+INFO - 2023-08-23 15:36:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:36:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:36:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:36:38 --> URI Class Initialized
+INFO - 2023-08-23 15:36:38 --> Router Class Initialized
+INFO - 2023-08-23 15:36:38 --> Output Class Initialized
+INFO - 2023-08-23 15:36:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:36:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:36:38 --> Input Class Initialized
+INFO - 2023-08-23 15:36:38 --> Language Class Initialized
+INFO - 2023-08-23 15:36:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:36:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:36:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:36:38 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:36:38 --> Final output sent to browser
+DEBUG - 2023-08-23 15:36:38 --> Total execution time: 0.0032
+INFO - 2023-08-23 15:36:38 --> Config Class Initialized
+INFO - 2023-08-23 15:36:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:36:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:36:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:36:38 --> URI Class Initialized
+INFO - 2023-08-23 15:36:38 --> Router Class Initialized
+INFO - 2023-08-23 15:36:38 --> Output Class Initialized
+INFO - 2023-08-23 15:36:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:36:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:36:38 --> Input Class Initialized
+INFO - 2023-08-23 15:36:38 --> Language Class Initialized
+INFO - 2023-08-23 15:36:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:36:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:36:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:36:38 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:37:07 --> Config Class Initialized
+INFO - 2023-08-23 15:37:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:07 --> URI Class Initialized
+INFO - 2023-08-23 15:37:07 --> Router Class Initialized
+INFO - 2023-08-23 15:37:07 --> Output Class Initialized
+INFO - 2023-08-23 15:37:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:07 --> Input Class Initialized
+INFO - 2023-08-23 15:37:07 --> Language Class Initialized
+INFO - 2023-08-23 15:37:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:07 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:37:07 --> Final output sent to browser
+DEBUG - 2023-08-23 15:37:07 --> Total execution time: 0.0086
+INFO - 2023-08-23 15:37:11 --> Config Class Initialized
+INFO - 2023-08-23 15:37:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:11 --> URI Class Initialized
+INFO - 2023-08-23 15:37:11 --> Router Class Initialized
+INFO - 2023-08-23 15:37:11 --> Output Class Initialized
+INFO - 2023-08-23 15:37:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:11 --> Input Class Initialized
+INFO - 2023-08-23 15:37:11 --> Language Class Initialized
+INFO - 2023-08-23 15:37:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:11 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:37:11 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 45
+INFO - 2023-08-23 15:37:11 --> Config Class Initialized
+INFO - 2023-08-23 15:37:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:11 --> URI Class Initialized
+INFO - 2023-08-23 15:37:11 --> Router Class Initialized
+INFO - 2023-08-23 15:37:11 --> Output Class Initialized
+INFO - 2023-08-23 15:37:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:11 --> Input Class Initialized
+INFO - 2023-08-23 15:37:11 --> Language Class Initialized
+INFO - 2023-08-23 15:37:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:11 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:37:11 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 45
+INFO - 2023-08-23 15:37:14 --> Config Class Initialized
+INFO - 2023-08-23 15:37:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:14 --> URI Class Initialized
+INFO - 2023-08-23 15:37:14 --> Router Class Initialized
+INFO - 2023-08-23 15:37:14 --> Output Class Initialized
+INFO - 2023-08-23 15:37:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:14 --> Input Class Initialized
+INFO - 2023-08-23 15:37:14 --> Language Class Initialized
+INFO - 2023-08-23 15:37:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:14 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:37:14 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 45
+INFO - 2023-08-23 15:37:15 --> Config Class Initialized
+INFO - 2023-08-23 15:37:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:15 --> URI Class Initialized
+INFO - 2023-08-23 15:37:15 --> Router Class Initialized
+INFO - 2023-08-23 15:37:15 --> Output Class Initialized
+INFO - 2023-08-23 15:37:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:15 --> Input Class Initialized
+INFO - 2023-08-23 15:37:15 --> Language Class Initialized
+INFO - 2023-08-23 15:37:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:15 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:37:15 --> Severity: error --> Exception: Cannot use object of type CI_DB_mysqli_result as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 45
+INFO - 2023-08-23 15:37:56 --> Config Class Initialized
+INFO - 2023-08-23 15:37:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:56 --> URI Class Initialized
+INFO - 2023-08-23 15:37:56 --> Router Class Initialized
+INFO - 2023-08-23 15:37:56 --> Output Class Initialized
+INFO - 2023-08-23 15:37:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:56 --> Input Class Initialized
+INFO - 2023-08-23 15:37:56 --> Language Class Initialized
+INFO - 2023-08-23 15:37:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:56 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:37:56 --> Final output sent to browser
+DEBUG - 2023-08-23 15:37:56 --> Total execution time: 0.0135
+INFO - 2023-08-23 15:37:56 --> Config Class Initialized
+INFO - 2023-08-23 15:37:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:56 --> URI Class Initialized
+INFO - 2023-08-23 15:37:56 --> Router Class Initialized
+INFO - 2023-08-23 15:37:56 --> Output Class Initialized
+INFO - 2023-08-23 15:37:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:56 --> Input Class Initialized
+INFO - 2023-08-23 15:37:56 --> Language Class Initialized
+INFO - 2023-08-23 15:37:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:56 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:37:56 --> Final output sent to browser
+DEBUG - 2023-08-23 15:37:56 --> Total execution time: 0.0049
+INFO - 2023-08-23 15:37:56 --> Config Class Initialized
+INFO - 2023-08-23 15:37:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:56 --> URI Class Initialized
+INFO - 2023-08-23 15:37:56 --> Router Class Initialized
+INFO - 2023-08-23 15:37:56 --> Output Class Initialized
+INFO - 2023-08-23 15:37:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:56 --> Input Class Initialized
+INFO - 2023-08-23 15:37:56 --> Language Class Initialized
+INFO - 2023-08-23 15:37:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:56 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:37:57 --> Config Class Initialized
+INFO - 2023-08-23 15:37:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:57 --> URI Class Initialized
+INFO - 2023-08-23 15:37:57 --> Router Class Initialized
+INFO - 2023-08-23 15:37:57 --> Output Class Initialized
+INFO - 2023-08-23 15:37:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:57 --> Input Class Initialized
+INFO - 2023-08-23 15:37:57 --> Language Class Initialized
+INFO - 2023-08-23 15:37:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:57 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:37:57 --> Final output sent to browser
+DEBUG - 2023-08-23 15:37:57 --> Total execution time: 0.0076
+INFO - 2023-08-23 15:37:57 --> Config Class Initialized
+INFO - 2023-08-23 15:37:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:57 --> URI Class Initialized
+INFO - 2023-08-23 15:37:57 --> Router Class Initialized
+INFO - 2023-08-23 15:37:57 --> Output Class Initialized
+INFO - 2023-08-23 15:37:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:57 --> Input Class Initialized
+INFO - 2023-08-23 15:37:57 --> Language Class Initialized
+INFO - 2023-08-23 15:37:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:57 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:37:58 --> Config Class Initialized
+INFO - 2023-08-23 15:37:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:58 --> URI Class Initialized
+INFO - 2023-08-23 15:37:58 --> Router Class Initialized
+INFO - 2023-08-23 15:37:58 --> Output Class Initialized
+INFO - 2023-08-23 15:37:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:58 --> Input Class Initialized
+INFO - 2023-08-23 15:37:58 --> Language Class Initialized
+INFO - 2023-08-23 15:37:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:37:58 --> Final output sent to browser
+DEBUG - 2023-08-23 15:37:58 --> Total execution time: 0.0065
+INFO - 2023-08-23 15:37:58 --> Config Class Initialized
+INFO - 2023-08-23 15:37:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:37:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:37:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:37:58 --> URI Class Initialized
+INFO - 2023-08-23 15:37:58 --> Router Class Initialized
+INFO - 2023-08-23 15:37:58 --> Output Class Initialized
+INFO - 2023-08-23 15:37:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:37:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:37:58 --> Input Class Initialized
+INFO - 2023-08-23 15:37:58 --> Language Class Initialized
+INFO - 2023-08-23 15:37:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:37:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:37:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:37:58 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:38:01 --> Config Class Initialized
+INFO - 2023-08-23 15:38:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:01 --> URI Class Initialized
+INFO - 2023-08-23 15:38:01 --> Router Class Initialized
+INFO - 2023-08-23 15:38:01 --> Output Class Initialized
+INFO - 2023-08-23 15:38:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:01 --> Input Class Initialized
+INFO - 2023-08-23 15:38:01 --> Language Class Initialized
+INFO - 2023-08-23 15:38:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:01 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:38:01 --> Final output sent to browser
+DEBUG - 2023-08-23 15:38:01 --> Total execution time: 0.0040
+INFO - 2023-08-23 15:38:06 --> Config Class Initialized
+INFO - 2023-08-23 15:38:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:06 --> URI Class Initialized
+INFO - 2023-08-23 15:38:06 --> Router Class Initialized
+INFO - 2023-08-23 15:38:06 --> Output Class Initialized
+INFO - 2023-08-23 15:38:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:06 --> Input Class Initialized
+INFO - 2023-08-23 15:38:06 --> Language Class Initialized
+INFO - 2023-08-23 15:38:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:06 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:38:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:38:06 --> Total execution time: 0.0064
+INFO - 2023-08-23 15:38:07 --> Config Class Initialized
+INFO - 2023-08-23 15:38:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:07 --> URI Class Initialized
+INFO - 2023-08-23 15:38:07 --> Router Class Initialized
+INFO - 2023-08-23 15:38:07 --> Output Class Initialized
+INFO - 2023-08-23 15:38:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:07 --> Input Class Initialized
+INFO - 2023-08-23 15:38:07 --> Language Class Initialized
+INFO - 2023-08-23 15:38:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:07 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:38:07 --> Final output sent to browser
+DEBUG - 2023-08-23 15:38:07 --> Total execution time: 0.0071
+INFO - 2023-08-23 15:38:09 --> Config Class Initialized
+INFO - 2023-08-23 15:38:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:09 --> URI Class Initialized
+INFO - 2023-08-23 15:38:09 --> Router Class Initialized
+INFO - 2023-08-23 15:38:09 --> Output Class Initialized
+INFO - 2023-08-23 15:38:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:09 --> Input Class Initialized
+INFO - 2023-08-23 15:38:09 --> Language Class Initialized
+INFO - 2023-08-23 15:38:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:09 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:38:09 --> Final output sent to browser
+DEBUG - 2023-08-23 15:38:09 --> Total execution time: 0.0084
+INFO - 2023-08-23 15:38:19 --> Config Class Initialized
+INFO - 2023-08-23 15:38:19 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:19 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:19 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:19 --> URI Class Initialized
+INFO - 2023-08-23 15:38:19 --> Router Class Initialized
+INFO - 2023-08-23 15:38:19 --> Output Class Initialized
+INFO - 2023-08-23 15:38:19 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:19 --> Input Class Initialized
+INFO - 2023-08-23 15:38:19 --> Language Class Initialized
+INFO - 2023-08-23 15:38:19 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:19 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:19 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:19 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:38:19 --> Final output sent to browser
+DEBUG - 2023-08-23 15:38:19 --> Total execution time: 0.0074
+INFO - 2023-08-23 15:38:23 --> Config Class Initialized
+INFO - 2023-08-23 15:38:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:23 --> URI Class Initialized
+INFO - 2023-08-23 15:38:23 --> Router Class Initialized
+INFO - 2023-08-23 15:38:23 --> Output Class Initialized
+INFO - 2023-08-23 15:38:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:23 --> Input Class Initialized
+INFO - 2023-08-23 15:38:23 --> Language Class Initialized
+INFO - 2023-08-23 15:38:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:23 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:38:23 --> Final output sent to browser
+DEBUG - 2023-08-23 15:38:23 --> Total execution time: 0.0066
+INFO - 2023-08-23 15:38:23 --> Config Class Initialized
+INFO - 2023-08-23 15:38:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:23 --> URI Class Initialized
+INFO - 2023-08-23 15:38:23 --> Router Class Initialized
+INFO - 2023-08-23 15:38:23 --> Output Class Initialized
+INFO - 2023-08-23 15:38:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:23 --> Input Class Initialized
+INFO - 2023-08-23 15:38:23 --> Language Class Initialized
+INFO - 2023-08-23 15:38:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:23 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:38:23 --> Final output sent to browser
+DEBUG - 2023-08-23 15:38:23 --> Total execution time: 0.0047
+INFO - 2023-08-23 15:38:23 --> Config Class Initialized
+INFO - 2023-08-23 15:38:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:23 --> URI Class Initialized
+INFO - 2023-08-23 15:38:23 --> Router Class Initialized
+INFO - 2023-08-23 15:38:23 --> Output Class Initialized
+INFO - 2023-08-23 15:38:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:23 --> Input Class Initialized
+INFO - 2023-08-23 15:38:23 --> Language Class Initialized
+INFO - 2023-08-23 15:38:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:23 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:38:36 --> Config Class Initialized
+INFO - 2023-08-23 15:38:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:36 --> URI Class Initialized
+INFO - 2023-08-23 15:38:36 --> Router Class Initialized
+INFO - 2023-08-23 15:38:36 --> Output Class Initialized
+INFO - 2023-08-23 15:38:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:36 --> Input Class Initialized
+INFO - 2023-08-23 15:38:36 --> Language Class Initialized
+INFO - 2023-08-23 15:38:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:38:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:38:36 --> Total execution time: 0.0114
+INFO - 2023-08-23 15:38:43 --> Config Class Initialized
+INFO - 2023-08-23 15:38:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:43 --> URI Class Initialized
+INFO - 2023-08-23 15:38:43 --> Router Class Initialized
+INFO - 2023-08-23 15:38:43 --> Output Class Initialized
+INFO - 2023-08-23 15:38:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:43 --> Input Class Initialized
+INFO - 2023-08-23 15:38:43 --> Language Class Initialized
+INFO - 2023-08-23 15:38:43 --> Loader Class Initialized
+INFO - 2023-08-23 15:38:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:38:43 --> Controller Class Initialized
+INFO - 2023-08-23 15:38:43 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:38:43 --> Final output sent to browser
+DEBUG - 2023-08-23 15:38:43 --> Total execution time: 0.0067
+INFO - 2023-08-23 15:38:43 --> Config Class Initialized
+INFO - 2023-08-23 15:38:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:43 --> URI Class Initialized
+INFO - 2023-08-23 15:38:43 --> Router Class Initialized
+INFO - 2023-08-23 15:38:43 --> Output Class Initialized
+INFO - 2023-08-23 15:38:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:43 --> Input Class Initialized
+INFO - 2023-08-23 15:38:43 --> Language Class Initialized
+ERROR - 2023-08-23 15:38:43 --> 404 Page Not Found: Login/index
+INFO - 2023-08-23 15:38:57 --> Config Class Initialized
+INFO - 2023-08-23 15:38:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:38:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:38:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:38:57 --> URI Class Initialized
+INFO - 2023-08-23 15:38:57 --> Router Class Initialized
+INFO - 2023-08-23 15:38:57 --> Output Class Initialized
+INFO - 2023-08-23 15:38:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:38:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:38:57 --> Input Class Initialized
+INFO - 2023-08-23 15:38:57 --> Language Class Initialized
+ERROR - 2023-08-23 15:38:57 --> 404 Page Not Found: Login/index
+INFO - 2023-08-23 15:39:00 --> Config Class Initialized
+INFO - 2023-08-23 15:39:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:00 --> URI Class Initialized
+INFO - 2023-08-23 15:39:00 --> Router Class Initialized
+INFO - 2023-08-23 15:39:00 --> Output Class Initialized
+INFO - 2023-08-23 15:39:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:00 --> Input Class Initialized
+INFO - 2023-08-23 15:39:00 --> Language Class Initialized
+INFO - 2023-08-23 15:39:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:39:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:00 --> Total execution time: 0.0047
+INFO - 2023-08-23 15:39:02 --> Config Class Initialized
+INFO - 2023-08-23 15:39:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:02 --> URI Class Initialized
+INFO - 2023-08-23 15:39:02 --> Router Class Initialized
+INFO - 2023-08-23 15:39:02 --> Output Class Initialized
+INFO - 2023-08-23 15:39:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:02 --> Input Class Initialized
+INFO - 2023-08-23 15:39:02 --> Language Class Initialized
+INFO - 2023-08-23 15:39:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:02 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:39:02 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:02 --> Total execution time: 0.0055
+INFO - 2023-08-23 15:39:02 --> Config Class Initialized
+INFO - 2023-08-23 15:39:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:02 --> URI Class Initialized
+INFO - 2023-08-23 15:39:02 --> Router Class Initialized
+INFO - 2023-08-23 15:39:02 --> Output Class Initialized
+INFO - 2023-08-23 15:39:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:02 --> Input Class Initialized
+INFO - 2023-08-23 15:39:02 --> Language Class Initialized
+INFO - 2023-08-23 15:39:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:02 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:39:02 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:02 --> Total execution time: 0.0034
+INFO - 2023-08-23 15:39:11 --> Config Class Initialized
+INFO - 2023-08-23 15:39:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:11 --> URI Class Initialized
+INFO - 2023-08-23 15:39:11 --> Router Class Initialized
+INFO - 2023-08-23 15:39:11 --> Output Class Initialized
+INFO - 2023-08-23 15:39:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:11 --> Input Class Initialized
+INFO - 2023-08-23 15:39:11 --> Language Class Initialized
+INFO - 2023-08-23 15:39:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:11 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:39:11 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:11 --> Total execution time: 0.0035
+INFO - 2023-08-23 15:39:11 --> Config Class Initialized
+INFO - 2023-08-23 15:39:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:11 --> URI Class Initialized
+INFO - 2023-08-23 15:39:11 --> Router Class Initialized
+INFO - 2023-08-23 15:39:11 --> Output Class Initialized
+INFO - 2023-08-23 15:39:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:11 --> Input Class Initialized
+INFO - 2023-08-23 15:39:11 --> Language Class Initialized
+INFO - 2023-08-23 15:39:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:11 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:39:11 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:11 --> Total execution time: 0.0034
+INFO - 2023-08-23 15:39:11 --> Config Class Initialized
+INFO - 2023-08-23 15:39:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:11 --> URI Class Initialized
+INFO - 2023-08-23 15:39:11 --> Router Class Initialized
+INFO - 2023-08-23 15:39:11 --> Output Class Initialized
+INFO - 2023-08-23 15:39:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:11 --> Input Class Initialized
+INFO - 2023-08-23 15:39:11 --> Language Class Initialized
+INFO - 2023-08-23 15:39:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:11 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:39:13 --> Config Class Initialized
+INFO - 2023-08-23 15:39:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:13 --> URI Class Initialized
+INFO - 2023-08-23 15:39:13 --> Router Class Initialized
+INFO - 2023-08-23 15:39:13 --> Output Class Initialized
+INFO - 2023-08-23 15:39:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:13 --> Input Class Initialized
+INFO - 2023-08-23 15:39:13 --> Language Class Initialized
+INFO - 2023-08-23 15:39:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:13 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:39:13 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:13 --> Total execution time: 0.0041
+INFO - 2023-08-23 15:39:13 --> Config Class Initialized
+INFO - 2023-08-23 15:39:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:13 --> URI Class Initialized
+INFO - 2023-08-23 15:39:13 --> Router Class Initialized
+INFO - 2023-08-23 15:39:13 --> Output Class Initialized
+INFO - 2023-08-23 15:39:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:13 --> Input Class Initialized
+INFO - 2023-08-23 15:39:13 --> Language Class Initialized
+INFO - 2023-08-23 15:39:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:13 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:39:14 --> Config Class Initialized
+INFO - 2023-08-23 15:39:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:14 --> URI Class Initialized
+INFO - 2023-08-23 15:39:14 --> Router Class Initialized
+INFO - 2023-08-23 15:39:14 --> Output Class Initialized
+INFO - 2023-08-23 15:39:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:14 --> Input Class Initialized
+INFO - 2023-08-23 15:39:14 --> Language Class Initialized
+INFO - 2023-08-23 15:39:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:39:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:14 --> Total execution time: 0.0032
+INFO - 2023-08-23 15:39:14 --> Config Class Initialized
+INFO - 2023-08-23 15:39:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:14 --> URI Class Initialized
+INFO - 2023-08-23 15:39:14 --> Router Class Initialized
+INFO - 2023-08-23 15:39:14 --> Output Class Initialized
+INFO - 2023-08-23 15:39:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:14 --> Input Class Initialized
+INFO - 2023-08-23 15:39:14 --> Language Class Initialized
+INFO - 2023-08-23 15:39:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:14 --> Model "employee" initialized
+INFO - 2023-08-23 15:39:14 --> Config Class Initialized
+INFO - 2023-08-23 15:39:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:14 --> URI Class Initialized
+INFO - 2023-08-23 15:39:14 --> Router Class Initialized
+INFO - 2023-08-23 15:39:14 --> Output Class Initialized
+INFO - 2023-08-23 15:39:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:14 --> Input Class Initialized
+INFO - 2023-08-23 15:39:14 --> Language Class Initialized
+INFO - 2023-08-23 15:39:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:39:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:14 --> Total execution time: 0.0051
+INFO - 2023-08-23 15:39:14 --> Config Class Initialized
+INFO - 2023-08-23 15:39:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:14 --> URI Class Initialized
+INFO - 2023-08-23 15:39:14 --> Router Class Initialized
+INFO - 2023-08-23 15:39:14 --> Output Class Initialized
+INFO - 2023-08-23 15:39:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:14 --> Input Class Initialized
+INFO - 2023-08-23 15:39:14 --> Language Class Initialized
+INFO - 2023-08-23 15:39:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:14 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:39:15 --> Config Class Initialized
+INFO - 2023-08-23 15:39:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:15 --> URI Class Initialized
+INFO - 2023-08-23 15:39:15 --> Router Class Initialized
+INFO - 2023-08-23 15:39:15 --> Output Class Initialized
+INFO - 2023-08-23 15:39:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:15 --> Input Class Initialized
+INFO - 2023-08-23 15:39:15 --> Language Class Initialized
+INFO - 2023-08-23 15:39:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:39:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:15 --> Total execution time: 0.0046
+INFO - 2023-08-23 15:39:15 --> Config Class Initialized
+INFO - 2023-08-23 15:39:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:15 --> URI Class Initialized
+INFO - 2023-08-23 15:39:15 --> Router Class Initialized
+INFO - 2023-08-23 15:39:15 --> Output Class Initialized
+INFO - 2023-08-23 15:39:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:15 --> Input Class Initialized
+INFO - 2023-08-23 15:39:15 --> Language Class Initialized
+INFO - 2023-08-23 15:39:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:15 --> Model "employee" initialized
+INFO - 2023-08-23 15:39:15 --> Config Class Initialized
+INFO - 2023-08-23 15:39:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:15 --> URI Class Initialized
+INFO - 2023-08-23 15:39:15 --> Router Class Initialized
+INFO - 2023-08-23 15:39:15 --> Output Class Initialized
+INFO - 2023-08-23 15:39:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:15 --> Input Class Initialized
+INFO - 2023-08-23 15:39:15 --> Language Class Initialized
+INFO - 2023-08-23 15:39:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:39:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:15 --> Total execution time: 0.0036
+INFO - 2023-08-23 15:39:15 --> Config Class Initialized
+INFO - 2023-08-23 15:39:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:15 --> URI Class Initialized
+INFO - 2023-08-23 15:39:15 --> Router Class Initialized
+INFO - 2023-08-23 15:39:15 --> Output Class Initialized
+INFO - 2023-08-23 15:39:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:15 --> Input Class Initialized
+INFO - 2023-08-23 15:39:15 --> Language Class Initialized
+INFO - 2023-08-23 15:39:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:15 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:39:56 --> Config Class Initialized
+INFO - 2023-08-23 15:39:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:39:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:39:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:39:56 --> URI Class Initialized
+INFO - 2023-08-23 15:39:56 --> Router Class Initialized
+INFO - 2023-08-23 15:39:56 --> Output Class Initialized
+INFO - 2023-08-23 15:39:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:39:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:39:56 --> Input Class Initialized
+INFO - 2023-08-23 15:39:56 --> Language Class Initialized
+INFO - 2023-08-23 15:39:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:39:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:39:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:39:56 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:39:56 --> Final output sent to browser
+DEBUG - 2023-08-23 15:39:56 --> Total execution time: 0.0065
+INFO - 2023-08-23 15:40:00 --> Config Class Initialized
+INFO - 2023-08-23 15:40:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:40:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:40:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:40:00 --> URI Class Initialized
+INFO - 2023-08-23 15:40:00 --> Router Class Initialized
+INFO - 2023-08-23 15:40:00 --> Output Class Initialized
+INFO - 2023-08-23 15:40:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:40:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:40:00 --> Input Class Initialized
+INFO - 2023-08-23 15:40:00 --> Language Class Initialized
+INFO - 2023-08-23 15:40:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:40:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:40:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:40:00 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:40:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:40:00 --> Total execution time: 0.0052
+INFO - 2023-08-23 15:40:00 --> Config Class Initialized
+INFO - 2023-08-23 15:40:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:40:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:40:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:40:00 --> URI Class Initialized
+INFO - 2023-08-23 15:40:00 --> Router Class Initialized
+INFO - 2023-08-23 15:40:00 --> Output Class Initialized
+INFO - 2023-08-23 15:40:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:40:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:40:00 --> Input Class Initialized
+INFO - 2023-08-23 15:40:00 --> Language Class Initialized
+INFO - 2023-08-23 15:40:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:40:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:40:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:40:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:40:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:40:00 --> Total execution time: 0.0030
+INFO - 2023-08-23 15:40:05 --> Config Class Initialized
+INFO - 2023-08-23 15:40:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:40:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:40:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:40:05 --> URI Class Initialized
+INFO - 2023-08-23 15:40:05 --> Router Class Initialized
+INFO - 2023-08-23 15:40:05 --> Output Class Initialized
+INFO - 2023-08-23 15:40:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:40:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:40:05 --> Input Class Initialized
+INFO - 2023-08-23 15:40:05 --> Language Class Initialized
+INFO - 2023-08-23 15:40:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:40:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:40:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:40:05 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:40:05 --> Final output sent to browser
+DEBUG - 2023-08-23 15:40:05 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:40:05 --> Config Class Initialized
+INFO - 2023-08-23 15:40:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:40:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:40:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:40:05 --> URI Class Initialized
+INFO - 2023-08-23 15:40:05 --> Router Class Initialized
+INFO - 2023-08-23 15:40:05 --> Output Class Initialized
+INFO - 2023-08-23 15:40:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:40:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:40:05 --> Input Class Initialized
+INFO - 2023-08-23 15:40:05 --> Language Class Initialized
+INFO - 2023-08-23 15:40:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:40:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:40:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:40:05 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:40:05 --> Final output sent to browser
+DEBUG - 2023-08-23 15:40:05 --> Total execution time: 0.0047
+INFO - 2023-08-23 15:40:05 --> Config Class Initialized
+INFO - 2023-08-23 15:40:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:40:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:40:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:40:05 --> URI Class Initialized
+INFO - 2023-08-23 15:40:05 --> Router Class Initialized
+INFO - 2023-08-23 15:40:05 --> Output Class Initialized
+INFO - 2023-08-23 15:40:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:40:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:40:05 --> Input Class Initialized
+INFO - 2023-08-23 15:40:05 --> Language Class Initialized
+INFO - 2023-08-23 15:40:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:40:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:40:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:40:05 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:41:26 --> Config Class Initialized
+INFO - 2023-08-23 15:41:26 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:41:26 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:41:26 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:41:26 --> URI Class Initialized
+INFO - 2023-08-23 15:41:26 --> Router Class Initialized
+INFO - 2023-08-23 15:41:26 --> Output Class Initialized
+INFO - 2023-08-23 15:41:26 --> Security Class Initialized
+DEBUG - 2023-08-23 15:41:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:41:26 --> Input Class Initialized
+INFO - 2023-08-23 15:41:26 --> Language Class Initialized
+INFO - 2023-08-23 15:41:26 --> Loader Class Initialized
+INFO - 2023-08-23 15:41:26 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:41:26 --> Controller Class Initialized
+INFO - 2023-08-23 15:41:26 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:41:26 --> Final output sent to browser
+DEBUG - 2023-08-23 15:41:26 --> Total execution time: 0.0121
+INFO - 2023-08-23 15:41:31 --> Config Class Initialized
+INFO - 2023-08-23 15:41:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:41:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:41:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:41:31 --> URI Class Initialized
+INFO - 2023-08-23 15:41:31 --> Router Class Initialized
+INFO - 2023-08-23 15:41:31 --> Output Class Initialized
+INFO - 2023-08-23 15:41:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:41:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:41:31 --> Input Class Initialized
+INFO - 2023-08-23 15:41:31 --> Language Class Initialized
+INFO - 2023-08-23 15:41:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:41:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:41:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:41:31 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:41:31 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+ERROR - 2023-08-23 15:41:31 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 52
+INFO - 2023-08-23 15:41:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:41:31 --> Total execution time: 0.0072
+INFO - 2023-08-23 15:41:32 --> Config Class Initialized
+INFO - 2023-08-23 15:41:32 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:41:32 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:41:32 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:41:32 --> URI Class Initialized
+INFO - 2023-08-23 15:41:32 --> Router Class Initialized
+INFO - 2023-08-23 15:41:32 --> Output Class Initialized
+INFO - 2023-08-23 15:41:32 --> Security Class Initialized
+DEBUG - 2023-08-23 15:41:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:41:32 --> Input Class Initialized
+INFO - 2023-08-23 15:41:32 --> Language Class Initialized
+INFO - 2023-08-23 15:41:32 --> Loader Class Initialized
+INFO - 2023-08-23 15:41:32 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:41:32 --> Controller Class Initialized
+INFO - 2023-08-23 15:41:32 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:41:32 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+ERROR - 2023-08-23 15:41:32 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 52
+INFO - 2023-08-23 15:41:32 --> Final output sent to browser
+DEBUG - 2023-08-23 15:41:32 --> Total execution time: 0.0053
+INFO - 2023-08-23 15:41:33 --> Config Class Initialized
+INFO - 2023-08-23 15:41:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:41:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:41:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:41:33 --> URI Class Initialized
+INFO - 2023-08-23 15:41:33 --> Router Class Initialized
+INFO - 2023-08-23 15:41:33 --> Output Class Initialized
+INFO - 2023-08-23 15:41:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:41:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:41:33 --> Input Class Initialized
+INFO - 2023-08-23 15:41:33 --> Language Class Initialized
+INFO - 2023-08-23 15:41:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:41:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:41:33 --> Controller Class Initialized
+INFO - 2023-08-23 15:41:33 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:41:33 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+ERROR - 2023-08-23 15:41:33 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 52
+INFO - 2023-08-23 15:41:33 --> Final output sent to browser
+DEBUG - 2023-08-23 15:41:33 --> Total execution time: 0.0066
+INFO - 2023-08-23 15:41:42 --> Config Class Initialized
+INFO - 2023-08-23 15:41:42 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:41:42 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:41:42 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:41:42 --> URI Class Initialized
+INFO - 2023-08-23 15:41:42 --> Router Class Initialized
+INFO - 2023-08-23 15:41:42 --> Output Class Initialized
+INFO - 2023-08-23 15:41:42 --> Security Class Initialized
+DEBUG - 2023-08-23 15:41:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:41:42 --> Input Class Initialized
+INFO - 2023-08-23 15:41:42 --> Language Class Initialized
+INFO - 2023-08-23 15:41:42 --> Loader Class Initialized
+INFO - 2023-08-23 15:41:42 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:41:42 --> Controller Class Initialized
+INFO - 2023-08-23 15:41:42 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:41:42 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+ERROR - 2023-08-23 15:41:42 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 52
+INFO - 2023-08-23 15:41:42 --> Final output sent to browser
+DEBUG - 2023-08-23 15:41:42 --> Total execution time: 0.0095
+INFO - 2023-08-23 15:41:43 --> Config Class Initialized
+INFO - 2023-08-23 15:41:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:41:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:41:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:41:43 --> URI Class Initialized
+INFO - 2023-08-23 15:41:43 --> Router Class Initialized
+INFO - 2023-08-23 15:41:43 --> Output Class Initialized
+INFO - 2023-08-23 15:41:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:41:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:41:43 --> Input Class Initialized
+INFO - 2023-08-23 15:41:43 --> Language Class Initialized
+INFO - 2023-08-23 15:41:43 --> Loader Class Initialized
+INFO - 2023-08-23 15:41:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:41:43 --> Controller Class Initialized
+INFO - 2023-08-23 15:41:43 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:41:43 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+ERROR - 2023-08-23 15:41:43 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 52
+INFO - 2023-08-23 15:41:43 --> Final output sent to browser
+DEBUG - 2023-08-23 15:41:43 --> Total execution time: 0.0066
+INFO - 2023-08-23 15:41:43 --> Config Class Initialized
+INFO - 2023-08-23 15:41:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:41:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:41:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:41:43 --> URI Class Initialized
+INFO - 2023-08-23 15:41:43 --> Router Class Initialized
+INFO - 2023-08-23 15:41:43 --> Output Class Initialized
+INFO - 2023-08-23 15:41:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:41:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:41:43 --> Input Class Initialized
+INFO - 2023-08-23 15:41:43 --> Language Class Initialized
+INFO - 2023-08-23 15:41:43 --> Loader Class Initialized
+INFO - 2023-08-23 15:41:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:41:43 --> Controller Class Initialized
+INFO - 2023-08-23 15:41:43 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:41:43 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+ERROR - 2023-08-23 15:41:43 --> Severity: Notice --> Trying to get property 'user_type' of non-object /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 52
+INFO - 2023-08-23 15:41:43 --> Final output sent to browser
+DEBUG - 2023-08-23 15:41:43 --> Total execution time: 0.0070
+INFO - 2023-08-23 15:42:00 --> Config Class Initialized
+INFO - 2023-08-23 15:42:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:00 --> URI Class Initialized
+INFO - 2023-08-23 15:42:00 --> Router Class Initialized
+INFO - 2023-08-23 15:42:00 --> Output Class Initialized
+INFO - 2023-08-23 15:42:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:00 --> Input Class Initialized
+INFO - 2023-08-23 15:42:00 --> Language Class Initialized
+INFO - 2023-08-23 15:42:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:42:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:42:00 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:42:14 --> Config Class Initialized
+INFO - 2023-08-23 15:42:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:14 --> URI Class Initialized
+INFO - 2023-08-23 15:42:14 --> Router Class Initialized
+INFO - 2023-08-23 15:42:14 --> Output Class Initialized
+INFO - 2023-08-23 15:42:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:14 --> Input Class Initialized
+INFO - 2023-08-23 15:42:14 --> Language Class Initialized
+INFO - 2023-08-23 15:42:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:14 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:42:14 --> Severity: Notice --> Undefined index: user_type /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+ERROR - 2023-08-23 15:42:14 --> Severity: Notice --> Undefined index: user_type /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 52
+INFO - 2023-08-23 15:42:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:42:14 --> Total execution time: 0.0077
+INFO - 2023-08-23 15:42:14 --> Config Class Initialized
+INFO - 2023-08-23 15:42:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:14 --> URI Class Initialized
+INFO - 2023-08-23 15:42:14 --> Router Class Initialized
+INFO - 2023-08-23 15:42:14 --> Output Class Initialized
+INFO - 2023-08-23 15:42:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:14 --> Input Class Initialized
+INFO - 2023-08-23 15:42:14 --> Language Class Initialized
+INFO - 2023-08-23 15:42:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:14 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:42:14 --> Severity: Notice --> Undefined index: user_type /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+ERROR - 2023-08-23 15:42:14 --> Severity: Notice --> Undefined index: user_type /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 52
+INFO - 2023-08-23 15:42:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:42:14 --> Total execution time: 0.0055
+INFO - 2023-08-23 15:42:14 --> Config Class Initialized
+INFO - 2023-08-23 15:42:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:14 --> URI Class Initialized
+INFO - 2023-08-23 15:42:14 --> Router Class Initialized
+INFO - 2023-08-23 15:42:14 --> Output Class Initialized
+INFO - 2023-08-23 15:42:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:14 --> Input Class Initialized
+INFO - 2023-08-23 15:42:14 --> Language Class Initialized
+INFO - 2023-08-23 15:42:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:14 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:42:14 --> Severity: Notice --> Undefined index: user_type /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+ERROR - 2023-08-23 15:42:14 --> Severity: Notice --> Undefined index: user_type /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 52
+INFO - 2023-08-23 15:42:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:42:14 --> Total execution time: 0.0102
+INFO - 2023-08-23 15:42:25 --> Config Class Initialized
+INFO - 2023-08-23 15:42:25 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:25 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:25 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:25 --> URI Class Initialized
+INFO - 2023-08-23 15:42:25 --> Router Class Initialized
+INFO - 2023-08-23 15:42:25 --> Output Class Initialized
+INFO - 2023-08-23 15:42:25 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:25 --> Input Class Initialized
+INFO - 2023-08-23 15:42:25 --> Language Class Initialized
+INFO - 2023-08-23 15:42:25 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:25 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:25 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:25 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:42:25 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:42:26 --> Config Class Initialized
+INFO - 2023-08-23 15:42:26 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:26 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:26 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:26 --> URI Class Initialized
+INFO - 2023-08-23 15:42:26 --> Router Class Initialized
+INFO - 2023-08-23 15:42:26 --> Output Class Initialized
+INFO - 2023-08-23 15:42:26 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:26 --> Input Class Initialized
+INFO - 2023-08-23 15:42:26 --> Language Class Initialized
+INFO - 2023-08-23 15:42:26 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:26 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:26 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:26 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:42:26 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:42:26 --> Config Class Initialized
+INFO - 2023-08-23 15:42:26 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:26 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:26 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:26 --> URI Class Initialized
+INFO - 2023-08-23 15:42:26 --> Router Class Initialized
+INFO - 2023-08-23 15:42:26 --> Output Class Initialized
+INFO - 2023-08-23 15:42:26 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:26 --> Input Class Initialized
+INFO - 2023-08-23 15:42:26 --> Language Class Initialized
+INFO - 2023-08-23 15:42:26 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:26 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:26 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:26 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:42:26 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:42:27 --> Config Class Initialized
+INFO - 2023-08-23 15:42:27 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:27 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:27 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:27 --> URI Class Initialized
+INFO - 2023-08-23 15:42:27 --> Router Class Initialized
+INFO - 2023-08-23 15:42:27 --> Output Class Initialized
+INFO - 2023-08-23 15:42:27 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:27 --> Input Class Initialized
+INFO - 2023-08-23 15:42:27 --> Language Class Initialized
+INFO - 2023-08-23 15:42:27 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:27 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:27 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:27 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:42:27 --> Final output sent to browser
+DEBUG - 2023-08-23 15:42:27 --> Total execution time: 0.0047
+INFO - 2023-08-23 15:42:32 --> Config Class Initialized
+INFO - 2023-08-23 15:42:32 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:32 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:32 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:32 --> URI Class Initialized
+INFO - 2023-08-23 15:42:32 --> Router Class Initialized
+INFO - 2023-08-23 15:42:32 --> Output Class Initialized
+INFO - 2023-08-23 15:42:32 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:32 --> Input Class Initialized
+INFO - 2023-08-23 15:42:32 --> Language Class Initialized
+INFO - 2023-08-23 15:42:32 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:32 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:32 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:32 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:42:32 --> Final output sent to browser
+DEBUG - 2023-08-23 15:42:32 --> Total execution time: 0.0037
+INFO - 2023-08-23 15:42:32 --> Config Class Initialized
+INFO - 2023-08-23 15:42:32 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:32 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:32 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:32 --> URI Class Initialized
+INFO - 2023-08-23 15:42:32 --> Router Class Initialized
+INFO - 2023-08-23 15:42:32 --> Output Class Initialized
+INFO - 2023-08-23 15:42:32 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:32 --> Input Class Initialized
+INFO - 2023-08-23 15:42:32 --> Language Class Initialized
+INFO - 2023-08-23 15:42:32 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:32 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:32 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:32 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:42:32 --> Final output sent to browser
+DEBUG - 2023-08-23 15:42:32 --> Total execution time: 0.0025
+INFO - 2023-08-23 15:42:37 --> Config Class Initialized
+INFO - 2023-08-23 15:42:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:37 --> URI Class Initialized
+INFO - 2023-08-23 15:42:37 --> Router Class Initialized
+INFO - 2023-08-23 15:42:37 --> Output Class Initialized
+INFO - 2023-08-23 15:42:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:37 --> Input Class Initialized
+INFO - 2023-08-23 15:42:37 --> Language Class Initialized
+INFO - 2023-08-23 15:42:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:37 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:42:37 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:42:38 --> Config Class Initialized
+INFO - 2023-08-23 15:42:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:38 --> URI Class Initialized
+INFO - 2023-08-23 15:42:38 --> Router Class Initialized
+INFO - 2023-08-23 15:42:38 --> Output Class Initialized
+INFO - 2023-08-23 15:42:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:38 --> Input Class Initialized
+INFO - 2023-08-23 15:42:38 --> Language Class Initialized
+INFO - 2023-08-23 15:42:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:38 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:42:38 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:42:38 --> Config Class Initialized
+INFO - 2023-08-23 15:42:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:42:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:42:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:42:38 --> URI Class Initialized
+INFO - 2023-08-23 15:42:38 --> Router Class Initialized
+INFO - 2023-08-23 15:42:38 --> Output Class Initialized
+INFO - 2023-08-23 15:42:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:42:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:42:38 --> Input Class Initialized
+INFO - 2023-08-23 15:42:38 --> Language Class Initialized
+INFO - 2023-08-23 15:42:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:42:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:42:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:42:38 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:42:38 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:43:01 --> Config Class Initialized
+INFO - 2023-08-23 15:43:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:01 --> URI Class Initialized
+INFO - 2023-08-23 15:43:01 --> Router Class Initialized
+INFO - 2023-08-23 15:43:01 --> Output Class Initialized
+INFO - 2023-08-23 15:43:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:01 --> Input Class Initialized
+INFO - 2023-08-23 15:43:01 --> Language Class Initialized
+INFO - 2023-08-23 15:43:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:01 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:43:01 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:43:01 --> Config Class Initialized
+INFO - 2023-08-23 15:43:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:01 --> URI Class Initialized
+INFO - 2023-08-23 15:43:01 --> Router Class Initialized
+INFO - 2023-08-23 15:43:01 --> Output Class Initialized
+INFO - 2023-08-23 15:43:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:01 --> Input Class Initialized
+INFO - 2023-08-23 15:43:01 --> Language Class Initialized
+INFO - 2023-08-23 15:43:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:01 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:43:01 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:43:02 --> Config Class Initialized
+INFO - 2023-08-23 15:43:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:02 --> URI Class Initialized
+INFO - 2023-08-23 15:43:02 --> Router Class Initialized
+INFO - 2023-08-23 15:43:02 --> Output Class Initialized
+INFO - 2023-08-23 15:43:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:02 --> Input Class Initialized
+INFO - 2023-08-23 15:43:02 --> Language Class Initialized
+INFO - 2023-08-23 15:43:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:02 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:43:02 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:43:05 --> Config Class Initialized
+INFO - 2023-08-23 15:43:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:05 --> URI Class Initialized
+INFO - 2023-08-23 15:43:05 --> Router Class Initialized
+INFO - 2023-08-23 15:43:05 --> Output Class Initialized
+INFO - 2023-08-23 15:43:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:05 --> Input Class Initialized
+INFO - 2023-08-23 15:43:05 --> Language Class Initialized
+INFO - 2023-08-23 15:43:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:05 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:05 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:05 --> Total execution time: 0.0058
+INFO - 2023-08-23 15:43:06 --> Config Class Initialized
+INFO - 2023-08-23 15:43:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:06 --> URI Class Initialized
+INFO - 2023-08-23 15:43:06 --> Router Class Initialized
+INFO - 2023-08-23 15:43:06 --> Output Class Initialized
+INFO - 2023-08-23 15:43:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:06 --> Input Class Initialized
+INFO - 2023-08-23 15:43:06 --> Language Class Initialized
+INFO - 2023-08-23 15:43:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:06 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:06 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:43:06 --> Config Class Initialized
+INFO - 2023-08-23 15:43:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:06 --> URI Class Initialized
+INFO - 2023-08-23 15:43:06 --> Router Class Initialized
+INFO - 2023-08-23 15:43:06 --> Output Class Initialized
+INFO - 2023-08-23 15:43:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:06 --> Input Class Initialized
+INFO - 2023-08-23 15:43:06 --> Language Class Initialized
+INFO - 2023-08-23 15:43:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:06 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:06 --> Total execution time: 0.0029
+INFO - 2023-08-23 15:43:06 --> Config Class Initialized
+INFO - 2023-08-23 15:43:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:06 --> URI Class Initialized
+INFO - 2023-08-23 15:43:06 --> Router Class Initialized
+INFO - 2023-08-23 15:43:06 --> Output Class Initialized
+INFO - 2023-08-23 15:43:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:06 --> Input Class Initialized
+INFO - 2023-08-23 15:43:06 --> Language Class Initialized
+INFO - 2023-08-23 15:43:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:06 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:06 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:43:06 --> Config Class Initialized
+INFO - 2023-08-23 15:43:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:06 --> URI Class Initialized
+INFO - 2023-08-23 15:43:06 --> Router Class Initialized
+INFO - 2023-08-23 15:43:06 --> Output Class Initialized
+INFO - 2023-08-23 15:43:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:06 --> Input Class Initialized
+INFO - 2023-08-23 15:43:06 --> Language Class Initialized
+INFO - 2023-08-23 15:43:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:06 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:06 --> Total execution time: 0.0024
+INFO - 2023-08-23 15:43:06 --> Config Class Initialized
+INFO - 2023-08-23 15:43:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:06 --> URI Class Initialized
+INFO - 2023-08-23 15:43:06 --> Router Class Initialized
+INFO - 2023-08-23 15:43:06 --> Output Class Initialized
+INFO - 2023-08-23 15:43:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:06 --> Input Class Initialized
+INFO - 2023-08-23 15:43:06 --> Language Class Initialized
+INFO - 2023-08-23 15:43:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:06 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:06 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:43:06 --> Config Class Initialized
+INFO - 2023-08-23 15:43:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:06 --> URI Class Initialized
+INFO - 2023-08-23 15:43:06 --> Router Class Initialized
+INFO - 2023-08-23 15:43:06 --> Output Class Initialized
+INFO - 2023-08-23 15:43:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:06 --> Input Class Initialized
+INFO - 2023-08-23 15:43:06 --> Language Class Initialized
+INFO - 2023-08-23 15:43:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:06 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:06 --> Total execution time: 0.0049
+INFO - 2023-08-23 15:43:06 --> Config Class Initialized
+INFO - 2023-08-23 15:43:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:06 --> URI Class Initialized
+INFO - 2023-08-23 15:43:06 --> Router Class Initialized
+INFO - 2023-08-23 15:43:06 --> Output Class Initialized
+INFO - 2023-08-23 15:43:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:06 --> Input Class Initialized
+INFO - 2023-08-23 15:43:06 --> Language Class Initialized
+INFO - 2023-08-23 15:43:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:06 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:06 --> Total execution time: 0.0051
+INFO - 2023-08-23 15:43:06 --> Config Class Initialized
+INFO - 2023-08-23 15:43:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:06 --> URI Class Initialized
+INFO - 2023-08-23 15:43:06 --> Router Class Initialized
+INFO - 2023-08-23 15:43:06 --> Output Class Initialized
+INFO - 2023-08-23 15:43:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:06 --> Input Class Initialized
+INFO - 2023-08-23 15:43:06 --> Language Class Initialized
+INFO - 2023-08-23 15:43:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:06 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:06 --> Total execution time: 0.0025
+INFO - 2023-08-23 15:43:07 --> Config Class Initialized
+INFO - 2023-08-23 15:43:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:07 --> URI Class Initialized
+INFO - 2023-08-23 15:43:07 --> Router Class Initialized
+INFO - 2023-08-23 15:43:07 --> Output Class Initialized
+INFO - 2023-08-23 15:43:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:07 --> Input Class Initialized
+INFO - 2023-08-23 15:43:07 --> Language Class Initialized
+INFO - 2023-08-23 15:43:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:07 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:07 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:07 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:43:07 --> Config Class Initialized
+INFO - 2023-08-23 15:43:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:07 --> URI Class Initialized
+INFO - 2023-08-23 15:43:07 --> Router Class Initialized
+INFO - 2023-08-23 15:43:07 --> Output Class Initialized
+INFO - 2023-08-23 15:43:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:07 --> Input Class Initialized
+INFO - 2023-08-23 15:43:07 --> Language Class Initialized
+INFO - 2023-08-23 15:43:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:07 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:07 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:07 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:43:07 --> Config Class Initialized
+INFO - 2023-08-23 15:43:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:07 --> URI Class Initialized
+INFO - 2023-08-23 15:43:07 --> Router Class Initialized
+INFO - 2023-08-23 15:43:07 --> Output Class Initialized
+INFO - 2023-08-23 15:43:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:07 --> Input Class Initialized
+INFO - 2023-08-23 15:43:07 --> Language Class Initialized
+INFO - 2023-08-23 15:43:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:07 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:07 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:07 --> Total execution time: 0.0062
+INFO - 2023-08-23 15:43:07 --> Config Class Initialized
+INFO - 2023-08-23 15:43:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:07 --> URI Class Initialized
+INFO - 2023-08-23 15:43:07 --> Router Class Initialized
+INFO - 2023-08-23 15:43:07 --> Output Class Initialized
+INFO - 2023-08-23 15:43:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:07 --> Input Class Initialized
+INFO - 2023-08-23 15:43:07 --> Language Class Initialized
+INFO - 2023-08-23 15:43:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:07 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:07 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:07 --> Total execution time: 0.0032
+INFO - 2023-08-23 15:43:08 --> Config Class Initialized
+INFO - 2023-08-23 15:43:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:08 --> URI Class Initialized
+INFO - 2023-08-23 15:43:08 --> Router Class Initialized
+INFO - 2023-08-23 15:43:08 --> Output Class Initialized
+INFO - 2023-08-23 15:43:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:08 --> Input Class Initialized
+INFO - 2023-08-23 15:43:08 --> Language Class Initialized
+INFO - 2023-08-23 15:43:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:08 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:08 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:08 --> Total execution time: 0.0060
+INFO - 2023-08-23 15:43:08 --> Config Class Initialized
+INFO - 2023-08-23 15:43:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:08 --> URI Class Initialized
+INFO - 2023-08-23 15:43:08 --> Router Class Initialized
+INFO - 2023-08-23 15:43:08 --> Output Class Initialized
+INFO - 2023-08-23 15:43:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:08 --> Input Class Initialized
+INFO - 2023-08-23 15:43:08 --> Language Class Initialized
+INFO - 2023-08-23 15:43:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:08 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:08 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:43:08 --> Config Class Initialized
+INFO - 2023-08-23 15:43:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:08 --> URI Class Initialized
+INFO - 2023-08-23 15:43:08 --> Router Class Initialized
+INFO - 2023-08-23 15:43:08 --> Output Class Initialized
+INFO - 2023-08-23 15:43:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:08 --> Input Class Initialized
+INFO - 2023-08-23 15:43:08 --> Language Class Initialized
+INFO - 2023-08-23 15:43:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:08 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:08 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:08 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:43:08 --> Config Class Initialized
+INFO - 2023-08-23 15:43:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:08 --> URI Class Initialized
+INFO - 2023-08-23 15:43:08 --> Router Class Initialized
+INFO - 2023-08-23 15:43:08 --> Output Class Initialized
+INFO - 2023-08-23 15:43:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:08 --> Input Class Initialized
+INFO - 2023-08-23 15:43:08 --> Language Class Initialized
+INFO - 2023-08-23 15:43:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:08 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:08 --> Total execution time: 0.0026
+INFO - 2023-08-23 15:43:15 --> Config Class Initialized
+INFO - 2023-08-23 15:43:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:15 --> URI Class Initialized
+INFO - 2023-08-23 15:43:15 --> Router Class Initialized
+INFO - 2023-08-23 15:43:15 --> Output Class Initialized
+INFO - 2023-08-23 15:43:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:15 --> Input Class Initialized
+INFO - 2023-08-23 15:43:15 --> Language Class Initialized
+INFO - 2023-08-23 15:43:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:15 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:43:15 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:43:16 --> Config Class Initialized
+INFO - 2023-08-23 15:43:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:16 --> URI Class Initialized
+INFO - 2023-08-23 15:43:16 --> Router Class Initialized
+INFO - 2023-08-23 15:43:16 --> Output Class Initialized
+INFO - 2023-08-23 15:43:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:16 --> Input Class Initialized
+INFO - 2023-08-23 15:43:16 --> Language Class Initialized
+INFO - 2023-08-23 15:43:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:16 --> Model "sample_model" initialized
+ERROR - 2023-08-23 15:43:16 --> Severity: error --> Exception: Cannot use object of type stdClass as array /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/controllers/Sample.php 47
+INFO - 2023-08-23 15:43:48 --> Config Class Initialized
+INFO - 2023-08-23 15:43:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:48 --> URI Class Initialized
+INFO - 2023-08-23 15:43:48 --> Router Class Initialized
+INFO - 2023-08-23 15:43:48 --> Output Class Initialized
+INFO - 2023-08-23 15:43:48 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:48 --> Input Class Initialized
+INFO - 2023-08-23 15:43:48 --> Language Class Initialized
+INFO - 2023-08-23 15:43:48 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:48 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:48 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:48 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:48 --> Total execution time: 0.0080
+INFO - 2023-08-23 15:43:48 --> Config Class Initialized
+INFO - 2023-08-23 15:43:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:48 --> URI Class Initialized
+INFO - 2023-08-23 15:43:48 --> Router Class Initialized
+INFO - 2023-08-23 15:43:48 --> Output Class Initialized
+INFO - 2023-08-23 15:43:48 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:48 --> Input Class Initialized
+INFO - 2023-08-23 15:43:48 --> Language Class Initialized
+INFO - 2023-08-23 15:43:48 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:48 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:48 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:43:48 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:48 --> Total execution time: 0.0050
+INFO - 2023-08-23 15:43:48 --> Config Class Initialized
+INFO - 2023-08-23 15:43:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:48 --> URI Class Initialized
+INFO - 2023-08-23 15:43:48 --> Router Class Initialized
+INFO - 2023-08-23 15:43:48 --> Output Class Initialized
+INFO - 2023-08-23 15:43:48 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:48 --> Input Class Initialized
+INFO - 2023-08-23 15:43:48 --> Language Class Initialized
+INFO - 2023-08-23 15:43:48 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:48 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:48 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:50 --> Config Class Initialized
+INFO - 2023-08-23 15:43:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:50 --> URI Class Initialized
+INFO - 2023-08-23 15:43:50 --> Router Class Initialized
+INFO - 2023-08-23 15:43:50 --> Output Class Initialized
+INFO - 2023-08-23 15:43:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:50 --> Input Class Initialized
+INFO - 2023-08-23 15:43:50 --> Language Class Initialized
+INFO - 2023-08-23 15:43:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:50 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:43:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:50 --> Total execution time: 0.0049
+INFO - 2023-08-23 15:43:50 --> Config Class Initialized
+INFO - 2023-08-23 15:43:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:50 --> URI Class Initialized
+INFO - 2023-08-23 15:43:50 --> Router Class Initialized
+INFO - 2023-08-23 15:43:50 --> Output Class Initialized
+INFO - 2023-08-23 15:43:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:50 --> Input Class Initialized
+INFO - 2023-08-23 15:43:50 --> Language Class Initialized
+INFO - 2023-08-23 15:43:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:50 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:43:58 --> Config Class Initialized
+INFO - 2023-08-23 15:43:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:43:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:43:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:43:58 --> URI Class Initialized
+INFO - 2023-08-23 15:43:58 --> Router Class Initialized
+INFO - 2023-08-23 15:43:58 --> Output Class Initialized
+INFO - 2023-08-23 15:43:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:43:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:43:58 --> Input Class Initialized
+INFO - 2023-08-23 15:43:58 --> Language Class Initialized
+INFO - 2023-08-23 15:43:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:43:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:43:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:43:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:43:58 --> Final output sent to browser
+DEBUG - 2023-08-23 15:43:58 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:44:00 --> Config Class Initialized
+INFO - 2023-08-23 15:44:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:00 --> URI Class Initialized
+INFO - 2023-08-23 15:44:00 --> Router Class Initialized
+INFO - 2023-08-23 15:44:00 --> Output Class Initialized
+INFO - 2023-08-23 15:44:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:00 --> Input Class Initialized
+INFO - 2023-08-23 15:44:00 --> Language Class Initialized
+INFO - 2023-08-23 15:44:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:00 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:44:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:00 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:44:00 --> Config Class Initialized
+INFO - 2023-08-23 15:44:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:00 --> URI Class Initialized
+INFO - 2023-08-23 15:44:00 --> Router Class Initialized
+INFO - 2023-08-23 15:44:00 --> Output Class Initialized
+INFO - 2023-08-23 15:44:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:00 --> Input Class Initialized
+INFO - 2023-08-23 15:44:00 --> Language Class Initialized
+INFO - 2023-08-23 15:44:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:44:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:00 --> Total execution time: 0.0032
+INFO - 2023-08-23 15:44:05 --> Config Class Initialized
+INFO - 2023-08-23 15:44:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:05 --> URI Class Initialized
+INFO - 2023-08-23 15:44:05 --> Router Class Initialized
+INFO - 2023-08-23 15:44:05 --> Output Class Initialized
+INFO - 2023-08-23 15:44:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:05 --> Input Class Initialized
+INFO - 2023-08-23 15:44:05 --> Language Class Initialized
+INFO - 2023-08-23 15:44:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:05 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:44:05 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:05 --> Total execution time: 0.0058
+INFO - 2023-08-23 15:44:05 --> Config Class Initialized
+INFO - 2023-08-23 15:44:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:05 --> URI Class Initialized
+INFO - 2023-08-23 15:44:05 --> Router Class Initialized
+INFO - 2023-08-23 15:44:05 --> Output Class Initialized
+INFO - 2023-08-23 15:44:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:05 --> Input Class Initialized
+INFO - 2023-08-23 15:44:05 --> Language Class Initialized
+INFO - 2023-08-23 15:44:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:05 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:44:05 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:05 --> Total execution time: 0.0029
+INFO - 2023-08-23 15:44:09 --> Config Class Initialized
+INFO - 2023-08-23 15:44:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:09 --> URI Class Initialized
+INFO - 2023-08-23 15:44:09 --> Router Class Initialized
+INFO - 2023-08-23 15:44:09 --> Output Class Initialized
+INFO - 2023-08-23 15:44:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:09 --> Input Class Initialized
+INFO - 2023-08-23 15:44:09 --> Language Class Initialized
+INFO - 2023-08-23 15:44:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:09 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:44:09 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:09 --> Total execution time: 0.0061
+INFO - 2023-08-23 15:44:09 --> Config Class Initialized
+INFO - 2023-08-23 15:44:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:09 --> URI Class Initialized
+INFO - 2023-08-23 15:44:09 --> Router Class Initialized
+INFO - 2023-08-23 15:44:09 --> Output Class Initialized
+INFO - 2023-08-23 15:44:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:09 --> Input Class Initialized
+INFO - 2023-08-23 15:44:09 --> Language Class Initialized
+INFO - 2023-08-23 15:44:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:09 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:44:09 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:09 --> Total execution time: 0.0033
+INFO - 2023-08-23 15:44:09 --> Config Class Initialized
+INFO - 2023-08-23 15:44:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:09 --> URI Class Initialized
+INFO - 2023-08-23 15:44:09 --> Router Class Initialized
+INFO - 2023-08-23 15:44:09 --> Output Class Initialized
+INFO - 2023-08-23 15:44:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:09 --> Input Class Initialized
+INFO - 2023-08-23 15:44:09 --> Language Class Initialized
+INFO - 2023-08-23 15:44:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:09 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:44:40 --> Config Class Initialized
+INFO - 2023-08-23 15:44:40 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:40 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:40 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:40 --> URI Class Initialized
+INFO - 2023-08-23 15:44:40 --> Router Class Initialized
+INFO - 2023-08-23 15:44:40 --> Output Class Initialized
+INFO - 2023-08-23 15:44:40 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:40 --> Input Class Initialized
+INFO - 2023-08-23 15:44:40 --> Language Class Initialized
+INFO - 2023-08-23 15:44:40 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:40 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:40 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:40 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:44:40 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:40 --> Total execution time: 0.0072
+INFO - 2023-08-23 15:44:40 --> Config Class Initialized
+INFO - 2023-08-23 15:44:40 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:40 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:40 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:40 --> URI Class Initialized
+INFO - 2023-08-23 15:44:40 --> Router Class Initialized
+INFO - 2023-08-23 15:44:40 --> Output Class Initialized
+INFO - 2023-08-23 15:44:40 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:40 --> Input Class Initialized
+INFO - 2023-08-23 15:44:40 --> Language Class Initialized
+INFO - 2023-08-23 15:44:40 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:40 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:40 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:40 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:44:44 --> Config Class Initialized
+INFO - 2023-08-23 15:44:44 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:44 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:44 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:44 --> URI Class Initialized
+INFO - 2023-08-23 15:44:44 --> Router Class Initialized
+INFO - 2023-08-23 15:44:44 --> Output Class Initialized
+INFO - 2023-08-23 15:44:44 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:44 --> Input Class Initialized
+INFO - 2023-08-23 15:44:44 --> Language Class Initialized
+INFO - 2023-08-23 15:44:44 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:44 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:44 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:44 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:44:44 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:44 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:44:48 --> Config Class Initialized
+INFO - 2023-08-23 15:44:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:48 --> URI Class Initialized
+INFO - 2023-08-23 15:44:48 --> Router Class Initialized
+INFO - 2023-08-23 15:44:48 --> Output Class Initialized
+INFO - 2023-08-23 15:44:48 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:48 --> Input Class Initialized
+INFO - 2023-08-23 15:44:48 --> Language Class Initialized
+INFO - 2023-08-23 15:44:48 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:48 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:48 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:44:48 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:48 --> Total execution time: 0.0072
+INFO - 2023-08-23 15:44:48 --> Config Class Initialized
+INFO - 2023-08-23 15:44:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:48 --> URI Class Initialized
+INFO - 2023-08-23 15:44:48 --> Router Class Initialized
+INFO - 2023-08-23 15:44:48 --> Output Class Initialized
+INFO - 2023-08-23 15:44:48 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:48 --> Input Class Initialized
+INFO - 2023-08-23 15:44:48 --> Language Class Initialized
+INFO - 2023-08-23 15:44:48 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:48 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:48 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:48 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:48 --> Total execution time: 0.0053
+INFO - 2023-08-23 15:44:48 --> Config Class Initialized
+INFO - 2023-08-23 15:44:48 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:48 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:48 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:48 --> URI Class Initialized
+INFO - 2023-08-23 15:44:48 --> Router Class Initialized
+INFO - 2023-08-23 15:44:48 --> Output Class Initialized
+INFO - 2023-08-23 15:44:48 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:48 --> Input Class Initialized
+INFO - 2023-08-23 15:44:48 --> Language Class Initialized
+INFO - 2023-08-23 15:44:48 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:48 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:48 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:48 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:50 --> Config Class Initialized
+INFO - 2023-08-23 15:44:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:50 --> URI Class Initialized
+INFO - 2023-08-23 15:44:50 --> Router Class Initialized
+INFO - 2023-08-23 15:44:50 --> Output Class Initialized
+INFO - 2023-08-23 15:44:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:50 --> Input Class Initialized
+INFO - 2023-08-23 15:44:50 --> Language Class Initialized
+INFO - 2023-08-23 15:44:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:50 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:50 --> Total execution time: 0.0030
+INFO - 2023-08-23 15:44:50 --> Config Class Initialized
+INFO - 2023-08-23 15:44:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:50 --> URI Class Initialized
+INFO - 2023-08-23 15:44:50 --> Router Class Initialized
+INFO - 2023-08-23 15:44:50 --> Output Class Initialized
+INFO - 2023-08-23 15:44:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:50 --> Input Class Initialized
+INFO - 2023-08-23 15:44:50 --> Language Class Initialized
+INFO - 2023-08-23 15:44:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:50 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:50 --> Config Class Initialized
+INFO - 2023-08-23 15:44:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:50 --> URI Class Initialized
+INFO - 2023-08-23 15:44:50 --> Router Class Initialized
+INFO - 2023-08-23 15:44:50 --> Output Class Initialized
+INFO - 2023-08-23 15:44:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:50 --> Input Class Initialized
+INFO - 2023-08-23 15:44:50 --> Language Class Initialized
+INFO - 2023-08-23 15:44:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:50 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:50 --> Total execution time: 0.0037
+INFO - 2023-08-23 15:44:50 --> Config Class Initialized
+INFO - 2023-08-23 15:44:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:50 --> URI Class Initialized
+INFO - 2023-08-23 15:44:50 --> Router Class Initialized
+INFO - 2023-08-23 15:44:50 --> Output Class Initialized
+INFO - 2023-08-23 15:44:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:50 --> Input Class Initialized
+INFO - 2023-08-23 15:44:50 --> Language Class Initialized
+INFO - 2023-08-23 15:44:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:50 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:50 --> Config Class Initialized
+INFO - 2023-08-23 15:44:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:50 --> URI Class Initialized
+INFO - 2023-08-23 15:44:50 --> Router Class Initialized
+INFO - 2023-08-23 15:44:50 --> Output Class Initialized
+INFO - 2023-08-23 15:44:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:50 --> Input Class Initialized
+INFO - 2023-08-23 15:44:50 --> Language Class Initialized
+INFO - 2023-08-23 15:44:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:50 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:50 --> Total execution time: 0.0051
+INFO - 2023-08-23 15:44:50 --> Config Class Initialized
+INFO - 2023-08-23 15:44:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:50 --> URI Class Initialized
+INFO - 2023-08-23 15:44:50 --> Router Class Initialized
+INFO - 2023-08-23 15:44:50 --> Output Class Initialized
+INFO - 2023-08-23 15:44:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:50 --> Input Class Initialized
+INFO - 2023-08-23 15:44:50 --> Language Class Initialized
+INFO - 2023-08-23 15:44:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:50 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:50 --> Config Class Initialized
+INFO - 2023-08-23 15:44:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:50 --> URI Class Initialized
+INFO - 2023-08-23 15:44:50 --> Router Class Initialized
+INFO - 2023-08-23 15:44:50 --> Output Class Initialized
+INFO - 2023-08-23 15:44:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:50 --> Input Class Initialized
+INFO - 2023-08-23 15:44:50 --> Language Class Initialized
+INFO - 2023-08-23 15:44:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:50 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:50 --> Total execution time: 0.0047
+INFO - 2023-08-23 15:44:50 --> Config Class Initialized
+INFO - 2023-08-23 15:44:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:50 --> URI Class Initialized
+INFO - 2023-08-23 15:44:50 --> Router Class Initialized
+INFO - 2023-08-23 15:44:50 --> Output Class Initialized
+INFO - 2023-08-23 15:44:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:50 --> Input Class Initialized
+INFO - 2023-08-23 15:44:50 --> Language Class Initialized
+INFO - 2023-08-23 15:44:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:50 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:51 --> Config Class Initialized
+INFO - 2023-08-23 15:44:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:51 --> URI Class Initialized
+INFO - 2023-08-23 15:44:51 --> Router Class Initialized
+INFO - 2023-08-23 15:44:51 --> Output Class Initialized
+INFO - 2023-08-23 15:44:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:51 --> Input Class Initialized
+INFO - 2023-08-23 15:44:51 --> Language Class Initialized
+INFO - 2023-08-23 15:44:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:51 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:51 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:51 --> Total execution time: 0.0026
+INFO - 2023-08-23 15:44:51 --> Config Class Initialized
+INFO - 2023-08-23 15:44:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:51 --> URI Class Initialized
+INFO - 2023-08-23 15:44:51 --> Router Class Initialized
+INFO - 2023-08-23 15:44:51 --> Output Class Initialized
+INFO - 2023-08-23 15:44:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:51 --> Input Class Initialized
+INFO - 2023-08-23 15:44:51 --> Language Class Initialized
+INFO - 2023-08-23 15:44:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:51 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:51 --> Config Class Initialized
+INFO - 2023-08-23 15:44:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:51 --> URI Class Initialized
+INFO - 2023-08-23 15:44:51 --> Router Class Initialized
+INFO - 2023-08-23 15:44:51 --> Output Class Initialized
+INFO - 2023-08-23 15:44:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:51 --> Input Class Initialized
+INFO - 2023-08-23 15:44:51 --> Language Class Initialized
+INFO - 2023-08-23 15:44:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:51 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:51 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:51 --> Total execution time: 0.0040
+INFO - 2023-08-23 15:44:51 --> Config Class Initialized
+INFO - 2023-08-23 15:44:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:51 --> URI Class Initialized
+INFO - 2023-08-23 15:44:51 --> Router Class Initialized
+INFO - 2023-08-23 15:44:51 --> Output Class Initialized
+INFO - 2023-08-23 15:44:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:51 --> Input Class Initialized
+INFO - 2023-08-23 15:44:51 --> Language Class Initialized
+INFO - 2023-08-23 15:44:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:51 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:51 --> Config Class Initialized
+INFO - 2023-08-23 15:44:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:51 --> URI Class Initialized
+INFO - 2023-08-23 15:44:51 --> Router Class Initialized
+INFO - 2023-08-23 15:44:51 --> Output Class Initialized
+INFO - 2023-08-23 15:44:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:51 --> Input Class Initialized
+INFO - 2023-08-23 15:44:51 --> Language Class Initialized
+INFO - 2023-08-23 15:44:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:51 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:51 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:51 --> Total execution time: 0.0042
+INFO - 2023-08-23 15:44:51 --> Config Class Initialized
+INFO - 2023-08-23 15:44:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:51 --> URI Class Initialized
+INFO - 2023-08-23 15:44:51 --> Router Class Initialized
+INFO - 2023-08-23 15:44:51 --> Output Class Initialized
+INFO - 2023-08-23 15:44:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:51 --> Input Class Initialized
+INFO - 2023-08-23 15:44:51 --> Language Class Initialized
+INFO - 2023-08-23 15:44:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:51 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:51 --> Config Class Initialized
+INFO - 2023-08-23 15:44:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:51 --> URI Class Initialized
+INFO - 2023-08-23 15:44:51 --> Router Class Initialized
+INFO - 2023-08-23 15:44:51 --> Output Class Initialized
+INFO - 2023-08-23 15:44:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:51 --> Input Class Initialized
+INFO - 2023-08-23 15:44:51 --> Language Class Initialized
+INFO - 2023-08-23 15:44:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:51 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:51 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:51 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:44:51 --> Config Class Initialized
+INFO - 2023-08-23 15:44:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:51 --> URI Class Initialized
+INFO - 2023-08-23 15:44:51 --> Router Class Initialized
+INFO - 2023-08-23 15:44:51 --> Output Class Initialized
+INFO - 2023-08-23 15:44:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:51 --> Input Class Initialized
+INFO - 2023-08-23 15:44:51 --> Language Class Initialized
+INFO - 2023-08-23 15:44:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:51 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:52 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:52 --> Total execution time: 0.0042
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:52 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:52 --> Total execution time: 0.0053
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:52 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:52 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:52 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:52 --> Total execution time: 0.0026
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:52 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:52 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:44:52 --> Config Class Initialized
+INFO - 2023-08-23 15:44:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:52 --> URI Class Initialized
+INFO - 2023-08-23 15:44:52 --> Router Class Initialized
+INFO - 2023-08-23 15:44:52 --> Output Class Initialized
+INFO - 2023-08-23 15:44:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:52 --> Input Class Initialized
+INFO - 2023-08-23 15:44:52 --> Language Class Initialized
+INFO - 2023-08-23 15:44:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:52 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:53 --> Config Class Initialized
+INFO - 2023-08-23 15:44:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:53 --> URI Class Initialized
+INFO - 2023-08-23 15:44:53 --> Router Class Initialized
+INFO - 2023-08-23 15:44:53 --> Output Class Initialized
+INFO - 2023-08-23 15:44:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:53 --> Input Class Initialized
+INFO - 2023-08-23 15:44:53 --> Language Class Initialized
+INFO - 2023-08-23 15:44:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:53 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:53 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:53 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:53 --> Total execution time: 0.0043
+INFO - 2023-08-23 15:44:53 --> Config Class Initialized
+INFO - 2023-08-23 15:44:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:53 --> URI Class Initialized
+INFO - 2023-08-23 15:44:53 --> Router Class Initialized
+INFO - 2023-08-23 15:44:53 --> Output Class Initialized
+INFO - 2023-08-23 15:44:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:53 --> Input Class Initialized
+INFO - 2023-08-23 15:44:53 --> Language Class Initialized
+INFO - 2023-08-23 15:44:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:53 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:53 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:53 --> Config Class Initialized
+INFO - 2023-08-23 15:44:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:53 --> URI Class Initialized
+INFO - 2023-08-23 15:44:53 --> Router Class Initialized
+INFO - 2023-08-23 15:44:53 --> Output Class Initialized
+INFO - 2023-08-23 15:44:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:53 --> Input Class Initialized
+INFO - 2023-08-23 15:44:53 --> Language Class Initialized
+INFO - 2023-08-23 15:44:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:53 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:53 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:53 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:53 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:44:53 --> Config Class Initialized
+INFO - 2023-08-23 15:44:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:53 --> URI Class Initialized
+INFO - 2023-08-23 15:44:53 --> Router Class Initialized
+INFO - 2023-08-23 15:44:53 --> Output Class Initialized
+INFO - 2023-08-23 15:44:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:53 --> Input Class Initialized
+INFO - 2023-08-23 15:44:53 --> Language Class Initialized
+INFO - 2023-08-23 15:44:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:53 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:53 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:53 --> Config Class Initialized
+INFO - 2023-08-23 15:44:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:53 --> URI Class Initialized
+INFO - 2023-08-23 15:44:53 --> Router Class Initialized
+INFO - 2023-08-23 15:44:53 --> Output Class Initialized
+INFO - 2023-08-23 15:44:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:53 --> Input Class Initialized
+INFO - 2023-08-23 15:44:53 --> Language Class Initialized
+INFO - 2023-08-23 15:44:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:53 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:53 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:53 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:53 --> Total execution time: 0.0049
+INFO - 2023-08-23 15:44:53 --> Config Class Initialized
+INFO - 2023-08-23 15:44:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:53 --> URI Class Initialized
+INFO - 2023-08-23 15:44:53 --> Router Class Initialized
+INFO - 2023-08-23 15:44:53 --> Output Class Initialized
+INFO - 2023-08-23 15:44:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:53 --> Input Class Initialized
+INFO - 2023-08-23 15:44:53 --> Language Class Initialized
+INFO - 2023-08-23 15:44:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:53 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:53 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:53 --> Config Class Initialized
+INFO - 2023-08-23 15:44:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:53 --> URI Class Initialized
+INFO - 2023-08-23 15:44:53 --> Router Class Initialized
+INFO - 2023-08-23 15:44:53 --> Output Class Initialized
+INFO - 2023-08-23 15:44:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:53 --> Input Class Initialized
+INFO - 2023-08-23 15:44:53 --> Language Class Initialized
+INFO - 2023-08-23 15:44:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:53 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:53 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:53 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:53 --> Total execution time: 0.0031
+INFO - 2023-08-23 15:44:53 --> Config Class Initialized
+INFO - 2023-08-23 15:44:53 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:53 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:53 --> URI Class Initialized
+INFO - 2023-08-23 15:44:53 --> Router Class Initialized
+INFO - 2023-08-23 15:44:53 --> Output Class Initialized
+INFO - 2023-08-23 15:44:53 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:53 --> Input Class Initialized
+INFO - 2023-08-23 15:44:53 --> Language Class Initialized
+INFO - 2023-08-23 15:44:53 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:53 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:53 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:53 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:54 --> Config Class Initialized
+INFO - 2023-08-23 15:44:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:54 --> URI Class Initialized
+INFO - 2023-08-23 15:44:54 --> Router Class Initialized
+INFO - 2023-08-23 15:44:54 --> Output Class Initialized
+INFO - 2023-08-23 15:44:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:54 --> Input Class Initialized
+INFO - 2023-08-23 15:44:54 --> Language Class Initialized
+INFO - 2023-08-23 15:44:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:54 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:54 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:54 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:54 --> Total execution time: 0.0060
+INFO - 2023-08-23 15:44:54 --> Config Class Initialized
+INFO - 2023-08-23 15:44:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:54 --> URI Class Initialized
+INFO - 2023-08-23 15:44:54 --> Router Class Initialized
+INFO - 2023-08-23 15:44:54 --> Output Class Initialized
+INFO - 2023-08-23 15:44:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:54 --> Input Class Initialized
+INFO - 2023-08-23 15:44:54 --> Language Class Initialized
+INFO - 2023-08-23 15:44:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:54 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:54 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:54 --> Config Class Initialized
+INFO - 2023-08-23 15:44:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:54 --> URI Class Initialized
+INFO - 2023-08-23 15:44:54 --> Router Class Initialized
+INFO - 2023-08-23 15:44:54 --> Output Class Initialized
+INFO - 2023-08-23 15:44:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:54 --> Input Class Initialized
+INFO - 2023-08-23 15:44:54 --> Language Class Initialized
+INFO - 2023-08-23 15:44:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:54 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:54 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:54 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:54 --> Total execution time: 0.0056
+INFO - 2023-08-23 15:44:54 --> Config Class Initialized
+INFO - 2023-08-23 15:44:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:54 --> URI Class Initialized
+INFO - 2023-08-23 15:44:54 --> Router Class Initialized
+INFO - 2023-08-23 15:44:54 --> Output Class Initialized
+INFO - 2023-08-23 15:44:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:54 --> Input Class Initialized
+INFO - 2023-08-23 15:44:54 --> Language Class Initialized
+INFO - 2023-08-23 15:44:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:54 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:54 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:54 --> Config Class Initialized
+INFO - 2023-08-23 15:44:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:54 --> URI Class Initialized
+INFO - 2023-08-23 15:44:54 --> Router Class Initialized
+INFO - 2023-08-23 15:44:54 --> Output Class Initialized
+INFO - 2023-08-23 15:44:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:54 --> Input Class Initialized
+INFO - 2023-08-23 15:44:54 --> Language Class Initialized
+INFO - 2023-08-23 15:44:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:54 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:54 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:54 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:54 --> Total execution time: 0.0043
+INFO - 2023-08-23 15:44:54 --> Config Class Initialized
+INFO - 2023-08-23 15:44:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:54 --> URI Class Initialized
+INFO - 2023-08-23 15:44:54 --> Router Class Initialized
+INFO - 2023-08-23 15:44:54 --> Output Class Initialized
+INFO - 2023-08-23 15:44:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:54 --> Input Class Initialized
+INFO - 2023-08-23 15:44:54 --> Language Class Initialized
+INFO - 2023-08-23 15:44:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:54 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:54 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:54 --> Config Class Initialized
+INFO - 2023-08-23 15:44:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:54 --> URI Class Initialized
+INFO - 2023-08-23 15:44:54 --> Router Class Initialized
+INFO - 2023-08-23 15:44:54 --> Output Class Initialized
+INFO - 2023-08-23 15:44:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:54 --> Input Class Initialized
+INFO - 2023-08-23 15:44:54 --> Language Class Initialized
+INFO - 2023-08-23 15:44:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:54 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:54 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:54 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:54 --> Total execution time: 0.0053
+INFO - 2023-08-23 15:44:54 --> Config Class Initialized
+INFO - 2023-08-23 15:44:54 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:54 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:54 --> URI Class Initialized
+INFO - 2023-08-23 15:44:54 --> Router Class Initialized
+INFO - 2023-08-23 15:44:54 --> Output Class Initialized
+INFO - 2023-08-23 15:44:54 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:54 --> Input Class Initialized
+INFO - 2023-08-23 15:44:54 --> Language Class Initialized
+INFO - 2023-08-23 15:44:54 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:54 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:54 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:54 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:55 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:55 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:55 --> Total execution time: 0.0046
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:55 --> Total execution time: 0.0042
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:55 --> Total execution time: 0.0043
+INFO - 2023-08-23 15:44:55 --> Config Class Initialized
+INFO - 2023-08-23 15:44:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:55 --> URI Class Initialized
+INFO - 2023-08-23 15:44:55 --> Router Class Initialized
+INFO - 2023-08-23 15:44:55 --> Output Class Initialized
+INFO - 2023-08-23 15:44:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:55 --> Input Class Initialized
+INFO - 2023-08-23 15:44:55 --> Language Class Initialized
+INFO - 2023-08-23 15:44:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:55 --> Model "employee" initialized
+INFO - 2023-08-23 15:44:59 --> Config Class Initialized
+INFO - 2023-08-23 15:44:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:59 --> URI Class Initialized
+INFO - 2023-08-23 15:44:59 --> Router Class Initialized
+INFO - 2023-08-23 15:44:59 --> Output Class Initialized
+INFO - 2023-08-23 15:44:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:59 --> Input Class Initialized
+INFO - 2023-08-23 15:44:59 --> Language Class Initialized
+INFO - 2023-08-23 15:44:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:44:59 --> Final output sent to browser
+DEBUG - 2023-08-23 15:44:59 --> Total execution time: 0.0056
+INFO - 2023-08-23 15:44:59 --> Config Class Initialized
+INFO - 2023-08-23 15:44:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:44:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:44:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:44:59 --> URI Class Initialized
+INFO - 2023-08-23 15:44:59 --> Router Class Initialized
+INFO - 2023-08-23 15:44:59 --> Output Class Initialized
+INFO - 2023-08-23 15:44:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:44:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:44:59 --> Input Class Initialized
+INFO - 2023-08-23 15:44:59 --> Language Class Initialized
+INFO - 2023-08-23 15:44:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:44:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:44:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:44:59 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:02 --> Config Class Initialized
+INFO - 2023-08-23 15:45:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:02 --> URI Class Initialized
+INFO - 2023-08-23 15:45:02 --> Router Class Initialized
+INFO - 2023-08-23 15:45:02 --> Output Class Initialized
+INFO - 2023-08-23 15:45:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:02 --> Input Class Initialized
+INFO - 2023-08-23 15:45:02 --> Language Class Initialized
+INFO - 2023-08-23 15:45:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:02 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:45:02 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:02 --> Total execution time: 0.0035
+INFO - 2023-08-23 15:45:10 --> Config Class Initialized
+INFO - 2023-08-23 15:45:10 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:10 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:10 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:10 --> URI Class Initialized
+INFO - 2023-08-23 15:45:10 --> Router Class Initialized
+INFO - 2023-08-23 15:45:10 --> Output Class Initialized
+INFO - 2023-08-23 15:45:10 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:10 --> Input Class Initialized
+INFO - 2023-08-23 15:45:10 --> Language Class Initialized
+INFO - 2023-08-23 15:45:10 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:10 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:10 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:10 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:45:10 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:10 --> Total execution time: 0.0049
+INFO - 2023-08-23 15:45:10 --> Config Class Initialized
+INFO - 2023-08-23 15:45:10 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:10 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:10 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:10 --> URI Class Initialized
+INFO - 2023-08-23 15:45:10 --> Router Class Initialized
+INFO - 2023-08-23 15:45:10 --> Output Class Initialized
+INFO - 2023-08-23 15:45:10 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:10 --> Input Class Initialized
+INFO - 2023-08-23 15:45:10 --> Language Class Initialized
+INFO - 2023-08-23 15:45:10 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:10 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:10 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:45:10 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:10 --> Total execution time: 0.0026
+INFO - 2023-08-23 15:45:10 --> Config Class Initialized
+INFO - 2023-08-23 15:45:10 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:10 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:10 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:10 --> URI Class Initialized
+INFO - 2023-08-23 15:45:10 --> Router Class Initialized
+INFO - 2023-08-23 15:45:10 --> Output Class Initialized
+INFO - 2023-08-23 15:45:10 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:10 --> Input Class Initialized
+INFO - 2023-08-23 15:45:10 --> Language Class Initialized
+INFO - 2023-08-23 15:45:10 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:10 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:10 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:10 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:45:12 --> Config Class Initialized
+INFO - 2023-08-23 15:45:12 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:12 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:12 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:12 --> URI Class Initialized
+INFO - 2023-08-23 15:45:12 --> Router Class Initialized
+INFO - 2023-08-23 15:45:12 --> Output Class Initialized
+INFO - 2023-08-23 15:45:12 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:12 --> Input Class Initialized
+INFO - 2023-08-23 15:45:12 --> Language Class Initialized
+INFO - 2023-08-23 15:45:12 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:12 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:12 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:12 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:45:12 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:12 --> Total execution time: 0.0028
+INFO - 2023-08-23 15:45:12 --> Config Class Initialized
+INFO - 2023-08-23 15:45:12 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:12 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:12 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:12 --> URI Class Initialized
+INFO - 2023-08-23 15:45:12 --> Router Class Initialized
+INFO - 2023-08-23 15:45:12 --> Output Class Initialized
+INFO - 2023-08-23 15:45:12 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:12 --> Input Class Initialized
+INFO - 2023-08-23 15:45:12 --> Language Class Initialized
+INFO - 2023-08-23 15:45:12 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:12 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:12 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:12 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:45:13 --> Config Class Initialized
+INFO - 2023-08-23 15:45:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:13 --> URI Class Initialized
+INFO - 2023-08-23 15:45:13 --> Router Class Initialized
+INFO - 2023-08-23 15:45:13 --> Output Class Initialized
+INFO - 2023-08-23 15:45:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:13 --> Input Class Initialized
+INFO - 2023-08-23 15:45:13 --> Language Class Initialized
+INFO - 2023-08-23 15:45:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:13 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:13 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:13 --> Total execution time: 0.0041
+INFO - 2023-08-23 15:45:13 --> Config Class Initialized
+INFO - 2023-08-23 15:45:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:13 --> URI Class Initialized
+INFO - 2023-08-23 15:45:13 --> Router Class Initialized
+INFO - 2023-08-23 15:45:13 --> Output Class Initialized
+INFO - 2023-08-23 15:45:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:13 --> Input Class Initialized
+INFO - 2023-08-23 15:45:13 --> Language Class Initialized
+INFO - 2023-08-23 15:45:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:13 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:14 --> Config Class Initialized
+INFO - 2023-08-23 15:45:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:14 --> URI Class Initialized
+INFO - 2023-08-23 15:45:14 --> Router Class Initialized
+INFO - 2023-08-23 15:45:14 --> Output Class Initialized
+INFO - 2023-08-23 15:45:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:14 --> Input Class Initialized
+INFO - 2023-08-23 15:45:14 --> Language Class Initialized
+INFO - 2023-08-23 15:45:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:14 --> Total execution time: 0.0031
+INFO - 2023-08-23 15:45:14 --> Config Class Initialized
+INFO - 2023-08-23 15:45:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:14 --> URI Class Initialized
+INFO - 2023-08-23 15:45:14 --> Router Class Initialized
+INFO - 2023-08-23 15:45:14 --> Output Class Initialized
+INFO - 2023-08-23 15:45:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:14 --> Input Class Initialized
+INFO - 2023-08-23 15:45:14 --> Language Class Initialized
+INFO - 2023-08-23 15:45:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:14 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:14 --> Config Class Initialized
+INFO - 2023-08-23 15:45:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:14 --> URI Class Initialized
+INFO - 2023-08-23 15:45:14 --> Router Class Initialized
+INFO - 2023-08-23 15:45:14 --> Output Class Initialized
+INFO - 2023-08-23 15:45:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:14 --> Input Class Initialized
+INFO - 2023-08-23 15:45:14 --> Language Class Initialized
+INFO - 2023-08-23 15:45:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:14 --> Total execution time: 0.0047
+INFO - 2023-08-23 15:45:14 --> Config Class Initialized
+INFO - 2023-08-23 15:45:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:14 --> URI Class Initialized
+INFO - 2023-08-23 15:45:14 --> Router Class Initialized
+INFO - 2023-08-23 15:45:14 --> Output Class Initialized
+INFO - 2023-08-23 15:45:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:14 --> Input Class Initialized
+INFO - 2023-08-23 15:45:14 --> Language Class Initialized
+INFO - 2023-08-23 15:45:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:14 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:15 --> Config Class Initialized
+INFO - 2023-08-23 15:45:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:15 --> URI Class Initialized
+INFO - 2023-08-23 15:45:15 --> Router Class Initialized
+INFO - 2023-08-23 15:45:15 --> Output Class Initialized
+INFO - 2023-08-23 15:45:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:15 --> Input Class Initialized
+INFO - 2023-08-23 15:45:15 --> Language Class Initialized
+INFO - 2023-08-23 15:45:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:15 --> Total execution time: 0.0083
+INFO - 2023-08-23 15:45:15 --> Config Class Initialized
+INFO - 2023-08-23 15:45:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:15 --> URI Class Initialized
+INFO - 2023-08-23 15:45:15 --> Router Class Initialized
+INFO - 2023-08-23 15:45:15 --> Output Class Initialized
+INFO - 2023-08-23 15:45:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:15 --> Input Class Initialized
+INFO - 2023-08-23 15:45:15 --> Language Class Initialized
+INFO - 2023-08-23 15:45:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:15 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:15 --> Config Class Initialized
+INFO - 2023-08-23 15:45:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:15 --> URI Class Initialized
+INFO - 2023-08-23 15:45:15 --> Router Class Initialized
+INFO - 2023-08-23 15:45:15 --> Output Class Initialized
+INFO - 2023-08-23 15:45:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:15 --> Input Class Initialized
+INFO - 2023-08-23 15:45:15 --> Language Class Initialized
+INFO - 2023-08-23 15:45:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:15 --> Total execution time: 0.0031
+INFO - 2023-08-23 15:45:15 --> Config Class Initialized
+INFO - 2023-08-23 15:45:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:15 --> URI Class Initialized
+INFO - 2023-08-23 15:45:15 --> Router Class Initialized
+INFO - 2023-08-23 15:45:15 --> Output Class Initialized
+INFO - 2023-08-23 15:45:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:15 --> Input Class Initialized
+INFO - 2023-08-23 15:45:15 --> Language Class Initialized
+INFO - 2023-08-23 15:45:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:15 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:15 --> Config Class Initialized
+INFO - 2023-08-23 15:45:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:15 --> URI Class Initialized
+INFO - 2023-08-23 15:45:15 --> Router Class Initialized
+INFO - 2023-08-23 15:45:15 --> Output Class Initialized
+INFO - 2023-08-23 15:45:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:15 --> Input Class Initialized
+INFO - 2023-08-23 15:45:15 --> Language Class Initialized
+INFO - 2023-08-23 15:45:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:15 --> Total execution time: 0.0058
+INFO - 2023-08-23 15:45:15 --> Config Class Initialized
+INFO - 2023-08-23 15:45:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:15 --> URI Class Initialized
+INFO - 2023-08-23 15:45:15 --> Router Class Initialized
+INFO - 2023-08-23 15:45:15 --> Output Class Initialized
+INFO - 2023-08-23 15:45:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:15 --> Input Class Initialized
+INFO - 2023-08-23 15:45:15 --> Language Class Initialized
+INFO - 2023-08-23 15:45:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:15 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:16 --> Config Class Initialized
+INFO - 2023-08-23 15:45:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:16 --> URI Class Initialized
+INFO - 2023-08-23 15:45:16 --> Router Class Initialized
+INFO - 2023-08-23 15:45:16 --> Output Class Initialized
+INFO - 2023-08-23 15:45:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:16 --> Input Class Initialized
+INFO - 2023-08-23 15:45:16 --> Language Class Initialized
+INFO - 2023-08-23 15:45:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:16 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:16 --> Total execution time: 0.0065
+INFO - 2023-08-23 15:45:16 --> Config Class Initialized
+INFO - 2023-08-23 15:45:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:16 --> URI Class Initialized
+INFO - 2023-08-23 15:45:16 --> Router Class Initialized
+INFO - 2023-08-23 15:45:16 --> Output Class Initialized
+INFO - 2023-08-23 15:45:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:16 --> Input Class Initialized
+INFO - 2023-08-23 15:45:16 --> Language Class Initialized
+INFO - 2023-08-23 15:45:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:16 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:17 --> Config Class Initialized
+INFO - 2023-08-23 15:45:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:17 --> URI Class Initialized
+INFO - 2023-08-23 15:45:17 --> Router Class Initialized
+INFO - 2023-08-23 15:45:17 --> Output Class Initialized
+INFO - 2023-08-23 15:45:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:17 --> Input Class Initialized
+INFO - 2023-08-23 15:45:17 --> Language Class Initialized
+INFO - 2023-08-23 15:45:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:17 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:17 --> Total execution time: 0.0038
+INFO - 2023-08-23 15:45:17 --> Config Class Initialized
+INFO - 2023-08-23 15:45:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:17 --> URI Class Initialized
+INFO - 2023-08-23 15:45:17 --> Router Class Initialized
+INFO - 2023-08-23 15:45:17 --> Output Class Initialized
+INFO - 2023-08-23 15:45:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:17 --> Input Class Initialized
+INFO - 2023-08-23 15:45:17 --> Language Class Initialized
+INFO - 2023-08-23 15:45:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:17 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:17 --> Config Class Initialized
+INFO - 2023-08-23 15:45:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:17 --> URI Class Initialized
+INFO - 2023-08-23 15:45:17 --> Router Class Initialized
+INFO - 2023-08-23 15:45:17 --> Output Class Initialized
+INFO - 2023-08-23 15:45:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:17 --> Input Class Initialized
+INFO - 2023-08-23 15:45:17 --> Language Class Initialized
+INFO - 2023-08-23 15:45:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:17 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:17 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:45:17 --> Config Class Initialized
+INFO - 2023-08-23 15:45:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:17 --> URI Class Initialized
+INFO - 2023-08-23 15:45:17 --> Router Class Initialized
+INFO - 2023-08-23 15:45:17 --> Output Class Initialized
+INFO - 2023-08-23 15:45:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:17 --> Input Class Initialized
+INFO - 2023-08-23 15:45:17 --> Language Class Initialized
+INFO - 2023-08-23 15:45:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:17 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:18 --> Config Class Initialized
+INFO - 2023-08-23 15:45:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:18 --> URI Class Initialized
+INFO - 2023-08-23 15:45:18 --> Router Class Initialized
+INFO - 2023-08-23 15:45:18 --> Output Class Initialized
+INFO - 2023-08-23 15:45:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:18 --> Input Class Initialized
+INFO - 2023-08-23 15:45:18 --> Language Class Initialized
+INFO - 2023-08-23 15:45:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:18 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:18 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:18 --> Total execution time: 0.0038
+INFO - 2023-08-23 15:45:18 --> Config Class Initialized
+INFO - 2023-08-23 15:45:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:18 --> URI Class Initialized
+INFO - 2023-08-23 15:45:18 --> Router Class Initialized
+INFO - 2023-08-23 15:45:18 --> Output Class Initialized
+INFO - 2023-08-23 15:45:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:18 --> Input Class Initialized
+INFO - 2023-08-23 15:45:18 --> Language Class Initialized
+INFO - 2023-08-23 15:45:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:18 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:18 --> Config Class Initialized
+INFO - 2023-08-23 15:45:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:18 --> URI Class Initialized
+INFO - 2023-08-23 15:45:18 --> Router Class Initialized
+INFO - 2023-08-23 15:45:18 --> Output Class Initialized
+INFO - 2023-08-23 15:45:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:18 --> Input Class Initialized
+INFO - 2023-08-23 15:45:18 --> Language Class Initialized
+INFO - 2023-08-23 15:45:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:18 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:18 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:18 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:45:18 --> Config Class Initialized
+INFO - 2023-08-23 15:45:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:18 --> URI Class Initialized
+INFO - 2023-08-23 15:45:18 --> Router Class Initialized
+INFO - 2023-08-23 15:45:18 --> Output Class Initialized
+INFO - 2023-08-23 15:45:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:18 --> Input Class Initialized
+INFO - 2023-08-23 15:45:18 --> Language Class Initialized
+INFO - 2023-08-23 15:45:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:18 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:41 --> Config Class Initialized
+INFO - 2023-08-23 15:45:41 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:41 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:41 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:41 --> URI Class Initialized
+INFO - 2023-08-23 15:45:41 --> Router Class Initialized
+INFO - 2023-08-23 15:45:41 --> Output Class Initialized
+INFO - 2023-08-23 15:45:41 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:41 --> Input Class Initialized
+INFO - 2023-08-23 15:45:41 --> Language Class Initialized
+INFO - 2023-08-23 15:45:41 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:41 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:41 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:41 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:41 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:41 --> Total execution time: 0.0110
+INFO - 2023-08-23 15:45:42 --> Config Class Initialized
+INFO - 2023-08-23 15:45:42 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:42 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:42 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:42 --> URI Class Initialized
+INFO - 2023-08-23 15:45:42 --> Router Class Initialized
+INFO - 2023-08-23 15:45:42 --> Output Class Initialized
+INFO - 2023-08-23 15:45:42 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:42 --> Input Class Initialized
+INFO - 2023-08-23 15:45:42 --> Language Class Initialized
+INFO - 2023-08-23 15:45:42 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:42 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:42 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:42 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:56 --> Config Class Initialized
+INFO - 2023-08-23 15:45:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:56 --> URI Class Initialized
+INFO - 2023-08-23 15:45:56 --> Router Class Initialized
+INFO - 2023-08-23 15:45:56 --> Output Class Initialized
+INFO - 2023-08-23 15:45:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:56 --> Input Class Initialized
+INFO - 2023-08-23 15:45:56 --> Language Class Initialized
+INFO - 2023-08-23 15:45:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:56 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:56 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:56 --> Total execution time: 0.0098
+INFO - 2023-08-23 15:45:56 --> Config Class Initialized
+INFO - 2023-08-23 15:45:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:56 --> URI Class Initialized
+INFO - 2023-08-23 15:45:56 --> Router Class Initialized
+INFO - 2023-08-23 15:45:56 --> Output Class Initialized
+INFO - 2023-08-23 15:45:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:56 --> Input Class Initialized
+INFO - 2023-08-23 15:45:56 --> Language Class Initialized
+INFO - 2023-08-23 15:45:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:56 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:56 --> Config Class Initialized
+INFO - 2023-08-23 15:45:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:56 --> URI Class Initialized
+INFO - 2023-08-23 15:45:56 --> Router Class Initialized
+INFO - 2023-08-23 15:45:56 --> Output Class Initialized
+INFO - 2023-08-23 15:45:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:56 --> Input Class Initialized
+INFO - 2023-08-23 15:45:56 --> Language Class Initialized
+INFO - 2023-08-23 15:45:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:56 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:56 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:56 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:45:56 --> Config Class Initialized
+INFO - 2023-08-23 15:45:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:56 --> URI Class Initialized
+INFO - 2023-08-23 15:45:56 --> Router Class Initialized
+INFO - 2023-08-23 15:45:56 --> Output Class Initialized
+INFO - 2023-08-23 15:45:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:56 --> Input Class Initialized
+INFO - 2023-08-23 15:45:56 --> Language Class Initialized
+INFO - 2023-08-23 15:45:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:56 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:57 --> Config Class Initialized
+INFO - 2023-08-23 15:45:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:57 --> URI Class Initialized
+INFO - 2023-08-23 15:45:57 --> Router Class Initialized
+INFO - 2023-08-23 15:45:57 --> Output Class Initialized
+INFO - 2023-08-23 15:45:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:57 --> Input Class Initialized
+INFO - 2023-08-23 15:45:57 --> Language Class Initialized
+INFO - 2023-08-23 15:45:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:57 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:57 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:57 --> Total execution time: 0.0032
+INFO - 2023-08-23 15:45:57 --> Config Class Initialized
+INFO - 2023-08-23 15:45:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:57 --> URI Class Initialized
+INFO - 2023-08-23 15:45:57 --> Router Class Initialized
+INFO - 2023-08-23 15:45:57 --> Output Class Initialized
+INFO - 2023-08-23 15:45:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:57 --> Input Class Initialized
+INFO - 2023-08-23 15:45:57 --> Language Class Initialized
+INFO - 2023-08-23 15:45:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:57 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:57 --> Config Class Initialized
+INFO - 2023-08-23 15:45:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:57 --> URI Class Initialized
+INFO - 2023-08-23 15:45:57 --> Router Class Initialized
+INFO - 2023-08-23 15:45:57 --> Output Class Initialized
+INFO - 2023-08-23 15:45:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:57 --> Input Class Initialized
+INFO - 2023-08-23 15:45:57 --> Language Class Initialized
+INFO - 2023-08-23 15:45:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:57 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:57 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:57 --> Total execution time: 0.0072
+INFO - 2023-08-23 15:45:57 --> Config Class Initialized
+INFO - 2023-08-23 15:45:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:57 --> URI Class Initialized
+INFO - 2023-08-23 15:45:57 --> Router Class Initialized
+INFO - 2023-08-23 15:45:57 --> Output Class Initialized
+INFO - 2023-08-23 15:45:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:57 --> Input Class Initialized
+INFO - 2023-08-23 15:45:57 --> Language Class Initialized
+INFO - 2023-08-23 15:45:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:57 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:57 --> Config Class Initialized
+INFO - 2023-08-23 15:45:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:57 --> URI Class Initialized
+INFO - 2023-08-23 15:45:57 --> Router Class Initialized
+INFO - 2023-08-23 15:45:57 --> Output Class Initialized
+INFO - 2023-08-23 15:45:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:57 --> Input Class Initialized
+INFO - 2023-08-23 15:45:57 --> Language Class Initialized
+INFO - 2023-08-23 15:45:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:57 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:57 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:57 --> Total execution time: 0.0063
+INFO - 2023-08-23 15:45:57 --> Config Class Initialized
+INFO - 2023-08-23 15:45:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:57 --> URI Class Initialized
+INFO - 2023-08-23 15:45:57 --> Router Class Initialized
+INFO - 2023-08-23 15:45:57 --> Output Class Initialized
+INFO - 2023-08-23 15:45:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:57 --> Input Class Initialized
+INFO - 2023-08-23 15:45:57 --> Language Class Initialized
+INFO - 2023-08-23 15:45:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:57 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:57 --> Config Class Initialized
+INFO - 2023-08-23 15:45:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:57 --> URI Class Initialized
+INFO - 2023-08-23 15:45:57 --> Router Class Initialized
+INFO - 2023-08-23 15:45:57 --> Output Class Initialized
+INFO - 2023-08-23 15:45:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:57 --> Input Class Initialized
+INFO - 2023-08-23 15:45:57 --> Language Class Initialized
+INFO - 2023-08-23 15:45:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:57 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:57 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:57 --> Total execution time: 0.0067
+INFO - 2023-08-23 15:45:57 --> Config Class Initialized
+INFO - 2023-08-23 15:45:57 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:57 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:57 --> URI Class Initialized
+INFO - 2023-08-23 15:45:57 --> Router Class Initialized
+INFO - 2023-08-23 15:45:57 --> Output Class Initialized
+INFO - 2023-08-23 15:45:57 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:57 --> Input Class Initialized
+INFO - 2023-08-23 15:45:57 --> Language Class Initialized
+INFO - 2023-08-23 15:45:57 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:57 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:57 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:57 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:58 --> Config Class Initialized
+INFO - 2023-08-23 15:45:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:58 --> URI Class Initialized
+INFO - 2023-08-23 15:45:58 --> Router Class Initialized
+INFO - 2023-08-23 15:45:58 --> Output Class Initialized
+INFO - 2023-08-23 15:45:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:58 --> Input Class Initialized
+INFO - 2023-08-23 15:45:58 --> Language Class Initialized
+INFO - 2023-08-23 15:45:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:58 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:58 --> Total execution time: 0.0064
+INFO - 2023-08-23 15:45:58 --> Config Class Initialized
+INFO - 2023-08-23 15:45:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:58 --> URI Class Initialized
+INFO - 2023-08-23 15:45:58 --> Router Class Initialized
+INFO - 2023-08-23 15:45:58 --> Output Class Initialized
+INFO - 2023-08-23 15:45:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:58 --> Input Class Initialized
+INFO - 2023-08-23 15:45:58 --> Language Class Initialized
+INFO - 2023-08-23 15:45:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:58 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:58 --> Config Class Initialized
+INFO - 2023-08-23 15:45:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:58 --> URI Class Initialized
+INFO - 2023-08-23 15:45:58 --> Router Class Initialized
+INFO - 2023-08-23 15:45:58 --> Output Class Initialized
+INFO - 2023-08-23 15:45:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:58 --> Input Class Initialized
+INFO - 2023-08-23 15:45:58 --> Language Class Initialized
+INFO - 2023-08-23 15:45:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:58 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:58 --> Total execution time: 0.0063
+INFO - 2023-08-23 15:45:58 --> Config Class Initialized
+INFO - 2023-08-23 15:45:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:58 --> URI Class Initialized
+INFO - 2023-08-23 15:45:58 --> Router Class Initialized
+INFO - 2023-08-23 15:45:58 --> Output Class Initialized
+INFO - 2023-08-23 15:45:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:58 --> Input Class Initialized
+INFO - 2023-08-23 15:45:58 --> Language Class Initialized
+INFO - 2023-08-23 15:45:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:58 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:58 --> Config Class Initialized
+INFO - 2023-08-23 15:45:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:58 --> URI Class Initialized
+INFO - 2023-08-23 15:45:58 --> Router Class Initialized
+INFO - 2023-08-23 15:45:58 --> Output Class Initialized
+INFO - 2023-08-23 15:45:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:58 --> Input Class Initialized
+INFO - 2023-08-23 15:45:58 --> Language Class Initialized
+INFO - 2023-08-23 15:45:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:58 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:58 --> Total execution time: 0.0062
+INFO - 2023-08-23 15:45:58 --> Config Class Initialized
+INFO - 2023-08-23 15:45:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:58 --> URI Class Initialized
+INFO - 2023-08-23 15:45:58 --> Router Class Initialized
+INFO - 2023-08-23 15:45:58 --> Output Class Initialized
+INFO - 2023-08-23 15:45:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:58 --> Input Class Initialized
+INFO - 2023-08-23 15:45:58 --> Language Class Initialized
+INFO - 2023-08-23 15:45:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:58 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:58 --> Config Class Initialized
+INFO - 2023-08-23 15:45:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:58 --> URI Class Initialized
+INFO - 2023-08-23 15:45:58 --> Router Class Initialized
+INFO - 2023-08-23 15:45:58 --> Output Class Initialized
+INFO - 2023-08-23 15:45:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:58 --> Input Class Initialized
+INFO - 2023-08-23 15:45:58 --> Language Class Initialized
+INFO - 2023-08-23 15:45:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:58 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:58 --> Total execution time: 0.0062
+INFO - 2023-08-23 15:45:58 --> Config Class Initialized
+INFO - 2023-08-23 15:45:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:58 --> URI Class Initialized
+INFO - 2023-08-23 15:45:58 --> Router Class Initialized
+INFO - 2023-08-23 15:45:58 --> Output Class Initialized
+INFO - 2023-08-23 15:45:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:58 --> Input Class Initialized
+INFO - 2023-08-23 15:45:58 --> Language Class Initialized
+INFO - 2023-08-23 15:45:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:58 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:58 --> Config Class Initialized
+INFO - 2023-08-23 15:45:58 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:58 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:58 --> URI Class Initialized
+INFO - 2023-08-23 15:45:58 --> Router Class Initialized
+INFO - 2023-08-23 15:45:58 --> Output Class Initialized
+INFO - 2023-08-23 15:45:58 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:58 --> Input Class Initialized
+INFO - 2023-08-23 15:45:58 --> Language Class Initialized
+INFO - 2023-08-23 15:45:58 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:58 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:58 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:58 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:58 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:58 --> Total execution time: 0.0057
+INFO - 2023-08-23 15:45:59 --> Config Class Initialized
+INFO - 2023-08-23 15:45:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:59 --> URI Class Initialized
+INFO - 2023-08-23 15:45:59 --> Router Class Initialized
+INFO - 2023-08-23 15:45:59 --> Output Class Initialized
+INFO - 2023-08-23 15:45:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:59 --> Input Class Initialized
+INFO - 2023-08-23 15:45:59 --> Language Class Initialized
+INFO - 2023-08-23 15:45:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:59 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:59 --> Config Class Initialized
+INFO - 2023-08-23 15:45:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:59 --> URI Class Initialized
+INFO - 2023-08-23 15:45:59 --> Router Class Initialized
+INFO - 2023-08-23 15:45:59 --> Output Class Initialized
+INFO - 2023-08-23 15:45:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:59 --> Input Class Initialized
+INFO - 2023-08-23 15:45:59 --> Language Class Initialized
+INFO - 2023-08-23 15:45:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:59 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:59 --> Total execution time: 0.0068
+INFO - 2023-08-23 15:45:59 --> Config Class Initialized
+INFO - 2023-08-23 15:45:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:59 --> URI Class Initialized
+INFO - 2023-08-23 15:45:59 --> Router Class Initialized
+INFO - 2023-08-23 15:45:59 --> Output Class Initialized
+INFO - 2023-08-23 15:45:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:59 --> Input Class Initialized
+INFO - 2023-08-23 15:45:59 --> Language Class Initialized
+INFO - 2023-08-23 15:45:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:59 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:59 --> Config Class Initialized
+INFO - 2023-08-23 15:45:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:59 --> URI Class Initialized
+INFO - 2023-08-23 15:45:59 --> Router Class Initialized
+INFO - 2023-08-23 15:45:59 --> Output Class Initialized
+INFO - 2023-08-23 15:45:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:59 --> Input Class Initialized
+INFO - 2023-08-23 15:45:59 --> Language Class Initialized
+INFO - 2023-08-23 15:45:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:59 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:59 --> Total execution time: 0.0102
+INFO - 2023-08-23 15:45:59 --> Config Class Initialized
+INFO - 2023-08-23 15:45:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:59 --> URI Class Initialized
+INFO - 2023-08-23 15:45:59 --> Router Class Initialized
+INFO - 2023-08-23 15:45:59 --> Output Class Initialized
+INFO - 2023-08-23 15:45:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:59 --> Input Class Initialized
+INFO - 2023-08-23 15:45:59 --> Language Class Initialized
+INFO - 2023-08-23 15:45:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:59 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:59 --> Config Class Initialized
+INFO - 2023-08-23 15:45:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:59 --> URI Class Initialized
+INFO - 2023-08-23 15:45:59 --> Router Class Initialized
+INFO - 2023-08-23 15:45:59 --> Output Class Initialized
+INFO - 2023-08-23 15:45:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:59 --> Input Class Initialized
+INFO - 2023-08-23 15:45:59 --> Language Class Initialized
+INFO - 2023-08-23 15:45:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:59 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:59 --> Total execution time: 0.0056
+INFO - 2023-08-23 15:45:59 --> Config Class Initialized
+INFO - 2023-08-23 15:45:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:59 --> URI Class Initialized
+INFO - 2023-08-23 15:45:59 --> Router Class Initialized
+INFO - 2023-08-23 15:45:59 --> Output Class Initialized
+INFO - 2023-08-23 15:45:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:59 --> Input Class Initialized
+INFO - 2023-08-23 15:45:59 --> Language Class Initialized
+INFO - 2023-08-23 15:45:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:59 --> Model "employee" initialized
+INFO - 2023-08-23 15:45:59 --> Config Class Initialized
+INFO - 2023-08-23 15:45:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:59 --> URI Class Initialized
+INFO - 2023-08-23 15:45:59 --> Router Class Initialized
+INFO - 2023-08-23 15:45:59 --> Output Class Initialized
+INFO - 2023-08-23 15:45:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:59 --> Input Class Initialized
+INFO - 2023-08-23 15:45:59 --> Language Class Initialized
+INFO - 2023-08-23 15:45:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:59 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:45:59 --> Final output sent to browser
+DEBUG - 2023-08-23 15:45:59 --> Total execution time: 0.0065
+INFO - 2023-08-23 15:45:59 --> Config Class Initialized
+INFO - 2023-08-23 15:45:59 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:45:59 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:45:59 --> URI Class Initialized
+INFO - 2023-08-23 15:45:59 --> Router Class Initialized
+INFO - 2023-08-23 15:45:59 --> Output Class Initialized
+INFO - 2023-08-23 15:45:59 --> Security Class Initialized
+DEBUG - 2023-08-23 15:45:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:45:59 --> Input Class Initialized
+INFO - 2023-08-23 15:45:59 --> Language Class Initialized
+INFO - 2023-08-23 15:45:59 --> Loader Class Initialized
+INFO - 2023-08-23 15:45:59 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:45:59 --> Controller Class Initialized
+INFO - 2023-08-23 15:45:59 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:00 --> Config Class Initialized
+INFO - 2023-08-23 15:46:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:00 --> URI Class Initialized
+INFO - 2023-08-23 15:46:00 --> Router Class Initialized
+INFO - 2023-08-23 15:46:00 --> Output Class Initialized
+INFO - 2023-08-23 15:46:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:00 --> Input Class Initialized
+INFO - 2023-08-23 15:46:00 --> Language Class Initialized
+INFO - 2023-08-23 15:46:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:00 --> Total execution time: 0.0064
+INFO - 2023-08-23 15:46:00 --> Config Class Initialized
+INFO - 2023-08-23 15:46:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:00 --> URI Class Initialized
+INFO - 2023-08-23 15:46:00 --> Router Class Initialized
+INFO - 2023-08-23 15:46:00 --> Output Class Initialized
+INFO - 2023-08-23 15:46:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:00 --> Input Class Initialized
+INFO - 2023-08-23 15:46:00 --> Language Class Initialized
+INFO - 2023-08-23 15:46:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:00 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:00 --> Config Class Initialized
+INFO - 2023-08-23 15:46:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:00 --> URI Class Initialized
+INFO - 2023-08-23 15:46:00 --> Router Class Initialized
+INFO - 2023-08-23 15:46:00 --> Output Class Initialized
+INFO - 2023-08-23 15:46:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:00 --> Input Class Initialized
+INFO - 2023-08-23 15:46:00 --> Language Class Initialized
+INFO - 2023-08-23 15:46:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:00 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:00 --> Total execution time: 0.0033
+INFO - 2023-08-23 15:46:00 --> Config Class Initialized
+INFO - 2023-08-23 15:46:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:00 --> URI Class Initialized
+INFO - 2023-08-23 15:46:00 --> Router Class Initialized
+INFO - 2023-08-23 15:46:00 --> Output Class Initialized
+INFO - 2023-08-23 15:46:00 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:00 --> Input Class Initialized
+INFO - 2023-08-23 15:46:00 --> Language Class Initialized
+INFO - 2023-08-23 15:46:00 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:00 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:00 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:01 --> Config Class Initialized
+INFO - 2023-08-23 15:46:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:01 --> URI Class Initialized
+INFO - 2023-08-23 15:46:01 --> Router Class Initialized
+INFO - 2023-08-23 15:46:01 --> Output Class Initialized
+INFO - 2023-08-23 15:46:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:01 --> Input Class Initialized
+INFO - 2023-08-23 15:46:01 --> Language Class Initialized
+INFO - 2023-08-23 15:46:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:01 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:01 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:01 --> Total execution time: 0.0042
+INFO - 2023-08-23 15:46:01 --> Config Class Initialized
+INFO - 2023-08-23 15:46:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:01 --> URI Class Initialized
+INFO - 2023-08-23 15:46:01 --> Router Class Initialized
+INFO - 2023-08-23 15:46:01 --> Output Class Initialized
+INFO - 2023-08-23 15:46:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:01 --> Input Class Initialized
+INFO - 2023-08-23 15:46:01 --> Language Class Initialized
+INFO - 2023-08-23 15:46:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:01 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:01 --> Config Class Initialized
+INFO - 2023-08-23 15:46:01 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:01 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:01 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:01 --> URI Class Initialized
+INFO - 2023-08-23 15:46:01 --> Router Class Initialized
+INFO - 2023-08-23 15:46:01 --> Output Class Initialized
+INFO - 2023-08-23 15:46:01 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:01 --> Input Class Initialized
+INFO - 2023-08-23 15:46:01 --> Language Class Initialized
+INFO - 2023-08-23 15:46:01 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:01 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:01 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:01 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:01 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:01 --> Total execution time: 0.0051
+INFO - 2023-08-23 15:46:02 --> Config Class Initialized
+INFO - 2023-08-23 15:46:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:02 --> URI Class Initialized
+INFO - 2023-08-23 15:46:02 --> Router Class Initialized
+INFO - 2023-08-23 15:46:02 --> Output Class Initialized
+INFO - 2023-08-23 15:46:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:02 --> Input Class Initialized
+INFO - 2023-08-23 15:46:02 --> Language Class Initialized
+INFO - 2023-08-23 15:46:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:02 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:02 --> Config Class Initialized
+INFO - 2023-08-23 15:46:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:02 --> URI Class Initialized
+INFO - 2023-08-23 15:46:02 --> Router Class Initialized
+INFO - 2023-08-23 15:46:02 --> Output Class Initialized
+INFO - 2023-08-23 15:46:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:02 --> Input Class Initialized
+INFO - 2023-08-23 15:46:02 --> Language Class Initialized
+INFO - 2023-08-23 15:46:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:02 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:02 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:02 --> Total execution time: 0.0041
+INFO - 2023-08-23 15:46:02 --> Config Class Initialized
+INFO - 2023-08-23 15:46:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:02 --> URI Class Initialized
+INFO - 2023-08-23 15:46:02 --> Router Class Initialized
+INFO - 2023-08-23 15:46:02 --> Output Class Initialized
+INFO - 2023-08-23 15:46:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:02 --> Input Class Initialized
+INFO - 2023-08-23 15:46:02 --> Language Class Initialized
+INFO - 2023-08-23 15:46:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:02 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:02 --> Config Class Initialized
+INFO - 2023-08-23 15:46:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:02 --> URI Class Initialized
+INFO - 2023-08-23 15:46:02 --> Router Class Initialized
+INFO - 2023-08-23 15:46:02 --> Output Class Initialized
+INFO - 2023-08-23 15:46:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:02 --> Input Class Initialized
+INFO - 2023-08-23 15:46:02 --> Language Class Initialized
+INFO - 2023-08-23 15:46:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:02 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:02 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:02 --> Total execution time: 0.0035
+INFO - 2023-08-23 15:46:02 --> Config Class Initialized
+INFO - 2023-08-23 15:46:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:02 --> URI Class Initialized
+INFO - 2023-08-23 15:46:02 --> Router Class Initialized
+INFO - 2023-08-23 15:46:02 --> Output Class Initialized
+INFO - 2023-08-23 15:46:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:02 --> Input Class Initialized
+INFO - 2023-08-23 15:46:02 --> Language Class Initialized
+INFO - 2023-08-23 15:46:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:02 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:03 --> Config Class Initialized
+INFO - 2023-08-23 15:46:03 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:03 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:03 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:03 --> URI Class Initialized
+INFO - 2023-08-23 15:46:03 --> Router Class Initialized
+INFO - 2023-08-23 15:46:03 --> Output Class Initialized
+INFO - 2023-08-23 15:46:03 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:03 --> Input Class Initialized
+INFO - 2023-08-23 15:46:03 --> Language Class Initialized
+INFO - 2023-08-23 15:46:03 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:03 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:03 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:03 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:03 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:03 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:46:03 --> Config Class Initialized
+INFO - 2023-08-23 15:46:03 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:03 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:03 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:03 --> URI Class Initialized
+INFO - 2023-08-23 15:46:03 --> Router Class Initialized
+INFO - 2023-08-23 15:46:03 --> Output Class Initialized
+INFO - 2023-08-23 15:46:03 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:03 --> Input Class Initialized
+INFO - 2023-08-23 15:46:03 --> Language Class Initialized
+INFO - 2023-08-23 15:46:03 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:03 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:03 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:03 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:05 --> Config Class Initialized
+INFO - 2023-08-23 15:46:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:05 --> URI Class Initialized
+INFO - 2023-08-23 15:46:05 --> Router Class Initialized
+INFO - 2023-08-23 15:46:05 --> Output Class Initialized
+INFO - 2023-08-23 15:46:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:05 --> Input Class Initialized
+INFO - 2023-08-23 15:46:05 --> Language Class Initialized
+INFO - 2023-08-23 15:46:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:05 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:05 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:05 --> Total execution time: 0.0046
+INFO - 2023-08-23 15:46:05 --> Config Class Initialized
+INFO - 2023-08-23 15:46:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:05 --> URI Class Initialized
+INFO - 2023-08-23 15:46:05 --> Router Class Initialized
+INFO - 2023-08-23 15:46:05 --> Output Class Initialized
+INFO - 2023-08-23 15:46:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:05 --> Input Class Initialized
+INFO - 2023-08-23 15:46:05 --> Language Class Initialized
+INFO - 2023-08-23 15:46:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:05 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:05 --> Config Class Initialized
+INFO - 2023-08-23 15:46:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:05 --> URI Class Initialized
+INFO - 2023-08-23 15:46:05 --> Router Class Initialized
+INFO - 2023-08-23 15:46:05 --> Output Class Initialized
+INFO - 2023-08-23 15:46:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:05 --> Input Class Initialized
+INFO - 2023-08-23 15:46:05 --> Language Class Initialized
+INFO - 2023-08-23 15:46:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:05 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:05 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:05 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:46:05 --> Config Class Initialized
+INFO - 2023-08-23 15:46:05 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:05 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:05 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:05 --> URI Class Initialized
+INFO - 2023-08-23 15:46:05 --> Router Class Initialized
+INFO - 2023-08-23 15:46:05 --> Output Class Initialized
+INFO - 2023-08-23 15:46:05 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:05 --> Input Class Initialized
+INFO - 2023-08-23 15:46:05 --> Language Class Initialized
+INFO - 2023-08-23 15:46:05 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:05 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:05 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:05 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:06 --> Config Class Initialized
+INFO - 2023-08-23 15:46:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:06 --> URI Class Initialized
+INFO - 2023-08-23 15:46:06 --> Router Class Initialized
+INFO - 2023-08-23 15:46:06 --> Output Class Initialized
+INFO - 2023-08-23 15:46:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:06 --> Input Class Initialized
+INFO - 2023-08-23 15:46:06 --> Language Class Initialized
+INFO - 2023-08-23 15:46:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:06 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:06 --> Total execution time: 0.0058
+INFO - 2023-08-23 15:46:06 --> Config Class Initialized
+INFO - 2023-08-23 15:46:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:06 --> URI Class Initialized
+INFO - 2023-08-23 15:46:06 --> Router Class Initialized
+INFO - 2023-08-23 15:46:06 --> Output Class Initialized
+INFO - 2023-08-23 15:46:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:06 --> Input Class Initialized
+INFO - 2023-08-23 15:46:06 --> Language Class Initialized
+INFO - 2023-08-23 15:46:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:06 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:06 --> Config Class Initialized
+INFO - 2023-08-23 15:46:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:06 --> URI Class Initialized
+INFO - 2023-08-23 15:46:06 --> Router Class Initialized
+INFO - 2023-08-23 15:46:06 --> Output Class Initialized
+INFO - 2023-08-23 15:46:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:06 --> Input Class Initialized
+INFO - 2023-08-23 15:46:06 --> Language Class Initialized
+INFO - 2023-08-23 15:46:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:06 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:06 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:46:06 --> Config Class Initialized
+INFO - 2023-08-23 15:46:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:06 --> URI Class Initialized
+INFO - 2023-08-23 15:46:06 --> Router Class Initialized
+INFO - 2023-08-23 15:46:06 --> Output Class Initialized
+INFO - 2023-08-23 15:46:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:06 --> Input Class Initialized
+INFO - 2023-08-23 15:46:06 --> Language Class Initialized
+INFO - 2023-08-23 15:46:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:06 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:07 --> Config Class Initialized
+INFO - 2023-08-23 15:46:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:07 --> URI Class Initialized
+INFO - 2023-08-23 15:46:07 --> Router Class Initialized
+INFO - 2023-08-23 15:46:07 --> Output Class Initialized
+INFO - 2023-08-23 15:46:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:07 --> Input Class Initialized
+INFO - 2023-08-23 15:46:07 --> Language Class Initialized
+INFO - 2023-08-23 15:46:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:07 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:07 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:07 --> Total execution time: 0.0101
+INFO - 2023-08-23 15:46:07 --> Config Class Initialized
+INFO - 2023-08-23 15:46:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:07 --> URI Class Initialized
+INFO - 2023-08-23 15:46:07 --> Router Class Initialized
+INFO - 2023-08-23 15:46:07 --> Output Class Initialized
+INFO - 2023-08-23 15:46:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:07 --> Input Class Initialized
+INFO - 2023-08-23 15:46:07 --> Language Class Initialized
+INFO - 2023-08-23 15:46:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:07 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:07 --> Config Class Initialized
+INFO - 2023-08-23 15:46:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:07 --> URI Class Initialized
+INFO - 2023-08-23 15:46:07 --> Router Class Initialized
+INFO - 2023-08-23 15:46:07 --> Output Class Initialized
+INFO - 2023-08-23 15:46:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:07 --> Input Class Initialized
+INFO - 2023-08-23 15:46:07 --> Language Class Initialized
+INFO - 2023-08-23 15:46:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:07 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:07 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:07 --> Total execution time: 0.0059
+INFO - 2023-08-23 15:46:07 --> Config Class Initialized
+INFO - 2023-08-23 15:46:07 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:07 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:07 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:07 --> URI Class Initialized
+INFO - 2023-08-23 15:46:07 --> Router Class Initialized
+INFO - 2023-08-23 15:46:07 --> Output Class Initialized
+INFO - 2023-08-23 15:46:07 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:07 --> Input Class Initialized
+INFO - 2023-08-23 15:46:07 --> Language Class Initialized
+INFO - 2023-08-23 15:46:07 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:07 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:07 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:07 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:08 --> Config Class Initialized
+INFO - 2023-08-23 15:46:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:08 --> URI Class Initialized
+INFO - 2023-08-23 15:46:08 --> Router Class Initialized
+INFO - 2023-08-23 15:46:08 --> Output Class Initialized
+INFO - 2023-08-23 15:46:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:08 --> Input Class Initialized
+INFO - 2023-08-23 15:46:08 --> Language Class Initialized
+INFO - 2023-08-23 15:46:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:08 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:08 --> Total execution time: 0.0064
+INFO - 2023-08-23 15:46:08 --> Config Class Initialized
+INFO - 2023-08-23 15:46:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:08 --> URI Class Initialized
+INFO - 2023-08-23 15:46:08 --> Router Class Initialized
+INFO - 2023-08-23 15:46:08 --> Output Class Initialized
+INFO - 2023-08-23 15:46:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:08 --> Input Class Initialized
+INFO - 2023-08-23 15:46:08 --> Language Class Initialized
+INFO - 2023-08-23 15:46:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:08 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:08 --> Config Class Initialized
+INFO - 2023-08-23 15:46:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:08 --> URI Class Initialized
+INFO - 2023-08-23 15:46:08 --> Router Class Initialized
+INFO - 2023-08-23 15:46:08 --> Output Class Initialized
+INFO - 2023-08-23 15:46:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:08 --> Input Class Initialized
+INFO - 2023-08-23 15:46:08 --> Language Class Initialized
+INFO - 2023-08-23 15:46:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:08 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:08 --> Total execution time: 0.0052
+INFO - 2023-08-23 15:46:08 --> Config Class Initialized
+INFO - 2023-08-23 15:46:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:08 --> URI Class Initialized
+INFO - 2023-08-23 15:46:08 --> Router Class Initialized
+INFO - 2023-08-23 15:46:08 --> Output Class Initialized
+INFO - 2023-08-23 15:46:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:08 --> Input Class Initialized
+INFO - 2023-08-23 15:46:08 --> Language Class Initialized
+INFO - 2023-08-23 15:46:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:08 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:09 --> Config Class Initialized
+INFO - 2023-08-23 15:46:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:09 --> URI Class Initialized
+INFO - 2023-08-23 15:46:09 --> Router Class Initialized
+INFO - 2023-08-23 15:46:09 --> Output Class Initialized
+INFO - 2023-08-23 15:46:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:09 --> Input Class Initialized
+INFO - 2023-08-23 15:46:09 --> Language Class Initialized
+INFO - 2023-08-23 15:46:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:09 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:09 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:09 --> Total execution time: 0.0037
+INFO - 2023-08-23 15:46:09 --> Config Class Initialized
+INFO - 2023-08-23 15:46:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:09 --> URI Class Initialized
+INFO - 2023-08-23 15:46:09 --> Router Class Initialized
+INFO - 2023-08-23 15:46:09 --> Output Class Initialized
+INFO - 2023-08-23 15:46:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:09 --> Input Class Initialized
+INFO - 2023-08-23 15:46:09 --> Language Class Initialized
+INFO - 2023-08-23 15:46:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:09 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:09 --> Config Class Initialized
+INFO - 2023-08-23 15:46:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:09 --> URI Class Initialized
+INFO - 2023-08-23 15:46:09 --> Router Class Initialized
+INFO - 2023-08-23 15:46:09 --> Output Class Initialized
+INFO - 2023-08-23 15:46:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:09 --> Input Class Initialized
+INFO - 2023-08-23 15:46:09 --> Language Class Initialized
+INFO - 2023-08-23 15:46:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:09 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:09 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:09 --> Total execution time: 0.0129
+INFO - 2023-08-23 15:46:09 --> Config Class Initialized
+INFO - 2023-08-23 15:46:09 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:09 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:09 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:09 --> URI Class Initialized
+INFO - 2023-08-23 15:46:09 --> Router Class Initialized
+INFO - 2023-08-23 15:46:09 --> Output Class Initialized
+INFO - 2023-08-23 15:46:09 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:09 --> Input Class Initialized
+INFO - 2023-08-23 15:46:09 --> Language Class Initialized
+INFO - 2023-08-23 15:46:09 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:09 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:09 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:09 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:10 --> Config Class Initialized
+INFO - 2023-08-23 15:46:10 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:10 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:10 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:10 --> URI Class Initialized
+INFO - 2023-08-23 15:46:10 --> Router Class Initialized
+INFO - 2023-08-23 15:46:10 --> Output Class Initialized
+INFO - 2023-08-23 15:46:10 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:10 --> Input Class Initialized
+INFO - 2023-08-23 15:46:10 --> Language Class Initialized
+INFO - 2023-08-23 15:46:10 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:10 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:10 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:10 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:10 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:46:10 --> Config Class Initialized
+INFO - 2023-08-23 15:46:10 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:10 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:10 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:10 --> URI Class Initialized
+INFO - 2023-08-23 15:46:10 --> Router Class Initialized
+INFO - 2023-08-23 15:46:10 --> Output Class Initialized
+INFO - 2023-08-23 15:46:10 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:10 --> Input Class Initialized
+INFO - 2023-08-23 15:46:10 --> Language Class Initialized
+INFO - 2023-08-23 15:46:10 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:10 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:10 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:10 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:10 --> Config Class Initialized
+INFO - 2023-08-23 15:46:10 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:10 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:10 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:10 --> URI Class Initialized
+INFO - 2023-08-23 15:46:10 --> Router Class Initialized
+INFO - 2023-08-23 15:46:10 --> Output Class Initialized
+INFO - 2023-08-23 15:46:10 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:10 --> Input Class Initialized
+INFO - 2023-08-23 15:46:10 --> Language Class Initialized
+INFO - 2023-08-23 15:46:10 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:10 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:10 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:10 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:46:10 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:10 --> Total execution time: 0.0058
+INFO - 2023-08-23 15:46:11 --> Config Class Initialized
+INFO - 2023-08-23 15:46:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:11 --> URI Class Initialized
+INFO - 2023-08-23 15:46:11 --> Router Class Initialized
+INFO - 2023-08-23 15:46:11 --> Output Class Initialized
+INFO - 2023-08-23 15:46:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:11 --> Input Class Initialized
+INFO - 2023-08-23 15:46:11 --> Language Class Initialized
+INFO - 2023-08-23 15:46:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:11 --> Model "employee" initialized
+INFO - 2023-08-23 15:46:11 --> Config Class Initialized
+INFO - 2023-08-23 15:46:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:11 --> URI Class Initialized
+INFO - 2023-08-23 15:46:11 --> Router Class Initialized
+INFO - 2023-08-23 15:46:11 --> Output Class Initialized
+INFO - 2023-08-23 15:46:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:11 --> Input Class Initialized
+INFO - 2023-08-23 15:46:11 --> Language Class Initialized
+INFO - 2023-08-23 15:46:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:11 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:11 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:11 --> Total execution time: 0.0057
+INFO - 2023-08-23 15:46:11 --> Config Class Initialized
+INFO - 2023-08-23 15:46:11 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:11 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:11 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:11 --> URI Class Initialized
+INFO - 2023-08-23 15:46:11 --> Router Class Initialized
+INFO - 2023-08-23 15:46:11 --> Output Class Initialized
+INFO - 2023-08-23 15:46:11 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:11 --> Input Class Initialized
+INFO - 2023-08-23 15:46:11 --> Language Class Initialized
+INFO - 2023-08-23 15:46:11 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:11 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:11 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:11 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:14 --> Config Class Initialized
+INFO - 2023-08-23 15:46:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:14 --> URI Class Initialized
+INFO - 2023-08-23 15:46:14 --> Router Class Initialized
+INFO - 2023-08-23 15:46:14 --> Output Class Initialized
+INFO - 2023-08-23 15:46:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:14 --> Input Class Initialized
+INFO - 2023-08-23 15:46:14 --> Language Class Initialized
+INFO - 2023-08-23 15:46:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:14 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:14 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:14 --> Total execution time: 0.0065
+INFO - 2023-08-23 15:46:14 --> Config Class Initialized
+INFO - 2023-08-23 15:46:14 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:14 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:14 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:14 --> URI Class Initialized
+INFO - 2023-08-23 15:46:14 --> Router Class Initialized
+INFO - 2023-08-23 15:46:14 --> Output Class Initialized
+INFO - 2023-08-23 15:46:14 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:14 --> Input Class Initialized
+INFO - 2023-08-23 15:46:14 --> Language Class Initialized
+INFO - 2023-08-23 15:46:14 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:14 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:14 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:14 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:15 --> Config Class Initialized
+INFO - 2023-08-23 15:46:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:15 --> URI Class Initialized
+INFO - 2023-08-23 15:46:15 --> Router Class Initialized
+INFO - 2023-08-23 15:46:15 --> Output Class Initialized
+INFO - 2023-08-23 15:46:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:15 --> Input Class Initialized
+INFO - 2023-08-23 15:46:15 --> Language Class Initialized
+INFO - 2023-08-23 15:46:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:15 --> Total execution time: 0.0046
+INFO - 2023-08-23 15:46:15 --> Config Class Initialized
+INFO - 2023-08-23 15:46:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:15 --> URI Class Initialized
+INFO - 2023-08-23 15:46:15 --> Router Class Initialized
+INFO - 2023-08-23 15:46:15 --> Output Class Initialized
+INFO - 2023-08-23 15:46:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:15 --> Input Class Initialized
+INFO - 2023-08-23 15:46:15 --> Language Class Initialized
+INFO - 2023-08-23 15:46:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:15 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:15 --> Config Class Initialized
+INFO - 2023-08-23 15:46:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:15 --> URI Class Initialized
+INFO - 2023-08-23 15:46:15 --> Router Class Initialized
+INFO - 2023-08-23 15:46:15 --> Output Class Initialized
+INFO - 2023-08-23 15:46:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:15 --> Input Class Initialized
+INFO - 2023-08-23 15:46:15 --> Language Class Initialized
+INFO - 2023-08-23 15:46:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:15 --> Total execution time: 0.0060
+INFO - 2023-08-23 15:46:15 --> Config Class Initialized
+INFO - 2023-08-23 15:46:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:15 --> URI Class Initialized
+INFO - 2023-08-23 15:46:15 --> Router Class Initialized
+INFO - 2023-08-23 15:46:15 --> Output Class Initialized
+INFO - 2023-08-23 15:46:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:15 --> Input Class Initialized
+INFO - 2023-08-23 15:46:15 --> Language Class Initialized
+INFO - 2023-08-23 15:46:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:15 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:15 --> Config Class Initialized
+INFO - 2023-08-23 15:46:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:15 --> URI Class Initialized
+INFO - 2023-08-23 15:46:15 --> Router Class Initialized
+INFO - 2023-08-23 15:46:15 --> Output Class Initialized
+INFO - 2023-08-23 15:46:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:15 --> Input Class Initialized
+INFO - 2023-08-23 15:46:15 --> Language Class Initialized
+INFO - 2023-08-23 15:46:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:15 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:46:15 --> Config Class Initialized
+INFO - 2023-08-23 15:46:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:15 --> URI Class Initialized
+INFO - 2023-08-23 15:46:15 --> Router Class Initialized
+INFO - 2023-08-23 15:46:15 --> Output Class Initialized
+INFO - 2023-08-23 15:46:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:15 --> Input Class Initialized
+INFO - 2023-08-23 15:46:15 --> Language Class Initialized
+INFO - 2023-08-23 15:46:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:15 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:15 --> Config Class Initialized
+INFO - 2023-08-23 15:46:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:15 --> URI Class Initialized
+INFO - 2023-08-23 15:46:15 --> Router Class Initialized
+INFO - 2023-08-23 15:46:15 --> Output Class Initialized
+INFO - 2023-08-23 15:46:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:15 --> Input Class Initialized
+INFO - 2023-08-23 15:46:15 --> Language Class Initialized
+INFO - 2023-08-23 15:46:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:15 --> Total execution time: 0.0056
+INFO - 2023-08-23 15:46:15 --> Config Class Initialized
+INFO - 2023-08-23 15:46:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:15 --> URI Class Initialized
+INFO - 2023-08-23 15:46:15 --> Router Class Initialized
+INFO - 2023-08-23 15:46:15 --> Output Class Initialized
+INFO - 2023-08-23 15:46:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:15 --> Input Class Initialized
+INFO - 2023-08-23 15:46:15 --> Language Class Initialized
+INFO - 2023-08-23 15:46:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:15 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:16 --> Config Class Initialized
+INFO - 2023-08-23 15:46:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:16 --> URI Class Initialized
+INFO - 2023-08-23 15:46:16 --> Router Class Initialized
+INFO - 2023-08-23 15:46:16 --> Output Class Initialized
+INFO - 2023-08-23 15:46:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:16 --> Input Class Initialized
+INFO - 2023-08-23 15:46:16 --> Language Class Initialized
+INFO - 2023-08-23 15:46:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:16 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:16 --> Total execution time: 0.0037
+INFO - 2023-08-23 15:46:16 --> Config Class Initialized
+INFO - 2023-08-23 15:46:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:16 --> URI Class Initialized
+INFO - 2023-08-23 15:46:16 --> Router Class Initialized
+INFO - 2023-08-23 15:46:16 --> Output Class Initialized
+INFO - 2023-08-23 15:46:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:16 --> Input Class Initialized
+INFO - 2023-08-23 15:46:16 --> Language Class Initialized
+INFO - 2023-08-23 15:46:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:16 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:16 --> Config Class Initialized
+INFO - 2023-08-23 15:46:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:16 --> URI Class Initialized
+INFO - 2023-08-23 15:46:16 --> Router Class Initialized
+INFO - 2023-08-23 15:46:16 --> Output Class Initialized
+INFO - 2023-08-23 15:46:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:16 --> Input Class Initialized
+INFO - 2023-08-23 15:46:16 --> Language Class Initialized
+INFO - 2023-08-23 15:46:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:16 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:16 --> Total execution time: 0.0037
+INFO - 2023-08-23 15:46:16 --> Config Class Initialized
+INFO - 2023-08-23 15:46:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:16 --> URI Class Initialized
+INFO - 2023-08-23 15:46:16 --> Router Class Initialized
+INFO - 2023-08-23 15:46:16 --> Output Class Initialized
+INFO - 2023-08-23 15:46:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:16 --> Input Class Initialized
+INFO - 2023-08-23 15:46:16 --> Language Class Initialized
+INFO - 2023-08-23 15:46:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:16 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:16 --> Config Class Initialized
+INFO - 2023-08-23 15:46:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:16 --> URI Class Initialized
+INFO - 2023-08-23 15:46:16 --> Router Class Initialized
+INFO - 2023-08-23 15:46:16 --> Output Class Initialized
+INFO - 2023-08-23 15:46:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:16 --> Input Class Initialized
+INFO - 2023-08-23 15:46:16 --> Language Class Initialized
+INFO - 2023-08-23 15:46:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:16 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:16 --> Total execution time: 0.0036
+INFO - 2023-08-23 15:46:16 --> Config Class Initialized
+INFO - 2023-08-23 15:46:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:16 --> URI Class Initialized
+INFO - 2023-08-23 15:46:16 --> Router Class Initialized
+INFO - 2023-08-23 15:46:16 --> Output Class Initialized
+INFO - 2023-08-23 15:46:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:16 --> Input Class Initialized
+INFO - 2023-08-23 15:46:16 --> Language Class Initialized
+INFO - 2023-08-23 15:46:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:16 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:16 --> Config Class Initialized
+INFO - 2023-08-23 15:46:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:16 --> URI Class Initialized
+INFO - 2023-08-23 15:46:16 --> Router Class Initialized
+INFO - 2023-08-23 15:46:16 --> Output Class Initialized
+INFO - 2023-08-23 15:46:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:16 --> Input Class Initialized
+INFO - 2023-08-23 15:46:16 --> Language Class Initialized
+INFO - 2023-08-23 15:46:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:16 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:16 --> Total execution time: 0.0050
+INFO - 2023-08-23 15:46:16 --> Config Class Initialized
+INFO - 2023-08-23 15:46:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:16 --> URI Class Initialized
+INFO - 2023-08-23 15:46:16 --> Router Class Initialized
+INFO - 2023-08-23 15:46:16 --> Output Class Initialized
+INFO - 2023-08-23 15:46:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:16 --> Input Class Initialized
+INFO - 2023-08-23 15:46:16 --> Language Class Initialized
+INFO - 2023-08-23 15:46:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:16 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:16 --> Config Class Initialized
+INFO - 2023-08-23 15:46:16 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:16 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:16 --> URI Class Initialized
+INFO - 2023-08-23 15:46:16 --> Router Class Initialized
+INFO - 2023-08-23 15:46:16 --> Output Class Initialized
+INFO - 2023-08-23 15:46:16 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:16 --> Input Class Initialized
+INFO - 2023-08-23 15:46:16 --> Language Class Initialized
+INFO - 2023-08-23 15:46:16 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:16 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:16 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:16 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:16 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:16 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:46:17 --> Config Class Initialized
+INFO - 2023-08-23 15:46:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:17 --> URI Class Initialized
+INFO - 2023-08-23 15:46:17 --> Router Class Initialized
+INFO - 2023-08-23 15:46:17 --> Output Class Initialized
+INFO - 2023-08-23 15:46:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:17 --> Input Class Initialized
+INFO - 2023-08-23 15:46:17 --> Language Class Initialized
+INFO - 2023-08-23 15:46:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:17 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:17 --> Config Class Initialized
+INFO - 2023-08-23 15:46:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:17 --> URI Class Initialized
+INFO - 2023-08-23 15:46:17 --> Router Class Initialized
+INFO - 2023-08-23 15:46:17 --> Output Class Initialized
+INFO - 2023-08-23 15:46:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:17 --> Input Class Initialized
+INFO - 2023-08-23 15:46:17 --> Language Class Initialized
+INFO - 2023-08-23 15:46:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:17 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:17 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:46:17 --> Config Class Initialized
+INFO - 2023-08-23 15:46:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:17 --> URI Class Initialized
+INFO - 2023-08-23 15:46:17 --> Router Class Initialized
+INFO - 2023-08-23 15:46:17 --> Output Class Initialized
+INFO - 2023-08-23 15:46:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:17 --> Input Class Initialized
+INFO - 2023-08-23 15:46:17 --> Language Class Initialized
+INFO - 2023-08-23 15:46:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:17 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:17 --> Config Class Initialized
+INFO - 2023-08-23 15:46:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:17 --> URI Class Initialized
+INFO - 2023-08-23 15:46:17 --> Router Class Initialized
+INFO - 2023-08-23 15:46:17 --> Output Class Initialized
+INFO - 2023-08-23 15:46:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:17 --> Input Class Initialized
+INFO - 2023-08-23 15:46:17 --> Language Class Initialized
+INFO - 2023-08-23 15:46:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:17 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:17 --> Total execution time: 0.0052
+INFO - 2023-08-23 15:46:17 --> Config Class Initialized
+INFO - 2023-08-23 15:46:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:17 --> URI Class Initialized
+INFO - 2023-08-23 15:46:17 --> Router Class Initialized
+INFO - 2023-08-23 15:46:17 --> Output Class Initialized
+INFO - 2023-08-23 15:46:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:17 --> Input Class Initialized
+INFO - 2023-08-23 15:46:17 --> Language Class Initialized
+INFO - 2023-08-23 15:46:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:17 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:17 --> Config Class Initialized
+INFO - 2023-08-23 15:46:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:17 --> URI Class Initialized
+INFO - 2023-08-23 15:46:17 --> Router Class Initialized
+INFO - 2023-08-23 15:46:17 --> Output Class Initialized
+INFO - 2023-08-23 15:46:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:17 --> Input Class Initialized
+INFO - 2023-08-23 15:46:17 --> Language Class Initialized
+INFO - 2023-08-23 15:46:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:17 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:17 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:46:17 --> Config Class Initialized
+INFO - 2023-08-23 15:46:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:17 --> URI Class Initialized
+INFO - 2023-08-23 15:46:17 --> Router Class Initialized
+INFO - 2023-08-23 15:46:17 --> Output Class Initialized
+INFO - 2023-08-23 15:46:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:17 --> Input Class Initialized
+INFO - 2023-08-23 15:46:17 --> Language Class Initialized
+INFO - 2023-08-23 15:46:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:17 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:17 --> Config Class Initialized
+INFO - 2023-08-23 15:46:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:17 --> URI Class Initialized
+INFO - 2023-08-23 15:46:17 --> Router Class Initialized
+INFO - 2023-08-23 15:46:17 --> Output Class Initialized
+INFO - 2023-08-23 15:46:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:17 --> Input Class Initialized
+INFO - 2023-08-23 15:46:17 --> Language Class Initialized
+INFO - 2023-08-23 15:46:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:17 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:17 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:17 --> Total execution time: 0.0074
+INFO - 2023-08-23 15:46:17 --> Config Class Initialized
+INFO - 2023-08-23 15:46:17 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:17 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:17 --> URI Class Initialized
+INFO - 2023-08-23 15:46:17 --> Router Class Initialized
+INFO - 2023-08-23 15:46:17 --> Output Class Initialized
+INFO - 2023-08-23 15:46:17 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:17 --> Input Class Initialized
+INFO - 2023-08-23 15:46:17 --> Language Class Initialized
+INFO - 2023-08-23 15:46:17 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:17 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:17 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:17 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:18 --> Config Class Initialized
+INFO - 2023-08-23 15:46:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:18 --> URI Class Initialized
+INFO - 2023-08-23 15:46:18 --> Router Class Initialized
+INFO - 2023-08-23 15:46:18 --> Output Class Initialized
+INFO - 2023-08-23 15:46:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:18 --> Input Class Initialized
+INFO - 2023-08-23 15:46:18 --> Language Class Initialized
+INFO - 2023-08-23 15:46:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:18 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:18 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:18 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:46:18 --> Config Class Initialized
+INFO - 2023-08-23 15:46:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:18 --> URI Class Initialized
+INFO - 2023-08-23 15:46:18 --> Router Class Initialized
+INFO - 2023-08-23 15:46:18 --> Output Class Initialized
+INFO - 2023-08-23 15:46:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:18 --> Input Class Initialized
+INFO - 2023-08-23 15:46:18 --> Language Class Initialized
+INFO - 2023-08-23 15:46:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:18 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:18 --> Config Class Initialized
+INFO - 2023-08-23 15:46:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:18 --> URI Class Initialized
+INFO - 2023-08-23 15:46:18 --> Router Class Initialized
+INFO - 2023-08-23 15:46:18 --> Output Class Initialized
+INFO - 2023-08-23 15:46:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:18 --> Input Class Initialized
+INFO - 2023-08-23 15:46:18 --> Language Class Initialized
+INFO - 2023-08-23 15:46:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:18 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:18 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:18 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:46:18 --> Config Class Initialized
+INFO - 2023-08-23 15:46:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:18 --> URI Class Initialized
+INFO - 2023-08-23 15:46:18 --> Router Class Initialized
+INFO - 2023-08-23 15:46:18 --> Output Class Initialized
+INFO - 2023-08-23 15:46:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:18 --> Input Class Initialized
+INFO - 2023-08-23 15:46:18 --> Language Class Initialized
+INFO - 2023-08-23 15:46:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:18 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:46:18 --> Config Class Initialized
+INFO - 2023-08-23 15:46:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:18 --> URI Class Initialized
+INFO - 2023-08-23 15:46:18 --> Router Class Initialized
+INFO - 2023-08-23 15:46:18 --> Output Class Initialized
+INFO - 2023-08-23 15:46:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:18 --> Input Class Initialized
+INFO - 2023-08-23 15:46:18 --> Language Class Initialized
+INFO - 2023-08-23 15:46:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:18 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/sample.php
+INFO - 2023-08-23 15:46:18 --> Final output sent to browser
+DEBUG - 2023-08-23 15:46:18 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:46:18 --> Config Class Initialized
+INFO - 2023-08-23 15:46:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:46:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:46:18 --> URI Class Initialized
+INFO - 2023-08-23 15:46:18 --> Router Class Initialized
+INFO - 2023-08-23 15:46:18 --> Output Class Initialized
+INFO - 2023-08-23 15:46:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:46:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:46:18 --> Input Class Initialized
+INFO - 2023-08-23 15:46:18 --> Language Class Initialized
+INFO - 2023-08-23 15:46:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:46:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:46:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:46:18 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:47:55 --> Config Class Initialized
+INFO - 2023-08-23 15:47:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:47:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:47:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:47:55 --> URI Class Initialized
+INFO - 2023-08-23 15:47:55 --> Router Class Initialized
+INFO - 2023-08-23 15:47:55 --> Output Class Initialized
+INFO - 2023-08-23 15:47:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:47:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:47:55 --> Input Class Initialized
+INFO - 2023-08-23 15:47:55 --> Language Class Initialized
+ERROR - 2023-08-23 15:47:55 --> 404 Page Not Found: Sample/login
+INFO - 2023-08-23 15:47:56 --> Config Class Initialized
+INFO - 2023-08-23 15:47:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:47:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:47:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:47:56 --> URI Class Initialized
+INFO - 2023-08-23 15:47:56 --> Router Class Initialized
+INFO - 2023-08-23 15:47:56 --> Output Class Initialized
+INFO - 2023-08-23 15:47:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:47:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:47:56 --> Input Class Initialized
+INFO - 2023-08-23 15:47:56 --> Language Class Initialized
+ERROR - 2023-08-23 15:47:56 --> 404 Page Not Found: Sample/login
+INFO - 2023-08-23 15:48:02 --> Config Class Initialized
+INFO - 2023-08-23 15:48:02 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:02 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:02 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:02 --> URI Class Initialized
+INFO - 2023-08-23 15:48:02 --> Router Class Initialized
+INFO - 2023-08-23 15:48:02 --> Output Class Initialized
+INFO - 2023-08-23 15:48:02 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:02 --> Input Class Initialized
+INFO - 2023-08-23 15:48:02 --> Language Class Initialized
+INFO - 2023-08-23 15:48:02 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:02 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:02 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:02 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:02 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:02 --> Total execution time: 0.0069
+INFO - 2023-08-23 15:48:04 --> Config Class Initialized
+INFO - 2023-08-23 15:48:04 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:04 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:04 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:04 --> URI Class Initialized
+INFO - 2023-08-23 15:48:04 --> Router Class Initialized
+INFO - 2023-08-23 15:48:04 --> Output Class Initialized
+INFO - 2023-08-23 15:48:04 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:04 --> Input Class Initialized
+INFO - 2023-08-23 15:48:04 --> Language Class Initialized
+INFO - 2023-08-23 15:48:04 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:04 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:04 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:04 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:04 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:04 --> Total execution time: 0.0050
+INFO - 2023-08-23 15:48:06 --> Config Class Initialized
+INFO - 2023-08-23 15:48:06 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:06 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:06 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:06 --> URI Class Initialized
+DEBUG - 2023-08-23 15:48:06 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:48:06 --> Router Class Initialized
+INFO - 2023-08-23 15:48:06 --> Output Class Initialized
+INFO - 2023-08-23 15:48:06 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:06 --> Input Class Initialized
+INFO - 2023-08-23 15:48:06 --> Language Class Initialized
+INFO - 2023-08-23 15:48:06 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:06 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:06 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:06 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:06 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:06 --> Total execution time: 0.0032
+INFO - 2023-08-23 15:48:08 --> Config Class Initialized
+INFO - 2023-08-23 15:48:08 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:08 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:08 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:08 --> URI Class Initialized
+DEBUG - 2023-08-23 15:48:08 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:48:08 --> Router Class Initialized
+INFO - 2023-08-23 15:48:08 --> Output Class Initialized
+INFO - 2023-08-23 15:48:08 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:08 --> Input Class Initialized
+INFO - 2023-08-23 15:48:08 --> Language Class Initialized
+INFO - 2023-08-23 15:48:08 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:08 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:08 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:08 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:08 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:08 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:48:13 --> Config Class Initialized
+INFO - 2023-08-23 15:48:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:13 --> URI Class Initialized
+INFO - 2023-08-23 15:48:13 --> Router Class Initialized
+INFO - 2023-08-23 15:48:13 --> Output Class Initialized
+INFO - 2023-08-23 15:48:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:13 --> Input Class Initialized
+INFO - 2023-08-23 15:48:13 --> Language Class Initialized
+INFO - 2023-08-23 15:48:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:13 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:48:13 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:13 --> Total execution time: 0.0059
+INFO - 2023-08-23 15:48:13 --> Config Class Initialized
+INFO - 2023-08-23 15:48:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:13 --> URI Class Initialized
+INFO - 2023-08-23 15:48:13 --> Router Class Initialized
+INFO - 2023-08-23 15:48:13 --> Output Class Initialized
+INFO - 2023-08-23 15:48:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:13 --> Input Class Initialized
+INFO - 2023-08-23 15:48:13 --> Language Class Initialized
+INFO - 2023-08-23 15:48:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:13 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:48:13 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:13 --> Total execution time: 0.0037
+INFO - 2023-08-23 15:48:13 --> Config Class Initialized
+INFO - 2023-08-23 15:48:13 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:13 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:13 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:13 --> URI Class Initialized
+INFO - 2023-08-23 15:48:13 --> Router Class Initialized
+INFO - 2023-08-23 15:48:13 --> Output Class Initialized
+INFO - 2023-08-23 15:48:13 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:13 --> Input Class Initialized
+INFO - 2023-08-23 15:48:13 --> Language Class Initialized
+INFO - 2023-08-23 15:48:13 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:13 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:13 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:13 --> Model "employee" initialized
+INFO - 2023-08-23 15:48:15 --> Config Class Initialized
+INFO - 2023-08-23 15:48:15 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:15 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:15 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:15 --> URI Class Initialized
+INFO - 2023-08-23 15:48:15 --> Router Class Initialized
+INFO - 2023-08-23 15:48:15 --> Output Class Initialized
+INFO - 2023-08-23 15:48:15 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:15 --> Input Class Initialized
+INFO - 2023-08-23 15:48:15 --> Language Class Initialized
+INFO - 2023-08-23 15:48:15 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:15 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:15 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:15 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:15 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:15 --> Total execution time: 0.0050
+INFO - 2023-08-23 15:48:18 --> Config Class Initialized
+INFO - 2023-08-23 15:48:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:18 --> URI Class Initialized
+INFO - 2023-08-23 15:48:18 --> Router Class Initialized
+INFO - 2023-08-23 15:48:18 --> Output Class Initialized
+INFO - 2023-08-23 15:48:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:18 --> Input Class Initialized
+INFO - 2023-08-23 15:48:18 --> Language Class Initialized
+INFO - 2023-08-23 15:48:18 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:18 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:18 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:18 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:48:18 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:18 --> Total execution time: 0.0060
+INFO - 2023-08-23 15:48:18 --> Config Class Initialized
+INFO - 2023-08-23 15:48:18 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:18 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:18 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:18 --> URI Class Initialized
+INFO - 2023-08-23 15:48:18 --> Router Class Initialized
+INFO - 2023-08-23 15:48:18 --> Output Class Initialized
+INFO - 2023-08-23 15:48:18 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:18 --> Input Class Initialized
+INFO - 2023-08-23 15:48:18 --> Language Class Initialized
+ERROR - 2023-08-23 15:48:18 --> 404 Page Not Found: Sample/login
+INFO - 2023-08-23 15:48:34 --> Config Class Initialized
+INFO - 2023-08-23 15:48:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:34 --> URI Class Initialized
+DEBUG - 2023-08-23 15:48:34 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:48:34 --> Router Class Initialized
+INFO - 2023-08-23 15:48:34 --> Output Class Initialized
+INFO - 2023-08-23 15:48:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:34 --> Input Class Initialized
+INFO - 2023-08-23 15:48:34 --> Language Class Initialized
+INFO - 2023-08-23 15:48:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:34 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:34 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:34 --> Total execution time: 0.0067
+INFO - 2023-08-23 15:48:36 --> Config Class Initialized
+INFO - 2023-08-23 15:48:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:36 --> URI Class Initialized
+INFO - 2023-08-23 15:48:36 --> Router Class Initialized
+INFO - 2023-08-23 15:48:36 --> Output Class Initialized
+INFO - 2023-08-23 15:48:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:36 --> Input Class Initialized
+INFO - 2023-08-23 15:48:36 --> Language Class Initialized
+INFO - 2023-08-23 15:48:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:36 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:48:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:36 --> Total execution time: 0.0088
+INFO - 2023-08-23 15:48:36 --> Config Class Initialized
+INFO - 2023-08-23 15:48:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:36 --> URI Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:48:36 --> Router Class Initialized
+INFO - 2023-08-23 15:48:36 --> Output Class Initialized
+INFO - 2023-08-23 15:48:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:36 --> Input Class Initialized
+INFO - 2023-08-23 15:48:36 --> Language Class Initialized
+INFO - 2023-08-23 15:48:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:36 --> Total execution time: 0.0043
+INFO - 2023-08-23 15:48:36 --> Config Class Initialized
+INFO - 2023-08-23 15:48:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:36 --> URI Class Initialized
+INFO - 2023-08-23 15:48:36 --> Router Class Initialized
+INFO - 2023-08-23 15:48:36 --> Output Class Initialized
+INFO - 2023-08-23 15:48:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:36 --> Input Class Initialized
+INFO - 2023-08-23 15:48:36 --> Language Class Initialized
+INFO - 2023-08-23 15:48:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:36 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:48:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:36 --> Total execution time: 0.0069
+INFO - 2023-08-23 15:48:36 --> Config Class Initialized
+INFO - 2023-08-23 15:48:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:36 --> URI Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:48:36 --> Router Class Initialized
+INFO - 2023-08-23 15:48:36 --> Output Class Initialized
+INFO - 2023-08-23 15:48:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:36 --> Input Class Initialized
+INFO - 2023-08-23 15:48:36 --> Language Class Initialized
+INFO - 2023-08-23 15:48:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:36 --> Total execution time: 0.0041
+INFO - 2023-08-23 15:48:36 --> Config Class Initialized
+INFO - 2023-08-23 15:48:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:36 --> URI Class Initialized
+INFO - 2023-08-23 15:48:36 --> Router Class Initialized
+INFO - 2023-08-23 15:48:36 --> Output Class Initialized
+INFO - 2023-08-23 15:48:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:36 --> Input Class Initialized
+INFO - 2023-08-23 15:48:36 --> Language Class Initialized
+INFO - 2023-08-23 15:48:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:36 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:48:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:36 --> Total execution time: 0.0077
+INFO - 2023-08-23 15:48:36 --> Config Class Initialized
+INFO - 2023-08-23 15:48:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:36 --> URI Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:48:36 --> Router Class Initialized
+INFO - 2023-08-23 15:48:36 --> Output Class Initialized
+INFO - 2023-08-23 15:48:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:36 --> Input Class Initialized
+INFO - 2023-08-23 15:48:36 --> Language Class Initialized
+INFO - 2023-08-23 15:48:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:36 --> Total execution time: 0.0039
+INFO - 2023-08-23 15:48:36 --> Config Class Initialized
+INFO - 2023-08-23 15:48:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:36 --> URI Class Initialized
+INFO - 2023-08-23 15:48:36 --> Router Class Initialized
+INFO - 2023-08-23 15:48:36 --> Output Class Initialized
+INFO - 2023-08-23 15:48:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:36 --> Input Class Initialized
+INFO - 2023-08-23 15:48:36 --> Language Class Initialized
+INFO - 2023-08-23 15:48:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:36 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:48:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:36 --> Total execution time: 0.0046
+INFO - 2023-08-23 15:48:36 --> Config Class Initialized
+INFO - 2023-08-23 15:48:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:36 --> URI Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:48:36 --> Router Class Initialized
+INFO - 2023-08-23 15:48:36 --> Output Class Initialized
+INFO - 2023-08-23 15:48:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:36 --> Input Class Initialized
+INFO - 2023-08-23 15:48:36 --> Language Class Initialized
+INFO - 2023-08-23 15:48:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:36 --> Total execution time: 0.0034
+INFO - 2023-08-23 15:48:45 --> Config Class Initialized
+INFO - 2023-08-23 15:48:45 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:45 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:45 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:45 --> URI Class Initialized
+INFO - 2023-08-23 15:48:45 --> Router Class Initialized
+INFO - 2023-08-23 15:48:45 --> Output Class Initialized
+INFO - 2023-08-23 15:48:45 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:45 --> Input Class Initialized
+INFO - 2023-08-23 15:48:45 --> Language Class Initialized
+INFO - 2023-08-23 15:48:45 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:45 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:45 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:45 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:48:45 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:45 --> Total execution time: 0.0079
+INFO - 2023-08-23 15:48:45 --> Config Class Initialized
+INFO - 2023-08-23 15:48:45 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:48:45 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:48:45 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:48:45 --> URI Class Initialized
+INFO - 2023-08-23 15:48:45 --> Router Class Initialized
+INFO - 2023-08-23 15:48:45 --> Output Class Initialized
+INFO - 2023-08-23 15:48:45 --> Security Class Initialized
+DEBUG - 2023-08-23 15:48:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:48:45 --> Input Class Initialized
+INFO - 2023-08-23 15:48:45 --> Language Class Initialized
+INFO - 2023-08-23 15:48:45 --> Loader Class Initialized
+INFO - 2023-08-23 15:48:45 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:48:45 --> Controller Class Initialized
+INFO - 2023-08-23 15:48:45 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:48:45 --> Final output sent to browser
+DEBUG - 2023-08-23 15:48:45 --> Total execution time: 0.0041
+INFO - 2023-08-23 15:50:23 --> Config Class Initialized
+INFO - 2023-08-23 15:50:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:23 --> URI Class Initialized
+INFO - 2023-08-23 15:50:23 --> Router Class Initialized
+INFO - 2023-08-23 15:50:23 --> Output Class Initialized
+INFO - 2023-08-23 15:50:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:23 --> Input Class Initialized
+INFO - 2023-08-23 15:50:23 --> Language Class Initialized
+INFO - 2023-08-23 15:50:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:23 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:50:23 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:23 --> Total execution time: 0.0096
+INFO - 2023-08-23 15:50:23 --> Config Class Initialized
+INFO - 2023-08-23 15:50:23 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:23 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:23 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:23 --> URI Class Initialized
+DEBUG - 2023-08-23 15:50:23 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:50:23 --> Router Class Initialized
+INFO - 2023-08-23 15:50:23 --> Output Class Initialized
+INFO - 2023-08-23 15:50:23 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:23 --> Input Class Initialized
+INFO - 2023-08-23 15:50:23 --> Language Class Initialized
+INFO - 2023-08-23 15:50:23 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:23 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:23 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:23 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:50:23 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:23 --> Total execution time: 0.0046
+INFO - 2023-08-23 15:50:24 --> Config Class Initialized
+INFO - 2023-08-23 15:50:24 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:24 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:24 --> URI Class Initialized
+INFO - 2023-08-23 15:50:24 --> Router Class Initialized
+INFO - 2023-08-23 15:50:24 --> Output Class Initialized
+INFO - 2023-08-23 15:50:24 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:24 --> Input Class Initialized
+INFO - 2023-08-23 15:50:24 --> Language Class Initialized
+INFO - 2023-08-23 15:50:24 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:24 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:24 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:24 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:50:24 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:24 --> Total execution time: 0.0079
+INFO - 2023-08-23 15:50:24 --> Config Class Initialized
+INFO - 2023-08-23 15:50:24 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:24 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:24 --> URI Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:50:24 --> Router Class Initialized
+INFO - 2023-08-23 15:50:24 --> Output Class Initialized
+INFO - 2023-08-23 15:50:24 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:24 --> Input Class Initialized
+INFO - 2023-08-23 15:50:24 --> Language Class Initialized
+INFO - 2023-08-23 15:50:24 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:24 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:24 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:24 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:50:24 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:24 --> Total execution time: 0.0035
+INFO - 2023-08-23 15:50:24 --> Config Class Initialized
+INFO - 2023-08-23 15:50:24 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:24 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:24 --> URI Class Initialized
+INFO - 2023-08-23 15:50:24 --> Router Class Initialized
+INFO - 2023-08-23 15:50:24 --> Output Class Initialized
+INFO - 2023-08-23 15:50:24 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:24 --> Input Class Initialized
+INFO - 2023-08-23 15:50:24 --> Language Class Initialized
+INFO - 2023-08-23 15:50:24 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:24 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:24 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:24 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:50:24 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:24 --> Total execution time: 0.0080
+INFO - 2023-08-23 15:50:24 --> Config Class Initialized
+INFO - 2023-08-23 15:50:24 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:24 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:24 --> URI Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:50:24 --> Router Class Initialized
+INFO - 2023-08-23 15:50:24 --> Output Class Initialized
+INFO - 2023-08-23 15:50:24 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:24 --> Input Class Initialized
+INFO - 2023-08-23 15:50:24 --> Language Class Initialized
+INFO - 2023-08-23 15:50:24 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:24 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:24 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:24 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:50:24 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:24 --> Total execution time: 0.0051
+INFO - 2023-08-23 15:50:29 --> Config Class Initialized
+INFO - 2023-08-23 15:50:29 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:29 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:29 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:29 --> URI Class Initialized
+INFO - 2023-08-23 15:50:29 --> Router Class Initialized
+INFO - 2023-08-23 15:50:29 --> Output Class Initialized
+INFO - 2023-08-23 15:50:29 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:29 --> Input Class Initialized
+INFO - 2023-08-23 15:50:29 --> Language Class Initialized
+INFO - 2023-08-23 15:50:29 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:29 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:29 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:29 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:50:29 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:29 --> Total execution time: 0.0066
+INFO - 2023-08-23 15:50:29 --> Config Class Initialized
+INFO - 2023-08-23 15:50:29 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:29 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:29 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:29 --> URI Class Initialized
+INFO - 2023-08-23 15:50:29 --> Router Class Initialized
+INFO - 2023-08-23 15:50:29 --> Output Class Initialized
+INFO - 2023-08-23 15:50:29 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:29 --> Input Class Initialized
+INFO - 2023-08-23 15:50:29 --> Language Class Initialized
+INFO - 2023-08-23 15:50:29 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:29 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:29 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:29 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:50:29 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:29 --> Total execution time: 0.0040
+INFO - 2023-08-23 15:50:29 --> Config Class Initialized
+INFO - 2023-08-23 15:50:29 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:29 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:29 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:29 --> URI Class Initialized
+INFO - 2023-08-23 15:50:29 --> Router Class Initialized
+INFO - 2023-08-23 15:50:29 --> Output Class Initialized
+INFO - 2023-08-23 15:50:29 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:29 --> Input Class Initialized
+INFO - 2023-08-23 15:50:29 --> Language Class Initialized
+INFO - 2023-08-23 15:50:29 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:29 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:29 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:29 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:50:38 --> Config Class Initialized
+INFO - 2023-08-23 15:50:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:38 --> URI Class Initialized
+DEBUG - 2023-08-23 15:50:38 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:50:38 --> Router Class Initialized
+INFO - 2023-08-23 15:50:38 --> Output Class Initialized
+INFO - 2023-08-23 15:50:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:38 --> Input Class Initialized
+INFO - 2023-08-23 15:50:38 --> Language Class Initialized
+INFO - 2023-08-23 15:50:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:38 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:50:38 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:38 --> Total execution time: 0.0064
+INFO - 2023-08-23 15:50:43 --> Config Class Initialized
+INFO - 2023-08-23 15:50:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:43 --> URI Class Initialized
+INFO - 2023-08-23 15:50:43 --> Router Class Initialized
+INFO - 2023-08-23 15:50:43 --> Output Class Initialized
+INFO - 2023-08-23 15:50:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:43 --> Input Class Initialized
+INFO - 2023-08-23 15:50:43 --> Language Class Initialized
+INFO - 2023-08-23 15:50:43 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:43 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:43 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:50:43 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:43 --> Total execution time: 0.0069
+INFO - 2023-08-23 15:50:43 --> Config Class Initialized
+INFO - 2023-08-23 15:50:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:43 --> URI Class Initialized
+INFO - 2023-08-23 15:50:43 --> Router Class Initialized
+INFO - 2023-08-23 15:50:43 --> Output Class Initialized
+INFO - 2023-08-23 15:50:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:43 --> Input Class Initialized
+INFO - 2023-08-23 15:50:43 --> Language Class Initialized
+INFO - 2023-08-23 15:50:43 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:43 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:43 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:50:43 --> Final output sent to browser
+DEBUG - 2023-08-23 15:50:43 --> Total execution time: 0.0047
+INFO - 2023-08-23 15:50:43 --> Config Class Initialized
+INFO - 2023-08-23 15:50:43 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:50:43 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:50:43 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:50:43 --> URI Class Initialized
+INFO - 2023-08-23 15:50:43 --> Router Class Initialized
+INFO - 2023-08-23 15:50:43 --> Output Class Initialized
+INFO - 2023-08-23 15:50:43 --> Security Class Initialized
+DEBUG - 2023-08-23 15:50:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:50:43 --> Input Class Initialized
+INFO - 2023-08-23 15:50:43 --> Language Class Initialized
+INFO - 2023-08-23 15:50:43 --> Loader Class Initialized
+INFO - 2023-08-23 15:50:43 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:50:43 --> Controller Class Initialized
+INFO - 2023-08-23 15:50:43 --> Model "employee" initialized
+INFO - 2023-08-23 15:52:49 --> Config Class Initialized
+INFO - 2023-08-23 15:52:49 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:49 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:49 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:49 --> URI Class Initialized
+INFO - 2023-08-23 15:52:49 --> Router Class Initialized
+INFO - 2023-08-23 15:52:49 --> Output Class Initialized
+INFO - 2023-08-23 15:52:49 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:49 --> Input Class Initialized
+INFO - 2023-08-23 15:52:49 --> Language Class Initialized
+INFO - 2023-08-23 15:52:49 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:49 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:49 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:49 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:52:49 --> Final output sent to browser
+DEBUG - 2023-08-23 15:52:49 --> Total execution time: 0.0095
+INFO - 2023-08-23 15:52:49 --> Config Class Initialized
+INFO - 2023-08-23 15:52:49 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:49 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:49 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:49 --> URI Class Initialized
+INFO - 2023-08-23 15:52:49 --> Router Class Initialized
+INFO - 2023-08-23 15:52:49 --> Output Class Initialized
+INFO - 2023-08-23 15:52:49 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:49 --> Input Class Initialized
+INFO - 2023-08-23 15:52:49 --> Language Class Initialized
+INFO - 2023-08-23 15:52:49 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:49 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:49 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:49 --> Model "employee" initialized
+INFO - 2023-08-23 15:52:50 --> Config Class Initialized
+INFO - 2023-08-23 15:52:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:50 --> URI Class Initialized
+INFO - 2023-08-23 15:52:50 --> Router Class Initialized
+INFO - 2023-08-23 15:52:50 --> Output Class Initialized
+INFO - 2023-08-23 15:52:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:50 --> Input Class Initialized
+INFO - 2023-08-23 15:52:50 --> Language Class Initialized
+INFO - 2023-08-23 15:52:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:50 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:52:50 --> Final output sent to browser
+DEBUG - 2023-08-23 15:52:50 --> Total execution time: 0.0064
+INFO - 2023-08-23 15:52:50 --> Config Class Initialized
+INFO - 2023-08-23 15:52:50 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:50 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:50 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:50 --> URI Class Initialized
+INFO - 2023-08-23 15:52:50 --> Router Class Initialized
+INFO - 2023-08-23 15:52:50 --> Output Class Initialized
+INFO - 2023-08-23 15:52:50 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:50 --> Input Class Initialized
+INFO - 2023-08-23 15:52:50 --> Language Class Initialized
+INFO - 2023-08-23 15:52:50 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:50 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:50 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:50 --> Model "employee" initialized
+INFO - 2023-08-23 15:52:51 --> Config Class Initialized
+INFO - 2023-08-23 15:52:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:51 --> URI Class Initialized
+INFO - 2023-08-23 15:52:51 --> Router Class Initialized
+INFO - 2023-08-23 15:52:51 --> Output Class Initialized
+INFO - 2023-08-23 15:52:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:51 --> Input Class Initialized
+INFO - 2023-08-23 15:52:51 --> Language Class Initialized
+INFO - 2023-08-23 15:52:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:51 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:52:51 --> Final output sent to browser
+DEBUG - 2023-08-23 15:52:51 --> Total execution time: 0.0048
+INFO - 2023-08-23 15:52:51 --> Config Class Initialized
+INFO - 2023-08-23 15:52:51 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:51 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:51 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:51 --> URI Class Initialized
+INFO - 2023-08-23 15:52:51 --> Router Class Initialized
+INFO - 2023-08-23 15:52:51 --> Output Class Initialized
+INFO - 2023-08-23 15:52:51 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:51 --> Input Class Initialized
+INFO - 2023-08-23 15:52:51 --> Language Class Initialized
+INFO - 2023-08-23 15:52:51 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:51 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:51 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:51 --> Model "employee" initialized
+INFO - 2023-08-23 15:52:52 --> Config Class Initialized
+INFO - 2023-08-23 15:52:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:52 --> URI Class Initialized
+INFO - 2023-08-23 15:52:52 --> Router Class Initialized
+INFO - 2023-08-23 15:52:52 --> Output Class Initialized
+INFO - 2023-08-23 15:52:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:52 --> Input Class Initialized
+INFO - 2023-08-23 15:52:52 --> Language Class Initialized
+INFO - 2023-08-23 15:52:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:52 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:52:52 --> Final output sent to browser
+DEBUG - 2023-08-23 15:52:52 --> Total execution time: 0.0054
+INFO - 2023-08-23 15:52:52 --> Config Class Initialized
+INFO - 2023-08-23 15:52:52 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:52 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:52 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:52 --> URI Class Initialized
+INFO - 2023-08-23 15:52:52 --> Router Class Initialized
+INFO - 2023-08-23 15:52:52 --> Output Class Initialized
+INFO - 2023-08-23 15:52:52 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:52 --> Input Class Initialized
+INFO - 2023-08-23 15:52:52 --> Language Class Initialized
+INFO - 2023-08-23 15:52:52 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:52 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:52 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:52 --> Model "employee" initialized
+INFO - 2023-08-23 15:52:55 --> Config Class Initialized
+INFO - 2023-08-23 15:52:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:55 --> URI Class Initialized
+INFO - 2023-08-23 15:52:55 --> Router Class Initialized
+INFO - 2023-08-23 15:52:55 --> Output Class Initialized
+INFO - 2023-08-23 15:52:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:55 --> Input Class Initialized
+INFO - 2023-08-23 15:52:55 --> Language Class Initialized
+INFO - 2023-08-23 15:52:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:52:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:52:55 --> Total execution time: 0.0061
+INFO - 2023-08-23 15:52:55 --> Config Class Initialized
+INFO - 2023-08-23 15:52:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:55 --> URI Class Initialized
+INFO - 2023-08-23 15:52:55 --> Router Class Initialized
+INFO - 2023-08-23 15:52:55 --> Output Class Initialized
+INFO - 2023-08-23 15:52:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:55 --> Input Class Initialized
+INFO - 2023-08-23 15:52:55 --> Language Class Initialized
+INFO - 2023-08-23 15:52:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:55 --> Model "employee" initialized
+INFO - 2023-08-23 15:52:56 --> Config Class Initialized
+INFO - 2023-08-23 15:52:56 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:52:56 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:52:56 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:52:56 --> URI Class Initialized
+INFO - 2023-08-23 15:52:56 --> Router Class Initialized
+INFO - 2023-08-23 15:52:56 --> Output Class Initialized
+INFO - 2023-08-23 15:52:56 --> Security Class Initialized
+DEBUG - 2023-08-23 15:52:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:52:56 --> Input Class Initialized
+INFO - 2023-08-23 15:52:56 --> Language Class Initialized
+INFO - 2023-08-23 15:52:56 --> Loader Class Initialized
+INFO - 2023-08-23 15:52:56 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:52:56 --> Controller Class Initialized
+INFO - 2023-08-23 15:52:56 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:52:56 --> Final output sent to browser
+DEBUG - 2023-08-23 15:52:56 --> Total execution time: 0.0041
+INFO - 2023-08-23 15:53:03 --> Config Class Initialized
+INFO - 2023-08-23 15:53:03 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:03 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:03 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:03 --> URI Class Initialized
+INFO - 2023-08-23 15:53:03 --> Router Class Initialized
+INFO - 2023-08-23 15:53:03 --> Output Class Initialized
+INFO - 2023-08-23 15:53:03 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:03 --> Input Class Initialized
+INFO - 2023-08-23 15:53:03 --> Language Class Initialized
+INFO - 2023-08-23 15:53:03 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:03 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:03 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:03 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:03 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:03 --> Total execution time: 0.0085
+INFO - 2023-08-23 15:53:03 --> Config Class Initialized
+INFO - 2023-08-23 15:53:03 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:03 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:03 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:03 --> URI Class Initialized
+INFO - 2023-08-23 15:53:03 --> Router Class Initialized
+INFO - 2023-08-23 15:53:03 --> Output Class Initialized
+INFO - 2023-08-23 15:53:03 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:03 --> Input Class Initialized
+INFO - 2023-08-23 15:53:03 --> Language Class Initialized
+INFO - 2023-08-23 15:53:03 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:03 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:03 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:03 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:03 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:03 --> Total execution time: 0.0038
+INFO - 2023-08-23 15:53:03 --> Config Class Initialized
+INFO - 2023-08-23 15:53:03 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:03 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:03 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:03 --> URI Class Initialized
+INFO - 2023-08-23 15:53:03 --> Router Class Initialized
+INFO - 2023-08-23 15:53:03 --> Output Class Initialized
+INFO - 2023-08-23 15:53:03 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:03 --> Input Class Initialized
+INFO - 2023-08-23 15:53:03 --> Language Class Initialized
+INFO - 2023-08-23 15:53:03 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:03 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:03 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:03 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:04 --> Config Class Initialized
+INFO - 2023-08-23 15:53:04 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:04 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:04 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:04 --> URI Class Initialized
+INFO - 2023-08-23 15:53:04 --> Router Class Initialized
+INFO - 2023-08-23 15:53:04 --> Output Class Initialized
+INFO - 2023-08-23 15:53:04 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:04 --> Input Class Initialized
+INFO - 2023-08-23 15:53:04 --> Language Class Initialized
+INFO - 2023-08-23 15:53:04 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:04 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:04 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:04 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:53:04 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:04 --> Total execution time: 0.0041
+INFO - 2023-08-23 15:53:31 --> Config Class Initialized
+INFO - 2023-08-23 15:53:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:31 --> URI Class Initialized
+INFO - 2023-08-23 15:53:31 --> Router Class Initialized
+INFO - 2023-08-23 15:53:31 --> Output Class Initialized
+INFO - 2023-08-23 15:53:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:31 --> Input Class Initialized
+INFO - 2023-08-23 15:53:31 --> Language Class Initialized
+INFO - 2023-08-23 15:53:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:31 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:31 --> Total execution time: 0.0078
+INFO - 2023-08-23 15:53:31 --> Config Class Initialized
+INFO - 2023-08-23 15:53:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:31 --> URI Class Initialized
+INFO - 2023-08-23 15:53:31 --> Router Class Initialized
+INFO - 2023-08-23 15:53:31 --> Output Class Initialized
+INFO - 2023-08-23 15:53:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:31 --> Input Class Initialized
+INFO - 2023-08-23 15:53:31 --> Language Class Initialized
+INFO - 2023-08-23 15:53:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:31 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:31 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:31 --> Total execution time: 0.0073
+INFO - 2023-08-23 15:53:31 --> Config Class Initialized
+INFO - 2023-08-23 15:53:31 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:31 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:31 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:31 --> URI Class Initialized
+INFO - 2023-08-23 15:53:31 --> Router Class Initialized
+INFO - 2023-08-23 15:53:31 --> Output Class Initialized
+INFO - 2023-08-23 15:53:31 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:31 --> Input Class Initialized
+INFO - 2023-08-23 15:53:31 --> Language Class Initialized
+INFO - 2023-08-23 15:53:31 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:31 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:31 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:31 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:32 --> Config Class Initialized
+INFO - 2023-08-23 15:53:32 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:32 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:32 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:32 --> URI Class Initialized
+INFO - 2023-08-23 15:53:32 --> Router Class Initialized
+INFO - 2023-08-23 15:53:32 --> Output Class Initialized
+INFO - 2023-08-23 15:53:32 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:32 --> Input Class Initialized
+INFO - 2023-08-23 15:53:32 --> Language Class Initialized
+INFO - 2023-08-23 15:53:32 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:32 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:32 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:32 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:32 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:32 --> Total execution time: 0.0071
+INFO - 2023-08-23 15:53:32 --> Config Class Initialized
+INFO - 2023-08-23 15:53:32 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:32 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:32 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:32 --> URI Class Initialized
+INFO - 2023-08-23 15:53:32 --> Router Class Initialized
+INFO - 2023-08-23 15:53:32 --> Output Class Initialized
+INFO - 2023-08-23 15:53:32 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:32 --> Input Class Initialized
+INFO - 2023-08-23 15:53:32 --> Language Class Initialized
+INFO - 2023-08-23 15:53:32 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:32 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:32 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:32 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:33 --> Config Class Initialized
+INFO - 2023-08-23 15:53:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:33 --> URI Class Initialized
+INFO - 2023-08-23 15:53:33 --> Router Class Initialized
+INFO - 2023-08-23 15:53:33 --> Output Class Initialized
+INFO - 2023-08-23 15:53:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:33 --> Input Class Initialized
+INFO - 2023-08-23 15:53:33 --> Language Class Initialized
+INFO - 2023-08-23 15:53:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:33 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:33 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:33 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:33 --> Total execution time: 0.0062
+INFO - 2023-08-23 15:53:33 --> Config Class Initialized
+INFO - 2023-08-23 15:53:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:33 --> URI Class Initialized
+INFO - 2023-08-23 15:53:33 --> Router Class Initialized
+INFO - 2023-08-23 15:53:33 --> Output Class Initialized
+INFO - 2023-08-23 15:53:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:33 --> Input Class Initialized
+INFO - 2023-08-23 15:53:33 --> Language Class Initialized
+INFO - 2023-08-23 15:53:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:33 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:33 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:33 --> Config Class Initialized
+INFO - 2023-08-23 15:53:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:33 --> URI Class Initialized
+INFO - 2023-08-23 15:53:33 --> Router Class Initialized
+INFO - 2023-08-23 15:53:33 --> Output Class Initialized
+INFO - 2023-08-23 15:53:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:33 --> Input Class Initialized
+INFO - 2023-08-23 15:53:33 --> Language Class Initialized
+INFO - 2023-08-23 15:53:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:33 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:33 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:33 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:33 --> Total execution time: 0.0053
+INFO - 2023-08-23 15:53:33 --> Config Class Initialized
+INFO - 2023-08-23 15:53:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:33 --> URI Class Initialized
+INFO - 2023-08-23 15:53:33 --> Router Class Initialized
+INFO - 2023-08-23 15:53:33 --> Output Class Initialized
+INFO - 2023-08-23 15:53:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:33 --> Input Class Initialized
+INFO - 2023-08-23 15:53:33 --> Language Class Initialized
+INFO - 2023-08-23 15:53:33 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:33 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:33 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:33 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:33 --> Config Class Initialized
+INFO - 2023-08-23 15:53:33 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:33 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:33 --> URI Class Initialized
+INFO - 2023-08-23 15:53:33 --> Router Class Initialized
+INFO - 2023-08-23 15:53:33 --> Output Class Initialized
+INFO - 2023-08-23 15:53:33 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:33 --> Input Class Initialized
+INFO - 2023-08-23 15:53:33 --> Language Class Initialized
+INFO - 2023-08-23 15:53:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:34 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:34 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:34 --> Total execution time: 0.0055
+INFO - 2023-08-23 15:53:34 --> Config Class Initialized
+INFO - 2023-08-23 15:53:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:34 --> URI Class Initialized
+INFO - 2023-08-23 15:53:34 --> Router Class Initialized
+INFO - 2023-08-23 15:53:34 --> Output Class Initialized
+INFO - 2023-08-23 15:53:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:34 --> Input Class Initialized
+INFO - 2023-08-23 15:53:34 --> Language Class Initialized
+INFO - 2023-08-23 15:53:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:34 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:34 --> Config Class Initialized
+INFO - 2023-08-23 15:53:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:34 --> URI Class Initialized
+INFO - 2023-08-23 15:53:34 --> Router Class Initialized
+INFO - 2023-08-23 15:53:34 --> Output Class Initialized
+INFO - 2023-08-23 15:53:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:34 --> Input Class Initialized
+INFO - 2023-08-23 15:53:34 --> Language Class Initialized
+INFO - 2023-08-23 15:53:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:34 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:34 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:34 --> Total execution time: 0.0044
+INFO - 2023-08-23 15:53:34 --> Config Class Initialized
+INFO - 2023-08-23 15:53:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:34 --> URI Class Initialized
+INFO - 2023-08-23 15:53:34 --> Router Class Initialized
+INFO - 2023-08-23 15:53:34 --> Output Class Initialized
+INFO - 2023-08-23 15:53:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:34 --> Input Class Initialized
+INFO - 2023-08-23 15:53:34 --> Language Class Initialized
+INFO - 2023-08-23 15:53:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:34 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:34 --> Config Class Initialized
+INFO - 2023-08-23 15:53:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:34 --> URI Class Initialized
+INFO - 2023-08-23 15:53:34 --> Router Class Initialized
+INFO - 2023-08-23 15:53:34 --> Output Class Initialized
+INFO - 2023-08-23 15:53:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:34 --> Input Class Initialized
+INFO - 2023-08-23 15:53:34 --> Language Class Initialized
+INFO - 2023-08-23 15:53:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:34 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:34 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:34 --> Total execution time: 0.0053
+INFO - 2023-08-23 15:53:34 --> Config Class Initialized
+INFO - 2023-08-23 15:53:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:34 --> URI Class Initialized
+INFO - 2023-08-23 15:53:34 --> Router Class Initialized
+INFO - 2023-08-23 15:53:34 --> Output Class Initialized
+INFO - 2023-08-23 15:53:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:34 --> Input Class Initialized
+INFO - 2023-08-23 15:53:34 --> Language Class Initialized
+INFO - 2023-08-23 15:53:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:34 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:34 --> Config Class Initialized
+INFO - 2023-08-23 15:53:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:34 --> URI Class Initialized
+INFO - 2023-08-23 15:53:34 --> Router Class Initialized
+INFO - 2023-08-23 15:53:34 --> Output Class Initialized
+INFO - 2023-08-23 15:53:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:34 --> Input Class Initialized
+INFO - 2023-08-23 15:53:34 --> Language Class Initialized
+INFO - 2023-08-23 15:53:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:34 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:34 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:34 --> Total execution time: 0.0037
+INFO - 2023-08-23 15:53:34 --> Config Class Initialized
+INFO - 2023-08-23 15:53:34 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:34 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:34 --> URI Class Initialized
+INFO - 2023-08-23 15:53:34 --> Router Class Initialized
+INFO - 2023-08-23 15:53:34 --> Output Class Initialized
+INFO - 2023-08-23 15:53:34 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:34 --> Input Class Initialized
+INFO - 2023-08-23 15:53:34 --> Language Class Initialized
+INFO - 2023-08-23 15:53:34 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:34 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:34 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:34 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:35 --> Config Class Initialized
+INFO - 2023-08-23 15:53:35 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:35 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:35 --> URI Class Initialized
+INFO - 2023-08-23 15:53:35 --> Router Class Initialized
+INFO - 2023-08-23 15:53:35 --> Output Class Initialized
+INFO - 2023-08-23 15:53:35 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:35 --> Input Class Initialized
+INFO - 2023-08-23 15:53:35 --> Language Class Initialized
+INFO - 2023-08-23 15:53:35 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:35 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:35 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:35 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:35 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:35 --> Total execution time: 0.0056
+INFO - 2023-08-23 15:53:35 --> Config Class Initialized
+INFO - 2023-08-23 15:53:35 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:35 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:35 --> URI Class Initialized
+INFO - 2023-08-23 15:53:35 --> Router Class Initialized
+INFO - 2023-08-23 15:53:35 --> Output Class Initialized
+INFO - 2023-08-23 15:53:35 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:35 --> Input Class Initialized
+INFO - 2023-08-23 15:53:35 --> Language Class Initialized
+INFO - 2023-08-23 15:53:35 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:35 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:35 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:35 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:35 --> Config Class Initialized
+INFO - 2023-08-23 15:53:35 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:35 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:35 --> URI Class Initialized
+INFO - 2023-08-23 15:53:35 --> Router Class Initialized
+INFO - 2023-08-23 15:53:35 --> Output Class Initialized
+INFO - 2023-08-23 15:53:35 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:35 --> Input Class Initialized
+INFO - 2023-08-23 15:53:35 --> Language Class Initialized
+INFO - 2023-08-23 15:53:35 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:35 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:35 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:35 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:35 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:35 --> Total execution time: 0.0050
+INFO - 2023-08-23 15:53:35 --> Config Class Initialized
+INFO - 2023-08-23 15:53:35 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:35 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:35 --> URI Class Initialized
+INFO - 2023-08-23 15:53:35 --> Router Class Initialized
+INFO - 2023-08-23 15:53:35 --> Output Class Initialized
+INFO - 2023-08-23 15:53:35 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:35 --> Input Class Initialized
+INFO - 2023-08-23 15:53:35 --> Language Class Initialized
+INFO - 2023-08-23 15:53:35 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:35 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:35 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:35 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:35 --> Config Class Initialized
+INFO - 2023-08-23 15:53:35 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:35 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:35 --> URI Class Initialized
+INFO - 2023-08-23 15:53:35 --> Router Class Initialized
+INFO - 2023-08-23 15:53:35 --> Output Class Initialized
+INFO - 2023-08-23 15:53:35 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:35 --> Input Class Initialized
+INFO - 2023-08-23 15:53:35 --> Language Class Initialized
+INFO - 2023-08-23 15:53:35 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:35 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:35 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:35 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:35 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:35 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:53:36 --> Config Class Initialized
+INFO - 2023-08-23 15:53:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:36 --> URI Class Initialized
+INFO - 2023-08-23 15:53:36 --> Router Class Initialized
+INFO - 2023-08-23 15:53:36 --> Output Class Initialized
+INFO - 2023-08-23 15:53:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:36 --> Input Class Initialized
+INFO - 2023-08-23 15:53:36 --> Language Class Initialized
+INFO - 2023-08-23 15:53:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:36 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:36 --> Config Class Initialized
+INFO - 2023-08-23 15:53:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:36 --> URI Class Initialized
+INFO - 2023-08-23 15:53:36 --> Router Class Initialized
+INFO - 2023-08-23 15:53:36 --> Output Class Initialized
+INFO - 2023-08-23 15:53:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:36 --> Input Class Initialized
+INFO - 2023-08-23 15:53:36 --> Language Class Initialized
+INFO - 2023-08-23 15:53:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:36 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:53:36 --> Config Class Initialized
+INFO - 2023-08-23 15:53:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:36 --> URI Class Initialized
+INFO - 2023-08-23 15:53:36 --> Router Class Initialized
+INFO - 2023-08-23 15:53:36 --> Output Class Initialized
+INFO - 2023-08-23 15:53:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:36 --> Input Class Initialized
+INFO - 2023-08-23 15:53:36 --> Language Class Initialized
+INFO - 2023-08-23 15:53:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:36 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:36 --> Config Class Initialized
+INFO - 2023-08-23 15:53:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:36 --> URI Class Initialized
+INFO - 2023-08-23 15:53:36 --> Router Class Initialized
+INFO - 2023-08-23 15:53:36 --> Output Class Initialized
+INFO - 2023-08-23 15:53:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:36 --> Input Class Initialized
+INFO - 2023-08-23 15:53:36 --> Language Class Initialized
+INFO - 2023-08-23 15:53:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:36 --> Total execution time: 0.0063
+INFO - 2023-08-23 15:53:36 --> Config Class Initialized
+INFO - 2023-08-23 15:53:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:36 --> URI Class Initialized
+INFO - 2023-08-23 15:53:36 --> Router Class Initialized
+INFO - 2023-08-23 15:53:36 --> Output Class Initialized
+INFO - 2023-08-23 15:53:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:36 --> Input Class Initialized
+INFO - 2023-08-23 15:53:36 --> Language Class Initialized
+INFO - 2023-08-23 15:53:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:36 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:36 --> Config Class Initialized
+INFO - 2023-08-23 15:53:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:36 --> URI Class Initialized
+INFO - 2023-08-23 15:53:36 --> Router Class Initialized
+INFO - 2023-08-23 15:53:36 --> Output Class Initialized
+INFO - 2023-08-23 15:53:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:36 --> Input Class Initialized
+INFO - 2023-08-23 15:53:36 --> Language Class Initialized
+INFO - 2023-08-23 15:53:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:36 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:36 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:36 --> Total execution time: 0.0055
+INFO - 2023-08-23 15:53:36 --> Config Class Initialized
+INFO - 2023-08-23 15:53:36 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:36 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:36 --> URI Class Initialized
+INFO - 2023-08-23 15:53:36 --> Router Class Initialized
+INFO - 2023-08-23 15:53:36 --> Output Class Initialized
+INFO - 2023-08-23 15:53:36 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:36 --> Input Class Initialized
+INFO - 2023-08-23 15:53:36 --> Language Class Initialized
+INFO - 2023-08-23 15:53:36 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:36 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:36 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:36 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:37 --> Total execution time: 0.0049
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:37 --> Total execution time: 0.0059
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/employee.php
+INFO - 2023-08-23 15:53:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:37 --> Total execution time: 0.0029
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> Model "employee" initialized
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:37 --> Total execution time: 0.0043
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:37 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:37 --> Total execution time: 0.0045
+INFO - 2023-08-23 15:53:37 --> Config Class Initialized
+INFO - 2023-08-23 15:53:37 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:37 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:37 --> URI Class Initialized
+INFO - 2023-08-23 15:53:37 --> Router Class Initialized
+INFO - 2023-08-23 15:53:37 --> Output Class Initialized
+INFO - 2023-08-23 15:53:37 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:37 --> Input Class Initialized
+INFO - 2023-08-23 15:53:37 --> Language Class Initialized
+INFO - 2023-08-23 15:53:37 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:37 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:37 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:37 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:38 --> Config Class Initialized
+INFO - 2023-08-23 15:53:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:38 --> URI Class Initialized
+INFO - 2023-08-23 15:53:38 --> Router Class Initialized
+INFO - 2023-08-23 15:53:38 --> Output Class Initialized
+INFO - 2023-08-23 15:53:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:38 --> Input Class Initialized
+INFO - 2023-08-23 15:53:38 --> Language Class Initialized
+INFO - 2023-08-23 15:53:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:38 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:38 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:38 --> Total execution time: 0.0050
+INFO - 2023-08-23 15:53:38 --> Config Class Initialized
+INFO - 2023-08-23 15:53:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:38 --> URI Class Initialized
+INFO - 2023-08-23 15:53:38 --> Router Class Initialized
+INFO - 2023-08-23 15:53:38 --> Output Class Initialized
+INFO - 2023-08-23 15:53:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:38 --> Input Class Initialized
+INFO - 2023-08-23 15:53:38 --> Language Class Initialized
+INFO - 2023-08-23 15:53:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:38 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:53:38 --> Config Class Initialized
+INFO - 2023-08-23 15:53:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:38 --> URI Class Initialized
+INFO - 2023-08-23 15:53:38 --> Router Class Initialized
+INFO - 2023-08-23 15:53:38 --> Output Class Initialized
+INFO - 2023-08-23 15:53:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:38 --> Input Class Initialized
+INFO - 2023-08-23 15:53:38 --> Language Class Initialized
+INFO - 2023-08-23 15:53:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:38 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:53:38 --> Final output sent to browser
+DEBUG - 2023-08-23 15:53:38 --> Total execution time: 0.0049
+INFO - 2023-08-23 15:53:38 --> Config Class Initialized
+INFO - 2023-08-23 15:53:38 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:53:38 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:53:38 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:53:38 --> URI Class Initialized
+INFO - 2023-08-23 15:53:38 --> Router Class Initialized
+INFO - 2023-08-23 15:53:38 --> Output Class Initialized
+INFO - 2023-08-23 15:53:38 --> Security Class Initialized
+DEBUG - 2023-08-23 15:53:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:53:38 --> Input Class Initialized
+INFO - 2023-08-23 15:53:38 --> Language Class Initialized
+INFO - 2023-08-23 15:53:38 --> Loader Class Initialized
+INFO - 2023-08-23 15:53:38 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:53:38 --> Controller Class Initialized
+INFO - 2023-08-23 15:53:38 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:59:41 --> Config Class Initialized
+INFO - 2023-08-23 15:59:41 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:59:41 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:59:41 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:59:41 --> URI Class Initialized
+INFO - 2023-08-23 15:59:41 --> Router Class Initialized
+INFO - 2023-08-23 15:59:41 --> Output Class Initialized
+INFO - 2023-08-23 15:59:41 --> Security Class Initialized
+DEBUG - 2023-08-23 15:59:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:59:41 --> Input Class Initialized
+INFO - 2023-08-23 15:59:41 --> Language Class Initialized
+INFO - 2023-08-23 15:59:41 --> Loader Class Initialized
+INFO - 2023-08-23 15:59:41 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:59:41 --> Controller Class Initialized
+INFO - 2023-08-23 15:59:41 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:59:41 --> Final output sent to browser
+DEBUG - 2023-08-23 15:59:41 --> Total execution time: 0.0118
+INFO - 2023-08-23 15:59:41 --> Config Class Initialized
+INFO - 2023-08-23 15:59:41 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:59:41 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:59:41 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:59:41 --> URI Class Initialized
+INFO - 2023-08-23 15:59:41 --> Router Class Initialized
+INFO - 2023-08-23 15:59:41 --> Output Class Initialized
+INFO - 2023-08-23 15:59:41 --> Security Class Initialized
+DEBUG - 2023-08-23 15:59:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:59:41 --> Input Class Initialized
+INFO - 2023-08-23 15:59:41 --> Language Class Initialized
+INFO - 2023-08-23 15:59:41 --> Loader Class Initialized
+INFO - 2023-08-23 15:59:41 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:59:41 --> Controller Class Initialized
+INFO - 2023-08-23 15:59:41 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:59:45 --> Config Class Initialized
+INFO - 2023-08-23 15:59:45 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:59:45 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:59:45 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:59:45 --> URI Class Initialized
+INFO - 2023-08-23 15:59:45 --> Router Class Initialized
+INFO - 2023-08-23 15:59:45 --> Output Class Initialized
+INFO - 2023-08-23 15:59:45 --> Security Class Initialized
+DEBUG - 2023-08-23 15:59:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:59:45 --> Input Class Initialized
+INFO - 2023-08-23 15:59:45 --> Language Class Initialized
+INFO - 2023-08-23 15:59:45 --> Loader Class Initialized
+INFO - 2023-08-23 15:59:45 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:59:45 --> Controller Class Initialized
+INFO - 2023-08-23 15:59:45 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 15:59:45 --> Final output sent to browser
+DEBUG - 2023-08-23 15:59:45 --> Total execution time: 0.0055
+INFO - 2023-08-23 15:59:45 --> Config Class Initialized
+INFO - 2023-08-23 15:59:45 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:59:45 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:59:45 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:59:45 --> URI Class Initialized
+INFO - 2023-08-23 15:59:45 --> Router Class Initialized
+INFO - 2023-08-23 15:59:45 --> Output Class Initialized
+INFO - 2023-08-23 15:59:45 --> Security Class Initialized
+DEBUG - 2023-08-23 15:59:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:59:45 --> Input Class Initialized
+INFO - 2023-08-23 15:59:45 --> Language Class Initialized
+INFO - 2023-08-23 15:59:45 --> Loader Class Initialized
+INFO - 2023-08-23 15:59:45 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:59:45 --> Controller Class Initialized
+INFO - 2023-08-23 15:59:45 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:59:49 --> Config Class Initialized
+INFO - 2023-08-23 15:59:49 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:59:49 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:59:49 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:59:49 --> URI Class Initialized
+DEBUG - 2023-08-23 15:59:49 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:59:49 --> Router Class Initialized
+INFO - 2023-08-23 15:59:49 --> Output Class Initialized
+INFO - 2023-08-23 15:59:49 --> Security Class Initialized
+DEBUG - 2023-08-23 15:59:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:59:49 --> Input Class Initialized
+INFO - 2023-08-23 15:59:49 --> Language Class Initialized
+INFO - 2023-08-23 15:59:49 --> Loader Class Initialized
+INFO - 2023-08-23 15:59:49 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:59:49 --> Controller Class Initialized
+INFO - 2023-08-23 15:59:49 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:59:49 --> Final output sent to browser
+DEBUG - 2023-08-23 15:59:49 --> Total execution time: 0.0098
+INFO - 2023-08-23 15:59:55 --> Config Class Initialized
+INFO - 2023-08-23 15:59:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:59:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:59:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:59:55 --> URI Class Initialized
+INFO - 2023-08-23 15:59:55 --> Router Class Initialized
+INFO - 2023-08-23 15:59:55 --> Output Class Initialized
+INFO - 2023-08-23 15:59:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:59:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:59:55 --> Input Class Initialized
+INFO - 2023-08-23 15:59:55 --> Language Class Initialized
+INFO - 2023-08-23 15:59:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:59:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:59:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:59:55 --> Model "sample_model" initialized
+INFO - 2023-08-23 15:59:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:59:55 --> Total execution time: 0.0068
+INFO - 2023-08-23 15:59:55 --> Config Class Initialized
+INFO - 2023-08-23 15:59:55 --> Hooks Class Initialized
+DEBUG - 2023-08-23 15:59:55 --> UTF-8 Support Enabled
+INFO - 2023-08-23 15:59:55 --> Utf8 Class Initialized
+INFO - 2023-08-23 15:59:55 --> URI Class Initialized
+DEBUG - 2023-08-23 15:59:55 --> No URI present. Default controller set.
+INFO - 2023-08-23 15:59:55 --> Router Class Initialized
+INFO - 2023-08-23 15:59:55 --> Output Class Initialized
+INFO - 2023-08-23 15:59:55 --> Security Class Initialized
+DEBUG - 2023-08-23 15:59:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 15:59:55 --> Input Class Initialized
+INFO - 2023-08-23 15:59:55 --> Language Class Initialized
+INFO - 2023-08-23 15:59:55 --> Loader Class Initialized
+INFO - 2023-08-23 15:59:55 --> Database Driver Class Initialized
+INFO - 2023-08-23 15:59:55 --> Controller Class Initialized
+INFO - 2023-08-23 15:59:55 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/login.php
+INFO - 2023-08-23 15:59:55 --> Final output sent to browser
+DEBUG - 2023-08-23 15:59:55 --> Total execution time: 0.0048
+INFO - 2023-08-23 16:00:00 --> Config Class Initialized
+INFO - 2023-08-23 16:00:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 16:00:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 16:00:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 16:00:00 --> URI Class Initialized
+INFO - 2023-08-23 16:00:00 --> Router Class Initialized
+INFO - 2023-08-23 16:00:00 --> Output Class Initialized
+INFO - 2023-08-23 16:00:00 --> Security Class Initialized
+DEBUG - 2023-08-23 16:00:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 16:00:00 --> Input Class Initialized
+INFO - 2023-08-23 16:00:00 --> Language Class Initialized
+INFO - 2023-08-23 16:00:00 --> Loader Class Initialized
+INFO - 2023-08-23 16:00:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 16:00:00 --> Controller Class Initialized
+INFO - 2023-08-23 16:00:00 --> Model "sample_model" initialized
+INFO - 2023-08-23 16:00:00 --> Final output sent to browser
+DEBUG - 2023-08-23 16:00:00 --> Total execution time: 0.0081
+INFO - 2023-08-23 16:00:00 --> Config Class Initialized
+INFO - 2023-08-23 16:00:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 16:00:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 16:00:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 16:00:00 --> URI Class Initialized
+INFO - 2023-08-23 16:00:00 --> Router Class Initialized
+INFO - 2023-08-23 16:00:00 --> Output Class Initialized
+INFO - 2023-08-23 16:00:00 --> Security Class Initialized
+DEBUG - 2023-08-23 16:00:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 16:00:00 --> Input Class Initialized
+INFO - 2023-08-23 16:00:00 --> Language Class Initialized
+INFO - 2023-08-23 16:00:00 --> Loader Class Initialized
+INFO - 2023-08-23 16:00:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 16:00:00 --> Controller Class Initialized
+INFO - 2023-08-23 16:00:00 --> File loaded: /Applications/XAMPP/xamppfiles/htdocs/dtr-qrcode-system/application/views/user.php
+INFO - 2023-08-23 16:00:00 --> Final output sent to browser
+DEBUG - 2023-08-23 16:00:00 --> Total execution time: 0.0084
+INFO - 2023-08-23 16:00:00 --> Config Class Initialized
+INFO - 2023-08-23 16:00:00 --> Hooks Class Initialized
+DEBUG - 2023-08-23 16:00:00 --> UTF-8 Support Enabled
+INFO - 2023-08-23 16:00:00 --> Utf8 Class Initialized
+INFO - 2023-08-23 16:00:00 --> URI Class Initialized
+INFO - 2023-08-23 16:00:00 --> Router Class Initialized
+INFO - 2023-08-23 16:00:00 --> Output Class Initialized
+INFO - 2023-08-23 16:00:00 --> Security Class Initialized
+DEBUG - 2023-08-23 16:00:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2023-08-23 16:00:00 --> Input Class Initialized
+INFO - 2023-08-23 16:00:00 --> Language Class Initialized
+INFO - 2023-08-23 16:00:00 --> Loader Class Initialized
+INFO - 2023-08-23 16:00:00 --> Database Driver Class Initialized
+INFO - 2023-08-23 16:00:00 --> Controller Class Initialized
+INFO - 2023-08-23 16:00:00 --> Model "sample_model" initialized

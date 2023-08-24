@@ -32,6 +32,29 @@ class sample_model extends CI_Model {
         return  $query = $this->db->get();
     }
 
+    function authenticate($data){
+
+        $this->db->select('*');
+        $this->db->from('tbluser');
+        $this->db->where('user_name',$data['username']);
+        $this->db->where('user_password', $data['password']);
+        
+        return $query = $this->db->get();
+    }
+
+
+    function userAdd($data){
+
+        $this->db->set('user_name', $data['username']);
+        $this->db->set('user_password', $data['password']);
+        $this->db->set('user_type', $data['userType']);
+        $this->db->set('datetime_added', date("Y-m-d H:i:s"));
+        $this->db->set('datetime_modefied', date("Y-m-d H:i:s"));
+        return $this->db->insert('tbluser');
+    }
+
+
+
 
 
 }

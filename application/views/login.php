@@ -51,23 +51,25 @@
        var username = $("input[name='username']").val();
        var password = $("input[name='password']").val();
 
+      
 
-        $.ajax({
-           url: 'localhost:8002/index.php/sample/authenticate',
-           type: 'POST',
-           data: {username: username, password: password},
-           error: function() {
-              console.log('Something is wrong');
-           },
-           success: function(data) {
-                $("tbody").append("<tr><td>"+username+"</td><td>"+password+"</td></tr>");
-                console.log("Record added successfully");  
-           }
+        $.ajax({  
+        type: "POST",  
+        url:  "http://localhost:8003/index.php/sample/authenticate",  
+        data: {username: username, password: password},   
+        success: function(result){  
+            if(result!=0){  
+                // On success redirect.  
+                console.log(result)
+            window.location.replace(result);  
+            }  
+            else  
+                jQuery("div#err_msg").show();  
+                jQuery("div#msg").html("Login Failed");  
+        }  
         });
 
-
     });
-
 
 </script>
 
